@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: AI
+title: AI Musing
+subtitle: Tony Burlinson
 ---
 
 My name is Tony Burlinson.
