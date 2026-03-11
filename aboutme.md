@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: AI
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tony Burlinson.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I've worked in Technology and Financial Services for 25+ years and seen a lot of transformations: Desktop PCs, E-Mail, World Wide Web, Digital, Big Data and now AI. 
 
-What else do you need?
+They all have common themes and usually end the same way: The transformation jitters at the beginning, no one knows where it's going, it changes the way we live, work and think. Eventually the dust settles, and the technology revolution becomes the business norm. New jobs are created that we could not imagine beforehand. The intial doom of huge job losses evaporates.
 
-### My story
+AI is no different. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The transformation we are seeing now will soon be embedded into our lifes and we will not be able to imagine how we got by without it.
+
+#EmbraceTheChange
+
+
