@@ -2,7 +2,7 @@
 layout: post
 title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
-date_tb: 2025-02-02
+date: 2025-02-02
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
