@@ -12,12 +12,18 @@ They all have common themes and usually end the same way: The transformation jit
 
 Eventually the dust settles and the technology revolution becomes the norm. We expect the benefits to be available however and whenever we need them.
 
-In the intial phases, there a worries about job losses. Then new jobs are created that we could not have imagined. There's more to be done to make sure consumers and business' have there benefits however and whenever they need them.
+In the intial phases there are concerns that society is loosing 'something'. 
 
-AI is likley no different. 
+Then come the worries about job losses. 
 
-The AI transformation we are living through now will soon be embedded into our lifes and we will not be able to imagine how we got by without it.
+AI is likley no different from the technology transformations we have seen before. 
 
-#EmbraceTheChange
+The AI transformation we are living through now will soon be embedded into our lifes and we will not be able to imagine how we got by without AI.
+
+New jobs will be created that we could not have imagined.
+
+The world will be a better place.
+
+**#EmbraceTheChange**
 
 
