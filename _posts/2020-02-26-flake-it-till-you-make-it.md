@@ -3,9 +3,9 @@ layout: post
 title: 'Bad Data Has A New Name '
 subtitle: Hallucination
 date: 2025-01-01
-cover-img: /assets/img/Designer.PNG
+cover-img: /assets/img/Designer.png
 thumbnail-img: /assets/img/Garbage.jpg
-share-img: /assets/img/Designer.PNG
+share-img: /assets/img/Designer.png
 tags:
   - Data
   - AI
