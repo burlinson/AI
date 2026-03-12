@@ -29,7 +29,7 @@ Think of a Finance department at pharmaceutical company. That team might just ne
 
 LLMs provide general intelligence and creativity. SLMs provide precision, control, and efficiency. 
 
-![LLMSLM](/assets/img/LLMsSLMs.png){: .mx-auto.d-block :}
+![LLMSLM](https://burlinson.github.io/AI/img/LLMsSLMs.png){: .mx-auto.d-block :}
 
 
 When LLMs and SLMs are combined, the two create a layered architecture where the LLM handles broad reasoning and the SLM handles specialized tasks.
