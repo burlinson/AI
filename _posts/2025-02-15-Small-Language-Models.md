@@ -11,9 +11,9 @@ mathjax: false
 author: Tony Burlinson
 ---
 
-Almost anyone paying attention to AI has heard about Large Language Models: AI models boasting billions of parameters, giving us snappy answers to almost any question we care to think of, usually within a few seconds.
+Almost anyone paying attention to AI has heard about **Large Language Models**: AI models boasting billions of parameters, giving us snappy answers to almost any question we care to think of, usually within a few seconds.
 
-Small language models (SLMs) are quietly becoming one of the most important innovations in the AI ecosystem. While LLMs grab the headlines, SLMs are quietly solving a set of different and more practical problems.
+**Small Language Models** (SLMs) are quietly becoming one of the most important innovations in the AI ecosystem. While LLMs grab the headlines, SLMs are quietly solving a set of different and more practical problems.
 
 SLMs are AI models designed to run on limited compute power. Sometimes that‘s on a laptop, or perhaps a lightweight cloud environment. Their size isn’t a limitation, it can be a positive advantage. They deliver fast, cost effective AI intelligence without the heavy backend infrastructure or latency of LLMs.
 
@@ -27,21 +27,11 @@ SLMs shine even more when they are paired with retrieval augmented generation (R
 
 Think of a Finance department at pharmaceutical company. That team might just need a SLM that is limited to understanding Finance and Pharmaceuticals. It might be overkill to use a LLM that leverages huge models, with expensive and time consuming compute power, considering every industry and every corporate function. A tailored SLM can likely meet the Finance team’s needs with more precise and quicker answers.  
 
-LLMs provide general intelligence and creativity. SLMs provide precision, control, and efficiency. 
+LLMs provide **general intelligence and creativity**. SLMs provide **precision, control, and efficiency**. 
 
 ![LLMSLM]({{ site.baseurl }}/assets/img/LLMsSLMs.png){: .mx-auto.d-block :}
 
 When LLMs and SLMs are combined, the two create a layered architecture where the LLM handles broad reasoning and the SLM handles specialized tasks.
 
-As we move from exploring the broad possibilities of AI and into more nuanced practical uses, SLMs will likely become just as well known as their LLM brother.
+As we move from exploring the broad possibilities of AI and into more nuanced practical uses, SLMs will likely become just as well known as their big brother LLM.
 
-
-
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
