@@ -1,0 +1,44 @@
+---
+layout: post
+title: Dark Data
+subtitle: The Secret Rocket Fuel of AI
+date: 2025-03-22
+tags:
+  - Dark Data
+  - LLM
+  - RAG
+comments: fasle
+mathjax: false
+author: Tony Burlinson
+---
+
+Companies have mountains of data outside of their core databases: emails, logs, dashboards, calendars, customer interactions, call transcripts, images, PDFs, spreadsheets, IM chats, text messages. The list is endless. 
+
+Almost every firm has mountains and decades of unstructured content that remains untouched, unclassified, and unanalyzed. 
+
+If AI could access that ‘dark data’ it might well transform how a business operates and makes decisons.
+
+For years these mountains of dark data have just not been worth the effort and ROI to embed into a company’s data ecosystem. 
+
+**Large Language Models** and **Retrieval Augmented Generation** have fundamentally changed the value equation. 
+
+In the age of AI, dark data can be processed, analyzed and connected at speed, providing unique insights, leading to a competitive advantage.
+
+AI systems are only as strong as the data they can learn from. When organizations rely solely on their legacey structured and curated databases, they are limiting the intelligence and contextual depth of their AI models. 
+
+Dark data contains the institutional memory of the enterprise. These are the nuances, exceptions and tribal knowledge that structured systems simply cannot capture. 
+
+Unlocking a corporation's dark data allows AI to move beyond generic responses that apply to all companies, and intead deliver unique and insights into how a business is operating in the real world.
+
+AI hallucinations occur when models lack grounding in the real world. By indexing and connecting dark data through vector databases and retrieval pipelines, organizations give AI access to real and meaningful knowledge. 
+
+Companies that are embedding dark data into their AI models are delivering better customer experiences and accelerating corporate decision making. 
+
+Firms that ignore their dark data are falling into the trap of not understanding that AI has busted the old ROI models wide open. 
+
+In its simplest form, the promise of AI is the ability to have an AI model perform the equivalent work of thousands of employees, and do it twenty-four-seven in a fraction of the time.
+
+That baseline promise is going to bust multiple business models that are built on the notion that effort and output cannot exceed the number of employees.  
+
+
+![LLMSLM]({{ site.baseurl }}/assets/img/LLMsSLMs.png){: .mx-auto.d-block :}
