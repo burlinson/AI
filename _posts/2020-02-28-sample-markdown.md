@@ -11,7 +11,7 @@ mathjax: true
 author: Tony Burlinson
 ---
 
-Almost anyone paying attention to AI has heard about Large Language Models: AI models boasting billions of parameters, giving us snappy answers to almost any questions we care to think of.
+Almost anyone paying attention to AI has heard about Large Language Models: AI models boasting billions of parameters, giving us snappy answers to almost any question we care to think of, usually withni a few seconds.
 
 Small language models (SLMs) are quietly becoming one of the most important innovations in the AI ecosystem. While LLMs grab the headlines, SLMs are quietly winning by solving a set of different and more practical problems.
 
