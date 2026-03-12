@@ -3,7 +3,11 @@ layout: post
 title: Small Language Models 
 subtitle: Small Is Better
 date: 2025-02-15
-tags: [test]
+tags:
+  - SLM
+  - LLM
+  - Hallucination
+  - Data Readiness
 comments: fasle
 mathjax: false
 author: Tony Burlinson
@@ -31,15 +35,8 @@ When LLMs and SLMs are combined, the two create a layered architecture where the
 
 As we move from exploring the broad possibilities of AI and into more nuanced practical uses, SLMs will likely become just as well known as their LLM brother.
 
+![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-
-
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
