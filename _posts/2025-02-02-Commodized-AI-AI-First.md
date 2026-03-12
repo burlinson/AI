@@ -2,7 +2,7 @@
 layout: post
 title: 'Commoditized AI'
 subtitle: AI First Comes First
-date: 2025-02-02
+date: 2025-04-13
 cover-img: /assets/img/Designer.png
 thumbnail-img: /assets/img/Garbage.jpg
 share-img: /assets/img/Designer.png
