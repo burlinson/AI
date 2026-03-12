@@ -4,7 +4,7 @@ title: 'Bad Data Has A New Name '
 subtitle: Hallucination
 date: 2025-01-01
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/garbage.jpg
+thumbnail-img: /assets/img/Garbage.jpg
 share-img: /assets/img/path.jpg
 tags:
   - Data
