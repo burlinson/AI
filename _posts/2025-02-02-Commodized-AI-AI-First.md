@@ -29,7 +29,9 @@ Similarly, AI solutions like GPT, Gemini and Claude are incredible at general re
 
 The real AI revolution is happening in a discrete second category: **Strategic AI-First**. These are often 
 [smaller language models]({{ "/2025-02-15-Small-Language-Models/#Small-Language-Models" | relative_url }}), 
-highly specialized, and trained on proprietary "dark data" that forward-thinking firms are building to support their own market niche. These firms are moving from just **_using_** AI, to positioning themselves as **_being_** AI-first businesses.
+highly specialized, and trained on proprietary 
+["dark data"]({{ "/2025-03-22-Dark-Data/#Dark-Data" | relative_url }}) 
+that forward-thinking firms are building to support their own market niche. These firms are moving from just **_using_** AI, to positioning themselves as **_being_** AI-first businesses.
 ``
 
 A global logistics firm doesn't gain an edge by using a chatbot. They gain competitive advantage by building a custom model trained on twenty years of their own proprietary supply chain telemetry, weather patterns, and port latency data. Pharmaceutical firms are mining their vast knowledge of chemistry, molecular models and patient trials data to create new drugs. They are curing diseases that were previously thought to be uncurable. Financial services firms are creating models from an almost infinite well of data and predicting the probability of a "black swan" event days before markets react. 
@@ -42,7 +44,7 @@ Small and nimble AI-First start-ups are helping corporations build their AI inte
 
 These nimble start-ups are positioned to become the AI powerhouses of the next decade. They are likely not well known today, operating under the radar, and owned by venture capital firms. 
 
-They are deliberately not playing in the commoditized AI solutions space, where there will inevitably be a race to the bottom on pricing followed by meta data sales. (Advertisers are alredy licking thier chops at the tought of accessing your prompt history.)  
+They are deliberately not playing in the commoditized AI solutions space, where there will inevitably be a race to the bottom on pricing followed by meta data sales. (Advertisers are alredy licking thier chops at the thought of accessing your prompt history.)  
 
 These small nimble AI First firms are creating unique AI solutions, mining proprietary datasets, fine tuning RAG, levaraging Small Language Models, enabling large corporations to create robust competitive moats. Their specialized AI solutions will be highly sought after in the future and likely at a huge premium. 
 
