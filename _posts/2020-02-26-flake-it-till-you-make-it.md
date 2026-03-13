@@ -4,7 +4,7 @@ title: 'Bad Data Has A New Name '
 subtitle: Hallucination
 date: 2025-01-01
 cover-img: /assets/img/Designer.png
-thumbnail-img: /assets/img/Garbage.jpg
+thumbnail-img: /assets/img/Trash.png
 share-img: /assets/img/Designer.png
 tags:
   - Data
@@ -25,6 +25,6 @@ Firms that want to take advantage of the phenomenal benefits of AI need to focus
 
 Smart firms are focusing on AI-ready data pipelines that leverage models to scrub, tag, and structure their data. If enterprise data isn't structured for retrieval-augmented generation (RAG), AI models simply become confident liars, creating deeper garbage dumps on top of one another.
 
-2025 should be about building the data foundation for AI, not shopping for curtains in the AI penthouse.
+2025 should be about building the data foundation for AI, not shopping for jacuzzis in the AI penthouse.
 
 That comes later… and it will be spectacular!
