@@ -27,7 +27,9 @@ The only question left for commoditized AI solutions is not **if** firms will us
 
 Similarly, AI solutions like GPT, Gemini and Claude are incredible at general reasoning, summarization, and coding. However, every firm can buy the exact same API access for roughly the same price. These models, while amazing at what they do, offer limited long-term competitive advantage.
 
-The real AI revolution is happening in a discrete second category: **Strategic AI-First**. These are often smaller language models, highly specialized, and trained on proprietary "dark data" that forward-thinking firms are building to support their own market niche. These firms are moving from just **_using_** AI, to positioning themselves as **_being_** AI-first businesses.
+The real AI revolution is happening in a discrete second category: **Strategic AI-First**. These are often 
+[smaller language models]({% post_url 2025-02-15-Small-Language-Models %}#smaller language models
+, highly specialized, and trained on proprietary "dark data" that forward-thinking firms are building to support their own market niche. These firms are moving from just **_using_** AI, to positioning themselves as **_being_** AI-first businesses.
 
 A global logistics firm doesn't gain an edge by using a chatbot. They gain competitive advantage by building a custom model trained on twenty years of their own proprietary supply chain telemetry, weather patterns, and port latency data. Pharmaceutical firms are mining their vast knowledge of chemistry, molecular models and patient trials data to create new drugs. They are curing diseases that were previously thought to be uncurable. Financial services firms are creating models from an almost infinite well of data and predicting the probability of a "black swan" event days before markets react. 
 
