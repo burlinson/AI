@@ -36,7 +36,7 @@ to support their market niche. These firms are moving from just **_using_** AI, 
 
 A global logistics firm doesn't gain an edge by using a chatbot. They gain competitive advantage by building a custom model trained on twenty years of their own proprietary supply chain telemetry, weather patterns, and port latency data. Pharmaceutical firms are mining their vast knowledge of chemistry, molecular models and patient trials data to create new drugs. They are curing diseases that were previously thought to be uncurable. 
 
-These radical shifts in business models aren’t commodity driven. Firms that are truly AI-First are rapidly building **intellectual property moats**. These firms are positioned to prosper in the coming years from the AI revolution. The AI-First Revolution will separate the firms doing commoditized ‘AI stuff’ from the firms that are using AI to create entirely new business models and along with new product lines. 
+These radical shifts in business models aren’t commodity driven. Firms that are truly AI-First are rapidly building **intellectual property moats**. These firms are positioned to prosper in the coming years from the AI revolution. The AI-First Revolution will separate the firms doing commoditized ‘AI stuff’ from the firms that are using AI to create entirely new business models and even new product lines. 
 
 ![Moat]({{ site.baseurl }}/assets/img/Moat.png){: .mx-auto.d-block :}
 
