@@ -30,7 +30,7 @@ Similarly, AI solutions like GPT, Gemini and Claude are incredible at general re
 The real AI revolution is happening in a discrete second category: **Strategic AI-First**. These are often 
 [smaller language models]({{ "/2025-02-15-Small-Language-Models/#Small-Language-Models" | relative_url }}), 
 highly specialized, and trained on proprietary 
-["dark data"]({{ "/2025-03-22-Dark-Data/#Dark-Data" | relative_url }}) 
+[dark data]({{ "/2025-03-22-Dark-Data/#dark-data" | relative_url }}) 
 that forward-thinking firms are building to support their own market niche. These firms are moving from just **_using_** AI, to positioning themselves as **_being_** AI-first businesses.
 ``
 
