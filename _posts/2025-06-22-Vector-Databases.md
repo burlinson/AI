@@ -12,7 +12,7 @@ mathjax: false
 author: Tony Burlinson
 ---
 
-Vector databases are a critical component of modern AI architecture. Yet they’re often pushed into the background, overshadowed by Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
+Vector databases are a critical component of modern AI architecture, mimicking human memory. Yet they’re often pushed into the background, overshadowed by Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
 
 Instead of organizing data in rows and columns, vector databases represent information as mathematical vectors. This is fundamentally different from traditional databases, where data is stored in two dimensional tables.
 
