@@ -2,7 +2,7 @@
 layout: post
 title: 'Will AI Ever Achieve Consciousness?'
 subtitle: The Moment Machines Feel Emotions, Do They Then Deserve Rights?
-date: 2025-07-26
+date: 2025-10-18
 cover-img: /assets/img/Designer.png
 thumbnail-img: /assets/img/Truck2.png
 share-img: /assets/img/Designer.png
