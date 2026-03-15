@@ -2,7 +2,7 @@
 layout: post
 title: 'Bad Data Has A New Name '
 subtitle: Hallucination
-date: 2025-01-01
+date: 2025-01-12
 cover-img: /assets/img/Designer.png
 thumbnail-img: /assets/img/Trash.png
 share-img: /assets/img/Designer.png
