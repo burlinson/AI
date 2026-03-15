@@ -2,7 +2,7 @@
 layout: post
 title: 'Retrieval Pipelines'
 subtitle: The Secret Sauce For AI Platforms 
-date: 2026-01-11
+date: 2026-03-15
 cover-img: /assets/img/Designer.png
 thumbnail-img: /assets/img/Truck2.png
 share-img: /assets/img/Designer.png
