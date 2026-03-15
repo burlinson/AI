@@ -5,6 +5,7 @@ subtitle: Organic Brains v Mathematical AI Models
 date: 2025-06-22
 tags:
   - Vector Databases
+  -  - Embeddings
   - LLMs
   - RAG
 comments: fasle
