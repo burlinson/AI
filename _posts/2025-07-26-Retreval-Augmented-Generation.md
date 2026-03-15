@@ -13,7 +13,7 @@ tags:
   - Multi-Modal
   - Agentic AI
   - Semantic Reasoning
-author: Tony Burlinson
+author: Tony Burlinson 
 ---
 Retrieval Augmented Generation (RAG) has quickly become a critical component of modern AI. While Large Language Models are powerful, they have a fundamental limitation: They can only generate answers based on the information they were trained on.
 
