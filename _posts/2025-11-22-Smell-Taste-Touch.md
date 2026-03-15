@@ -33,7 +33,7 @@ This unlocks dexterity. The ability to handle delicate objects, perform fine‑g
 
 Tactile AI is transforming manufacturing, healthcare, and robotics, enabling machines that can assist with surgery and provide physical care.
 
-AI is on a trajectory to evolving from a system that reads the world to one that senses it. 
+AI is on a trajectory to evolve from a system that reads the world to one that senses it. 
 
 As models integrate smell, taste, and touch with language, vision, and sound, they will develop a multidimensional understanding of reality, similar to our own. In fact, in some cases it might well surpass our own understanding. 
 
