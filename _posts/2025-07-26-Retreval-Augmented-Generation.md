@@ -2,7 +2,7 @@
 layout: post
 title: 'Retrieval Augmented Generation'
 subtitle: Why RAG Matters
-date: 2025-04-13
+date: 2025-07-26
 cover-img: /assets/img/Designer.png
 thumbnail-img: /assets/img/Truck2.png
 share-img: /assets/img/Designer.png
