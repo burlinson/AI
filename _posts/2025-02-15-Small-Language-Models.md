@@ -11,9 +11,9 @@ mathjax: false
 author: Tony Burlinson
 ---
 
-Almost anyone paying attention to AI has heard about **Large Language Models**: AI models boasting billions of parameters, giving us snappy answers to almost any question we care to think of, usually within a few seconds.
+Almost anyone paying attention to AI has heard about **Large Language Models**: AI models boasting billions of parameters, giving us snappy answers to almost any question we care to think of, usually within a few seconds. **Small Language Models** (SLMs) are quietly becoming one of the most important innovations in the AI ecosystem. 
 
-**Small Language Models** (SLMs) are quietly becoming one of the most important innovations in the AI ecosystem. While LLMs grab the headlines, SLMs are quietly solving a set of different and more practical problems.
+While LLMs grab the headlines, SLMs are quietly solving a set of different and more practical problems.
 
 SLMs are AI models designed to run on limited compute power. Sometimes that‘s on a laptop, or perhaps a lightweight cloud environment. Their size isn’t a limitation, it can be a positive advantage. They deliver fast, cost effective AI intelligence without the heavy backend infrastructure or latency of LLMs.
 
