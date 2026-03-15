@@ -2,7 +2,7 @@
 layout: post
 title: The Power of Agentic AI
 subtitle: The End of Passive Software  
-date: 2025-02-22
+date: 2026-02-22
 tags:
   - Agentic AI
   - AI-First
