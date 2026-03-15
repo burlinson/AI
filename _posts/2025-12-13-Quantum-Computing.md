@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Google Announced The First Verifiable Quantum Advantage
-subtitle: A Significant Milestone Computing. A New Era For AI?   
+title: First Verifiable Quantum Advantage
+subtitle: A Significant Milestone For Computing. A New Era For AI?   
 date: 2025-12-13
 tags:
   - Quantum Computing
