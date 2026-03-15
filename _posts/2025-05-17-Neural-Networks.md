@@ -11,9 +11,7 @@ mathjax: false
 author: Tony Burlinson
 ---
 
-Neural networks are models that form the foundation of modern AI. 
-
-They are inspired by the structure of our own human brain: Recognizing patterns, learning, and making split second decisions without being explicitly programmed.
+Neural networks are models that form the foundation of modern AI. They are inspired by the structure of our own human brain: Recognizing patterns, learning, and making split second decisions without being explicitly programmed.
 
 Rather than following a fixed set of rules, neural networks adapt based on experience, allowing them to handle complex and uncertain information. They are flexible and dynamic.
 
