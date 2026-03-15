@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Vector Databases In AI Mimic Human Memory
+title: Vector Databases In AI Mimic Human Memory
 subtitle: Organic Brains v Mathematical AI Models
 date: 2025-06-22
 tags:
