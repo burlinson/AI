@@ -10,7 +10,7 @@ comments: fasle
 mathjax: false
 author: Tony Burlinson
 ---
-Singularity is a theoretical point in the future when AI surpasses human intelligence and then improves itself at an accelerated and uncontrollable rate. Some believe that once this Rubicon has been crossed, AI’s progress would become so rapid that human beings will no longer be able to predict, understand, or control AI. 
+Singularity is a theoretical point in the future when AI surpasses human intelligence and then improves itself at an accelerated and uncontrollable rate. Some believe that once this Rubicon has been crossed, AI’s progress would become so rapid that human beings will no longer be able to control it. 
 
 At the core of the Singularity theory is the idea that AI systems will be capable of redesigning or enhancing their own algorithms, hardware and learning processes. Each improvement makes it more capable of creating the next improvement. This could result in AI rapidly exceeding human cognitive abilities in problem solving, creativity, and decision making.
 
