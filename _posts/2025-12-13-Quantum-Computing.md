@@ -11,7 +11,7 @@ comments: fasle
 mathjax: false
 author: Tony Burlinson
 ---
-On October 22, 2025 Google crossed a threshold that scientists have been chasing for decades: The first verified quantum advantage. Using its 105 qubit Willow processor and a new algorithm called Quantum Echoes, Google completed a simulation in two hours that would take the world’s next fastest supercomputer more than three years. 
+On October 22, 2025 Google crossed a threshold that scientists have been chasing for decades: The first verified quantum advantage. Using its 105 qubit Willow processor and a new algorithm called Quantum Echoes, Google completed a simulation in 2 hours that would take the fastest supercomputer more than 3 years. 
 
 Although that’s an amazing achievement, is not just about speed. Google’s Willow processor represents an entirely new class of computation. 
 
