@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AI is Learning How to Smell, Taste & Touch
-subtitle: AI Is Advancing Way Beyond Text Prompts & Text Answers With Some Graphics 
+title: AI Is Learning How to Smell, Taste & Touch
+subtitle: AI Is Advancing Way Beyond Text Prompts & Then Text Answers With Some Graphics 
 date: 2025-11-22
 tags:
   - Smell
