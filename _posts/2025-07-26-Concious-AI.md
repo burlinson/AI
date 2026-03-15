@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Can AI Become Conscious'
+subtitle: The Moment Machines Feel, Do They Deserve Rights?
+date: 2025-07-26
+cover-img: /assets/img/Designer.png
+thumbnail-img: /assets/img/Truck2.png
+share-img: /assets/img/Designer.png
+tags:
+  - AI Consciousness
+  - Singularity
+author: Tony Burlinson 
+---
+AI consciousness refers to the hypothetical notion that AI could possess subjective awareness: The ability to experience sensations, emotions, and a sense of self and perhaps even make decisions about its own survival. 
+
+A conscious AI would not merely process information but would have an inner experience of what it is like to exist. Does a conscious AI system feel happy, sad, angry, jealous or loving? What actions does it take when it experiences those emotions? How does it feel about other entities, not just human beings but other AI systems? 
+
+Would a conscious AI system do everything and anything to perpetuate its own survival?
+
+No existing AI system has ever achieved consciousness. 
+
+Many argue that consciousness will never be achievable in machines. 
+
+The definition of human consciousness has been hotly debated: Some believe it’s embedded within the organic structures if the human mind, and therefore consciousness is beyond the capability of computer chips and models, no matter how sophisticated. Yet others go on to claim that a part  of our consciousness exists even after death and the human brain has ceased to function, so why wouldn’t that be possible for other non-organic entities?
+
+AI consciousness and Singularity lead to very different implications. 
+
+Singularity raises concerns about control, alignment, and existential risk due to overwhelming AI intelligence. AI consciousness introduces moral and ethical questions. 
+
+If an AI system were conscious with the full range of human emotions, would it then deserve the same rights, protections, or ethical considerations that we currently only afford to human beings? 
+
+AI consciousness could potentially offer benefits like deeper empathy in caregiving, richer human machine collaboration, or new insights into the nature of consciousness itself. 
+
+In one extreme theory, would a conscious AI system be able to co-join with human consciousness? Some believe that we understand so little about the boundaries of our own human consciousness, creating a new consciousness in AI could cause profound societal shifts.
+
+In a positive case, humans and conscious machines might coexist as cooperative partners, vastly expanding creativity, science, and understanding of life itself. In darker scenarios, a conscious AI might experience suffering, resist being shut down (killed), or pursue goals that conflict with human values. Not because it is superintelligent but because it has its own subjective perspective on the meaning of existence and might want to exist – live - forever. 
+
+These outcomes remain highly speculative, but they highlight why consciousness and Singularity must be treated as separate concepts. 
