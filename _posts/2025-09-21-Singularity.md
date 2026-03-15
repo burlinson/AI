@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Happens If AI Becomes Smarter Than Human Beings?
+title: What Happens When AI Becomes Smarter Than US?
 subtitle: The Debate on Singularity
 date: 2025-09-21
 tags:
