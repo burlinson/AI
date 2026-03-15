@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What If AI Becomes Smarter Than US?
+title: What If AI Becomes Smarter Than Humans?
 subtitle: The Debate on Singularity
 date: 2025-09-21
 tags:
