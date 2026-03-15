@@ -1,7 +1,9 @@
+
+---
 layout: post
 title: 'Retrieval Augmented Generation'
 subtitle: Why RAG Matters
-date: 2025-07-26
+date: 2025-04-13
 cover-img: /assets/img/Designer.png
 thumbnail-img: /assets/img/Truck2.png
 share-img: /assets/img/Designer.png
@@ -14,9 +16,7 @@ tags:
   - Semantic Reasoning
 author: Tony Burlinson
 ---
-Retrieval Augmented Generation (RAG) has quickly become a critical component of modern AI. 
-
-While Large Language Models are powerful, they have a fundamental limitation: They can only generate answers based on the information they were trained on.
+Retrieval Augmented Generation (RAG) has quickly become a critical component of modern AI. While Large Language Models are powerful, they have a fundamental limitation: They can only generate answers based on the information they were trained on.
 
 At its core, RAG gives AI access to external knowledge to improve accuracy.
 
