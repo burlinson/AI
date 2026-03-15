@@ -2,7 +2,7 @@
 layout: post
 title: Synthetic Data
 subtitle: The Rise of Synthetic Data 
-date: 2025-03-07
+date: 2026-03-07
 tags:
   - Synthetic Data
   - AI
