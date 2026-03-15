@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will AI Ever Be Smarted Than Humans
+title: Will AI Ever Be Smarter Than Humans
 subtitle: The Debate on Singularity
 date: 2025-09-21
 tags:
