@@ -11,7 +11,6 @@ tags:
   - AI
   - Hallucination
   - Data Readiness
-  - AI First
 author: Tony Burlinson
 ---
 The phrase "_garbage in, garbage out_" has been around for decades. AI is about to amplify this age-old problem, creating even bigger garbage dumps of corporate data.
