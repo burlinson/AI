@@ -8,7 +8,7 @@ share-img: /assets/img/Synthetic.webp
 thumbnail-img: false
 tags:
   - Synthetic Data
-  - AI
+  - AI 
 comments: fasle
 mathjax: false
 author: Tony Burlinson
