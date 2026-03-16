@@ -3,9 +3,9 @@ layout: post
 title: 'Commoditized AI'
 subtitle: AI First Comes First
 date: 2025-04-13
-cover-img: /assets/img/Designer.png
-thumbnail-img: /assets/img/Truck2.png
-share-img: /assets/img/Designer.png
+cover-img: /assets/img/Designer.webp
+thumbnail-img: /assets/img/Truck2.webp
+share-img: /assets/img/Designer.webp
 tags:
   - AI First
   - Commoditized AI
