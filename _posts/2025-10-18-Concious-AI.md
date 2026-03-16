@@ -3,9 +3,9 @@ layout: post
 title: 'Will AI Ever Achieve Consciousness?'
 subtitle: The Moment Machines Feel Emotions, Do They Then Deserve Rights?
 date: 2025-10-18
-cover-img: /assets/img/Designer.webp
-thumbnail-img: /assets/img/Truck2.webp
-share-img: /assets/img/Designer.webp
+cover-img: /assets/img/ConcHeader.webp
+thumbnail-img: /assets/img/Conc.webp
+share-img: /assets/img/ConcHeader.webp
 tags:
   - AI Consciousness
   - Singularity
