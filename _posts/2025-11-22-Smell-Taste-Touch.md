@@ -5,6 +5,7 @@ subtitle: AI Is Advancing Way Beyond Text With Some Graphics
 date: 2025-11-22
 cover-img: /assets/img/Touch.webp
 share-img: /assets/img/Touch.webp
+show-thumbnail: false
 tags:
   - Smell
   - Taste
