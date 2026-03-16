@@ -12,9 +12,7 @@ tags:
   - AI
 author: Tony Burlinson 
 ---
-As AI platforms continue to evolve, one component is quietly becoming increasingly critical for success: Retrieval Pipelines. 
-
-While large language models can generate human like responses, they are limited by the data they were trained on. They are only as good as the information they ingest.  
+As AI platforms continue to evolve, one component is quietly becoming increasingly critical for success: Retrieval Pipelines. While large language models can generate human like responses, they are limited by the data they were trained on. They are only as good as the information they ingest.  
 
 Retrieval pipelines solve this gap by providing AI platforms with real time access to the information they need to give deeper and more accurate answers.
 
