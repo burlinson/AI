@@ -4,7 +4,6 @@ title: First Verifiable Quantum Advantage
 subtitle: A Significant Milestone For Computing. A New Era For AI?   
 date: 2025-12-13
 cover-img: /assets/img/Quantum.webp
-share-img: /assets/img/Quantum.webp
 tags:
   - Quantum Computing
   - Google
