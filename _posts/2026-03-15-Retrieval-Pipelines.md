@@ -1,18 +1,18 @@
 ---
-layout: post
-title: 'Retrieval Pipelines'
-subtitle: The Secret Sauce For AI Platforms 
-date: 2026-03-15
-cover-img: /assets/img/PipeHead.webp
 thumbnail-img: /assets/img/Pipe.webp
-share-img: /assets/img/PipeHead.webp
+cover-img: /assets/img/PipeHead.webp
+subtitle: The Secret Sauce For AI Platforms
 tags:
   - Retrieval Pipelines
   - AI First
   - AI
-author: Tony Burlinson 
+layout: post
+author: Tony Burlinson
+date: 2026-03-15T00:00:00.000Z
+title: Retrieval Pipelines
+share-img: /assets/img/PipeHead.webp
 ---
-As AI platforms continue to evolve, one component is quietly becoming increasingly critical for success: Retrieval Pipelines. While large language models can generate human like responses, they are limited by the data they were trained on. They are only as good as the information they ingest.  
+As AI platforms continue to evolve, one component is quietly becoming increasingly critical for success: **Retrieval Pipelines**. While large language models can generate human like responses, they are limited by the data they were trained on. They are only as good as the information they ingest.  
 
 Retrieval pipelines solve this gap by providing AI platforms with real time access to the information they need to give deeper and more accurate answers.
 
@@ -20,7 +20,7 @@ A retrieval pipeline works by transforming data into embeddings stored in a vect
 
 When you enter a prompt, a well-designed retrieval pipeline finds the most relevant information and feeds it into the model at the moment of generation. Instead of guessing, the model grounds its answer on the best evidence from the retrieval pipleine. 
 
-Providing not just an answer, but the best and accurate answer, is the primary purpose of Retrieval Augmented Generation (RAG).
+Providing not just an answer, but the best and accurate answer, is the primary purpose of [Retrieval Augmented Generation](https://burlinson.github.io/AI/2025-07-26-Retreval-Augmented-Generation/) (RAG).
 
 The RAG is only as good as the retrieval pipeline that is feeding it. 
 
@@ -42,6 +42,6 @@ They will also likely become agentic, allowing AI systems to proactively search,
 
 Lastly, they will become continuous, updating knowledge in real time as new documents appear.
 
-Retrieval pipelines could well become more important than the AI models themselves.
+**Retrieval pipelines could well become more important than the AI models themselves.**
 
 Companies that are looking to build a competitive edge in AI will need retrieval pipelines that have been engineered to be scalable, reliable, robust, and exceptionally well designed to meet business needs.
