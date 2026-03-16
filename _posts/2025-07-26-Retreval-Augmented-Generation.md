@@ -3,9 +3,9 @@ layout: post
 title: 'Retrieval Augmented Generation'
 subtitle: Why RAG Matters
 date: 2025-07-26
-cover-img: /assets/img/Designer.png
-thumbnail-img: /assets/img/Truck2.png
-share-img: /assets/img/Designer.png
+cover-img: /assets/img/Designer.webp
+thumbnail-img: /assets/img/Truck2.webp
+share-img: /assets/img/Designer.webp
 tags:
   - RAG
   - LLM
