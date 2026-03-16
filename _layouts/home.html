@@ -27,7 +27,7 @@ layout: page
       {% assign thumbnail=thumbnail | strip %}
 
       {% if site.feed_show_excerpt == false %}
-      {% if post.show-thumbnail != false and thumbnail != "" %}
+        {% if post.show-thumbnail != false and thumbnail != "" %}
       <div class="post-image post-image-normal">
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
