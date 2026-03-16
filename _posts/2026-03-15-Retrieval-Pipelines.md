@@ -3,9 +3,9 @@ layout: post
 title: 'Retrieval Pipelines'
 subtitle: The Secret Sauce For AI Platforms 
 date: 2026-03-15
-cover-img: /assets/img/Designer.webp
-thumbnail-img: /assets/img/Truck2.webp
-share-img: /assets/img/Designer.webp
+cover-img: /assets/img/PipeHead.webp
+thumbnail-img: /assets/img/Pipe.webp
+share-img: /assets/img/PipeHead.webp
 tags:
   - Retrieval Pipelines
   - AI First
