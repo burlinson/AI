@@ -12,7 +12,7 @@ They all follow the same pattern. In the early days, no one knows exactly where 
 
 Then the technology matures, reshapes how we live and work, and ultimately how we think and interact with other people.
 
-What once felt disruptive becomes the new normal. We expect the benefits to be available on demand, everywhere, all the time. The worries about job losses evaporate as new roles emerge that we could not originally imagined were needed.
+What once felt disruptive becomes the new normal. We expect the benefits to be available on demand, everywhere, all the time. The worries about job losses evaporate as new roles emerge that we could not have originally imagined.
 
 AI is likely no different. 
 
@@ -20,7 +20,7 @@ The AI transformation we are living through now will soon be embedded into our l
 
 The world will be a better place.
 
-#EmbraceTheChange
+**#EmbraceTheChange**
 
 ![Transformation]({{ site.baseurl }}/assets/img/Transformation.webp){: .mx-auto.d-block :}
 
