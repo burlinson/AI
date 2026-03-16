@@ -5,7 +5,9 @@ subtitle: The Secret Sauce For AI Platforms
 tags:
   - Retrieval Pipelines
   - AI First
-  - AI
+  - Vector Databases
+  - RAG
+  - Mulimodal
 layout: post
 author: Tony Burlinson
 date: 2026-03-15T00:00:00.000Z
