@@ -16,7 +16,7 @@ author: Tony Burlinson
 ---
 For decades, software has been passive. It waits for commands, follows predefined rules, and executes tasks inside rigid boundaries. Agentic AI changes that model entirely.
 
-Agentic AI shifts from software that responds, to software that acts. It doesn’t just generate answers; it plans, reasons, takes action, and self corrects. 
+Agentic AI shifts from software that **responds**, to software that **acts**. It doesn’t just generate answers; it plans, reasons, takes action, and self corrects. 
 
 Agentic AI is typically implemented as a layer that sits on top of a firm’s systems and data, interacts with other agents, calls APIs, queries systems, orchestrates workflows, and operates with minimal human oversight. 
 
@@ -26,11 +26,11 @@ The implications and potential business gains for companies are enormous.
 
 Firms that deploy Agentic AI will be able to move faster than their competitors and generate productivity gains that dwarf previous automation trends. 
 
-Firms that want to implement Agentic AI need to start by identifying the parts of their business that have the biggest value opportunity from Agentic AI solutions. More importantly they need to be realistic about the quality of the underlying data and systems that are supporting those business outcomes today.
+Firms that want to implement Agentic AI need to start by identifying the parts of their business that have the biggest value opportunity from Agentic AI solutions. 
 
-The underlying data and systems will not magically improve just because an AI Agent has been layered on top of them. 
+More importantly they need to be realistic about the quality of the underlying data and systems that are supporting those business outcomes today. **The underlying data and systems will not magically improve just because an AI Agent has been layered on top of them.** 
 
-Business leaders then need to step back and imagine how they might deliver business outcomes differently when AI Agents are automating workflows, and the limitationd of human capital are reduced.
+Business leaders then need to step back and imagine how they might deliver business outcomes differently when AI Agents are automating workflows, and the limitations of finite human capital are removed.
 
 The AI Agents need clearly defined goals, guardrails and governance. They need to be set up for success in just the same way humans do when they take on a new job. 
 
