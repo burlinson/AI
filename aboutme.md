@@ -22,5 +22,5 @@ The world will be a better place.
 
 #EmbraceTheChange
 
-
+![Transformation]({{ site.baseurl }}/assets/img/Transformation.webp){: .mx-auto.d-block :}
 
