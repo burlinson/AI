@@ -18,7 +18,7 @@ Retrieval pipelines solve this gap by providing AI platforms with real time acce
 
 A retrieval pipeline works by transforming data into embeddings stored in a [vector database](https://burlinson.github.io/AI/2025-06-22-Vector-Databases/).
 
-When you enter a prompt, a well-designed retrieval pipeline finds the most relevant information and feeds it into the model at the moment of generation. Instead of guessing, the model grounds its answer on the best evidence from the retrieval pipleine. 
+When you enter a prompt, a well-designed retrieval pipeline finds the most relevant information and feeds it into the model at the moment of generation. Instead of guessing, the model grounds its answer on the best evidence from the retrieval pipeline. 
 
 Providing not just an answer, but the best and accurate answer, is the primary purpose of [Retrieval Augmented Generation](https://burlinson.github.io/AI/2025-07-26-Retreval-Augmented-Generation/) (RAG).
 
@@ -48,6 +48,6 @@ Most firms are focused on the shiny AI tools on the front end, and aren't thinki
 
 Companies that are looking to become AI-First will need retrieval pipelines that have been engineered to be scalable, reliable, robust, and exceptionally well designed and coded to meet business needs.
 
-Perhaps the most critical piece of this jigsaw is finding and retaining the top tier data engineers who are capable of building exceptional multimodal retrieval pipelines to power an AI-First platfrom that beats the competiton.  
+Perhaps the most critical piece of this jigsaw is finding and retaining the top tier data engineers who are capable of building exceptional multimodal retrieval pipelines to power an AI-First platform that beats the competition.  
 
 
