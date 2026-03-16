@@ -1,16 +1,18 @@
 prose:
+  # Only allow editing inside the _posts folder
   rooturl: "_posts"
 
-  # Prevent Prose from rewriting or generating metadata files
+  # Do NOT let Prose rewrite metadata files or rename posts
   metadata_file: false
 
   metadata:
     _posts:
+      # Title is optional — you can hide it if you want
       - name: "title"
         field:
           element: "text"
 
-      # Lock down fields Prose should NOT touch
+      # LOCKED FIELDS — Prose cannot touch these
       - name: "date"
         field:
           element: "hidden"
@@ -20,29 +22,39 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
+      - name: "permalink"
+        field:
+          element: "hidden"
+      - name: "categories"
+        field:
+          element: "hidden"
+      - name: "tags"
+        field:
+          element: "hidden"
 
-      # Protect Beautiful Jekyll custom fields
+      # LOCK DOWN Beautiful Jekyll custom fields
       - name: "subtitle"
         field:
-          element: "text"
+          element: "hidden"
       - name: "summary"
         field:
-          element: "text"
+          element: "hidden"
       - name: "cover-img"
         field:
-          element: "text"
+          element: "hidden"
       - name: "thumbnail-img"
         field:
-          element: "text"
+          element: "hidden"
 
-  # Prevent Prose from touching anything outside _posts
+  # Hide everything outside _posts so you can't break anything
   ignore:
     - "index.html"
     - "_config.yml"
-    - "Gemfile"
-    - "Gemfile.lock"
-    - "_site"
     - "_includes"
     - "_layouts"
+    - "_site"
     - "assets"
     - "scripts"
+    - "Gemfile"
+    - "Gemfile.lock"
+
