@@ -3,6 +3,7 @@ layout: post
 title: Synthetic Data
 subtitle: The Rise of Synthetic Data 
 date: 2026-03-07
+thumbnail-img: /assets/img/Synthetic.webp
 share-img: /assets/img/Synthetic.webp
 tags:
   - Synthetic Data
