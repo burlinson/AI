@@ -3,6 +3,8 @@ layout: post
 title: The Power of Agentic AI
 subtitle: The End of Passive Software  
 date: 2026-02-22
+cover-img: /assets/img/Agentic.webp
+share-img: /assets/img/Agentic.webp
 tags:
   - Agentic AI
   - AI-First
