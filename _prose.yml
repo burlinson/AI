@@ -1,10 +1,16 @@
 prose:
   rooturl: "_posts"
+
+  # Prevent Prose from rewriting or generating metadata files
+  metadata_file: false
+
   metadata:
     _posts:
       - name: "title"
         field:
           element: "text"
+
+      # Lock down fields Prose should NOT touch
       - name: "date"
         field:
           element: "hidden"
@@ -15,12 +21,28 @@ prose:
         field:
           element: "hidden"
 
-  # Prevent Prose from renaming files or regenerating metadata
-  metadata_file: false
+      # Protect Beautiful Jekyll custom fields
+      - name: "subtitle"
+        field:
+          element: "text"
+      - name: "summary"
+        field:
+          element: "text"
+      - name: "cover-img"
+        field:
+          element: "text"
+      - name: "thumbnail-img"
+        field:
+          element: "text"
 
+  # Prevent Prose from touching anything outside _posts
   ignore:
     - "index.html"
     - "_config.yml"
     - "Gemfile"
     - "Gemfile.lock"
     - "_site"
+    - "_includes"
+    - "_layouts"
+    - "assets"
+    - "scripts"
