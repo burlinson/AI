@@ -5,7 +5,7 @@ subtitle: The Rise of Synthetic Data
 date: 2026-03-07
 cover-img: /assets/img/Synthetic.webp
 share-img: /assets/img/Synthetic.webp
-thumbnail-img: false
+show-thumbnail: false
 tags:
   - Synthetic Data
   - AI 
