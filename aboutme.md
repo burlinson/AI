@@ -6,24 +6,21 @@ subtitle: Tony Burlinson
 
 My name is Tony Burlinson.
 
-I've worked in Technology and Financial Services for 25+ years and seen a lot of transformations: Desktop PCs, E-Mail, World Wide Web, Smart Phones, Digital Services, Big Data and now AI. 
+I’ve spent 25+ years working Technology and Financial Services, and seen multiple transformations unfold: Desktop computing, email, the world wide web, smartphones, digital services, big data, and now AI.
 
-They all have common themes and usually end the same way: The transformation jitters at the beginning and no one really knows where it's going. Then it changes the way we live, work and even how we think. 
+They all follow the same pattern. In the early days, no one knows exactly where the transformation is heading. There’s a sense that society is ‘loosing something’ and jobs will be swept away. 
 
-Eventually the dust settles and the technology revolution becomes the norm. We expect the benefits to be available however and whenever we need them.
+Then the technology matures, reshapes how we live and work, and ultimately how we think and ineract.
 
-In the intial phases there are concerns that society is loosing 'something'. 
+What once felt disruptive becomes the new normal. We expect the benefits to be available on demand, everywhere, all the time. The worries about job losses evaporate as new roles emerge that we could not originally imagined were needed.
 
-Then come the worries about job losses. 
+AI is likely no different. 
 
-AI is likley no different from the technology transformations we have seen before. 
-
-The AI transformation we are living through now will soon be embedded into our lifes and we will not be able to imagine how we got by without AI.
-
-New jobs will be created that we could not have imagined.
+The AI transformation we are living through now will soon be embedded into our lives and we will not be able to imagine how we got by without AI.
 
 The world will be a better place.
 
-**#EmbraceTheChange**
+#EmbraceTheChange
+
 
 
