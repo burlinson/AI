@@ -3,6 +3,9 @@ layout: post
 title: What If AI Becomes Smarter Than Humans?
 subtitle: The Debate on Singularity
 date: 2025-09-21
+cover-img: /assets/img/Smarter.webp
+share-img: /assets/img/Smarter.webp
+show-thumbnail: false
 tags:
   - Singularity
   - AI
