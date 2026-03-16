@@ -1,0 +1,26 @@
+prose:
+  rooturl: "_posts"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+      - name: "date"
+        field:
+          element: "hidden"
+      - name: "author"
+        field:
+          element: "hidden"
+      - name: "layout"
+        field:
+          element: "hidden"
+
+  # Prevent Prose from renaming files or regenerating metadata
+  metadata_file: false
+
+  ignore:
+    - "index.html"
+    - "_config.yml"
+    - "Gemfile"
+    - "Gemfile.lock"
+    - "_site"
