@@ -3,6 +3,8 @@ layout: post
 title: Synthetic Data
 subtitle: The Rise of Synthetic Data 
 date: 2026-03-07
+cover-img: /assets/img/PipeHead.webp
+share-img: /assets/img/PipeHead.webp
 tags:
   - Synthetic Data
   - AI
