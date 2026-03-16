@@ -9,6 +9,7 @@ share-img: /assets/img/PipeHead.webp
 tags:
   - Retrieval Pipelines
   - AI First
+  - AI
 author: Tony Burlinson 
 ---
 As AI platforms continue to evolve, one component is quietly becoming increasingly critical for success: Retrieval Pipelines. 
