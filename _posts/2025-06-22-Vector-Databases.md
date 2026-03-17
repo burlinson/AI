@@ -54,4 +54,4 @@ While vector databases are nowhere near conscious, their structure is a fascinat
 
 As processing power continues to advance, vector databases will become even more capable, enabling faster retrieval, richer context, and more intelligent AI.
 
-However, their ability to learn from experience has made neural networks the backbone of modern AI. 
+However, their ability to learn from experience has made vector databases a critical component of AI platforms. 
