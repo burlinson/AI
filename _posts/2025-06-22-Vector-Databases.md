@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/VectorsThumb.webp
 share-img: /assets/img/Vectors.webp
 tags:
   - Vector Databases
-  -  - Embeddings
+  - Embeddings
   - LLMs
   - RAG
 comments: fasle
