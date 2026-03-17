@@ -9,7 +9,7 @@ tags:
 layout: post
 author: Tony Burlinson 
 date: 2025-11-22T00:00:00.000Z
-title: 'AI Is Learning How to Smell, Taste & Touch'
+title: AI is Learning to Smell, Touch & Taste
 share-img: /assets/img/Touch.webp
 show-thumbnail: false
 comments: fasle
