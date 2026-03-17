@@ -3,6 +3,7 @@ layout: post
 title: What Are Embeddings in AI?
 subtitle: Why They Matter to Humans 
 date: 2025-07-05
+thumbnail-img: /assets/img/EmbeddingThumb.webp
 tags:
   - Vector Databases
   - Embeddings
