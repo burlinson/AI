@@ -3,6 +3,9 @@ layout: post
 title: Vector Databases Mimic Human Memory
 subtitle: Organic Brains v Mathematical AI Models
 date: 2025-06-22
+cover-img: /assets/img/Vectors.webp
+thumbnail-img: /assets/img/VectorsThumb.webp
+share-img: /assets/img/Vectors.webp
 tags:
   - Vector Databases
   -  - Embeddings
