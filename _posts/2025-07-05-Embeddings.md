@@ -20,7 +20,7 @@ Computers don’t naturally understand these contextual relationships. They proc
 
 Embeddings bridge the gap between the abstract realm where computers crunch numbers, and the fuzzy contextual world where humans live.
 
-The bridge between these two wrolds is critical if AI is to deliver on its promise to understand and analyze the world we live in, and then make life better for us. **Without embeddings – without context – can't understand our world**.
+The bridge between these two worlds is critical if AI is to deliver on its promise to understand and analyze the world we live in, and then make life better for us. **Without embeddings – without context – can't understand our world**.
 
 An embedding is a way of converting words, sentences, images, or even entire documents into a set of numbers that capture their meaning and relationships.
 
