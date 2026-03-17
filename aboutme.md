@@ -16,7 +16,7 @@ What once felt disruptive becomes the new normal. We expect the benefits to be a
 
 AI is likely no different. 
 
-The AI transformation we are living through now will soon be embedded into our lives and we will not be able to imagine how we got by without AI.
+The AI transformation we are living through now will soon be embedded into our lives and we will not be able to imagine how we got by without it.
 
 The world will be a better place.
 
