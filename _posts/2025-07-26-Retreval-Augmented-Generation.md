@@ -4,7 +4,7 @@ title: 'Retrieval Augmented Generation'
 subtitle: Why RAG Matters
 date: 2025-07-26
 cover-img: /assets/img/RAGHeader.webp
-thumbnail-img: /assets/img/RAG.webp
+thumbnail-img: /assets/img/RAGThumb.webp
 share-img: /assets/img/RAGHeader.webp
 tags:
   - RAG
