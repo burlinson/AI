@@ -51,7 +51,7 @@ Early photonic accelerators show a performance improvement of **thirty to a hund
 Because light doesn't generate heat like electricity, we can pack chips closer together. This means denser and more powerful AI clusters, without needing to build massive cooling towers.
 
 
-Traditional chips spend considerable time in an idle state, waiting for data to arrive from memory. [NVIDIA](https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html) is developing chip architectures that will eventually link memory and processors using light, enabling these chips to behave like one large fluid compute fabric.
+Traditional chips spend considerable time in an idle state, waiting for data to arrive from memory. <a href="https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html" target="_blank" rel="noopener noreferrer">NVIDIA</a> is developing chip architectures that will eventually link memory and processors using light, enabling these chips to behave like one large fluid compute fabric.
 
 
 Startups like [Neurophos](https://www.neurophos.com/) and [Lightmatter](https://lightmatter.co/) are developing Photonic chips that can perform matrix multiplications using light waves. This is computing power that silicon chips simply cannot even come close to matching.
