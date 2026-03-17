@@ -5,6 +5,7 @@ subtitle: The Debate on Singularity
 date: 2025-09-21
 cover-img: /assets/img/Smarter.webp
 share-img: /assets/img/Smarter.webp
+thumbnail-img: /assets/img/Face.webp
 show-thumbnail: false
 tags:
   - Singularity
