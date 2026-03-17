@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AI With Human Feelings
-subtitle: What Happens If AI Achieves Consciousness
+title: AI Consciousness
+subtitle: What Happens When AI Has Feelings?
 date: 2025-10-18
 cover-img: /assets/img/ConcHeader.webp
 thumbnail-img: /assets/img/Robot.webp
