@@ -7,7 +7,9 @@ tags:
   - AI First
   - Vector Databases
   - RAG
+  - Embeddings
   - Multimodal
+  - Dark Data
 layout: post
 author: Tony Burlinson
 date: 2026-03-15T00:00:00.000Z
