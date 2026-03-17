@@ -1,18 +1,18 @@
 ---
-layout: post
-title: 'AI at Light Speed'
-subtitle: Photonic Light Chips Are Coming 
-date: 2026-01-11
-cover-img: /assets/img/LightSpeedHeader.webp
 thumbnail-img: /assets/img/LightSpeed.webp
-share-img: /assets/img/LightSpeedHeader.webp
+cover-img: /assets/img/LightSpeedHeader.webp
+subtitle: Photonic Light Chips Are Coming
 tags:
   - Photonic Chips
   - Chips
   - NVIDIA
-  - Neurophos 
-  - Lightmatter 
-author: Tony Burlinson  
+  - Neurophos
+  - Lightmatter
+layout: post
+author: Tony Burlinson
+date: 2026-01-11T00:00:00.000Z
+title: AI at Light Speed
+share-img: /assets/img/LightSpeedHeader.webp
 ---
 
 Microchips are one of mankind’s most amazing inventions. Yet they rely on electrons that impose physical limits. That is changing with photonic light‑based chips, capable of dramatically higher processing speeds.
@@ -27,7 +27,7 @@ That slows down processing and increases running costs.
 As the microchip industry scales to trillion parameter models to support data hungry AI, we are hitting physical limits. Pushing massive workloads through copper “pipes” that are overheating and wasting energy. We are inventing all kinds of weird ways to get more processing power.
 
 
-Light Chips are coming! 
+Photonic chips that use light - photons - are coming! 
 
 
 This is the year they moved from prototypes into early deployment.
@@ -42,7 +42,7 @@ They generate much less heat, and they can travel at the speed of light with dra
 Think about that for a moment.
 
 
-**Light chips can perform data movement and computation at the speed of light, while also dramatically improving energy efficiency.** 
+**Photonic chips can perform data movement and computation at the speed of light, while also dramatically improving energy efficiency.** 
 
 
 Early photonic accelerators show a performance improvement of **thirty to a hundred times better**. That’s a breakthrough that could reshape the future of AI.
@@ -51,16 +51,16 @@ Early photonic accelerators show a performance improvement of **thirty to a hund
 Because light doesn't generate heat like electricity, we can pack chips closer together. This means denser and more powerful AI clusters, without needing to build massive cooling towers.
 
 
-Traditional chips spend considerable time in an idle state, waiting for data to arrive from memory. NVIDIA is developing chip architectures that will eventually link memory and processors using light, enabling these chips to behave like one large fluid compute fabric.
+Traditional chips spend considerable time in an idle state, waiting for data to arrive from memory. [NVIDIA](https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html) is developing chip architectures that will eventually link memory and processors using light, enabling these chips to behave like one large fluid compute fabric.
 
 
-Startups like Neurophos and Lightmatter are developing Light Chips that can perform matrix multiplications using light waves. This is computing power that silicon chips simply cannot even come close to matching.
+Startups like [Neurophos](https://www.neurophos.com/) and [Lightmatter](https://lightmatter.co/) are developing Photonic chips that can perform matrix multiplications using light waves. This is computing power that silicon chips simply cannot even come close to matching.
 
 
-Light chips won’t just make AI run faster, they will power models that are just outright impossible today on silicon chips. 
+Photonic chips won’t just make AI run faster, they will power models that are just outright impossible today on silicon chips. 
 
 **When data can move and compute at the speed of light, with a fraction of the energy, we can build AI platforms that are significantly more capable than anything we have today.** 
 
 The leaps forward we have seen in the last few years from AI have been astonishing. 
 
-Light chips are going to accelerate AI in ways we probably don't yet fully appreciate or understand.
+Photonic chips are going to accelerate AI in ways we probably don't yet fully appreciate or understand.
