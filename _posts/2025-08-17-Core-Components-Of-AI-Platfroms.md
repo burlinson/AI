@@ -5,7 +5,6 @@ subtitle: Neural Networks, Embeddings, Vector Databases, RAG, Prompt Framework, 
 date: 2025-08-17
 cover-img: /assets/img/CoreComponents.webp
 share-img: /assets/img/CoreComponents.webp
-show-thumbnail: true
 tags:
   - Neural Networks
   - Embeddings
