@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What If AI Becomes Smarter Than Humans?
+title: Ai Is Getting Smarter Every Day 
 subtitle: The Debate on Singularity
 date: 2025-09-21
 cover-img: /assets/img/Smarter.webp
