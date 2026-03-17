@@ -6,7 +6,7 @@ date: 2025-09-21
 cover-img: /assets/img/Smarter.webp
 share-img: /assets/img/Smarter.webp
 thumbnail-img: /assets/img/Face.webp
-show-thumbnail: false
+show-thumbnail: true
 tags:
   - Singularity
   - AI
