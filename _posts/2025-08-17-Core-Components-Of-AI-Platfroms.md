@@ -3,6 +3,8 @@ layout: post
 title: Core Components of AI Platforms
 subtitle: Neural Networks, Embeddings, Vector Databases, RAG, Prompt Framework, Data Pipelines
 date: 2025-08-17
+cover-img: /assets/img/CoreComponents.webp
+share-img: /assets/img/CoreComponents.webp
 tags:
   - Neural Networks
   - Embeddings
