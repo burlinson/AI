@@ -48,7 +48,7 @@ Lastly, they will become continuous, updating knowledge in real time as new mult
 
 Most firms are focused on the shiny AI tools on the front end, and aren't thinking through a strategy and architecture to addresses how they will ingest multimodal structured and unstructured data into their AI platform.
 
-Companies that are looking to become AI-First will need retrieval pipelines that have been engineered to be scalable, reliable and robust. Additionally, they will need to be exceptionally well designed and coded to power an AI platform capabable of beating the competition.
+Companies that are looking to become AI-First will need retrieval pipelines that have been engineered to be scalable, reliable and robust. Additionally, they will need to be exceptionally well designed and coded to power an AI platform capable of beating the competition.
 
 Perhaps the most critical piece of this jigsaw is finding and retaining the top-tier data engineers who can build top-tier multimodal retrieval pipelines.  
 
