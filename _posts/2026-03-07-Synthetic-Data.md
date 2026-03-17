@@ -1,6 +1,6 @@
 ---
 cover-img: /assets/img/Synthetic.webp
-subtitle: The Rise of Synthetic Data
+subtitle: The Strategic Advantage Every Firm Will Need
 tags:
   - Synthetic Data
   - AI
