@@ -14,9 +14,7 @@ comments: fasle
 mathjax: false
 author: Tony Burlinson
 ---
-For decades, software has been passive. It waits for commands, follows predefined rules, and executes tasks inside rigid boundaries. Agentic AI changes that model entirely.
-
-Agentic AI shifts from software that **responds**, to software that **acts**. It doesn’t just generate answers; it plans, reasons, takes action, and self corrects. 
+For decades, software has been passive. It waits for commands, follows predefined rules, and executes tasks inside rigid boundaries. Agentic AI changes that model entirely. Agentic AI shifts from software that **responds**, to software that **acts**. It doesn’t just generate answers; it plans, reasons, takes action, and self corrects. 
 
 Agentic AI is typically implemented as a layer that sits on top of a firm’s systems and data, interacts with other agents, calls APIs, queries systems, orchestrates workflows, and operates with minimal human oversight. 
 
