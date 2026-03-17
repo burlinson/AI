@@ -1,5 +1,6 @@
 ---
 cover-img: /assets/img/Quantum.webp
+thumbnail-img: /assets/img/QuantumThumb.webp
 subtitle: A Significant Milestone For Computing. A New Era For AI?
 tags:
   - Quantum Computing
@@ -10,7 +11,7 @@ author: Tony Burlinson
 date: 2025-12-13T00:00:00.000Z
 title: First Verifiable Quantum Advantage
 share-img: /assets/img/Quantum.webp
-show-thumbnail: false
+show-thumbnail: true
 comments: fasle
 mathjax: false
 ---
