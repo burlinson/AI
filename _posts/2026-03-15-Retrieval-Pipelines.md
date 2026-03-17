@@ -18,7 +18,7 @@ As AI platforms continue to evolve, one component is quietly becoming increasing
 
 Retrieval pipelines solve this gap by providing AI platforms with real time access to the information they need to provide deeper and more accurate answers.
 
-A retrieval pipeline works by transforming data into embeddings stored in a [vector database](https://burlinson.github.io/AI/2025-06-22-Vector-Databases/).
+A retrieval pipeline works by transforming data into [embeddings](https://burlinson.github.io/AI/2025-07-05-Embeddings/) stored in a [vector database](https://burlinson.github.io/AI/2025-06-22-Vector-Databases/).
 
 When you enter a prompt, a well-designed retrieval pipeline finds the most relevant information and feeds it into the model at the moment of generation. Instead of guessing, the model grounds its answer on the best evidence from the retrieval pipeline. 
 
