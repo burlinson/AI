@@ -4,7 +4,7 @@ title: 'Will AI Ever Achieve Consciousness?'
 subtitle: The Moment Machines Feel Emotions, Do They Then Deserve Rights?
 date: 2025-10-18
 cover-img: /assets/img/ConcHeader.webp
-thumbnail-img: /assets/img/Conc.webp
+thumbnail-img: /assets/img/Robot.webp
 share-img: /assets/img/ConcHeader.webp
 tags:
   - AI Consciousness
