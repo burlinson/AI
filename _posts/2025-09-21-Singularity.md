@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Is Getting Smarter Every Day 
-subtitle: The Debate on Singularity: What Happens When AI Is Smarter Than Us?
+subtitle: Singularity: What Happens When AI Is Smarter Than Us?
 date: 2025-09-21
 cover-img: /assets/img/Smarter.webp
 share-img: /assets/img/Smarter.webp
