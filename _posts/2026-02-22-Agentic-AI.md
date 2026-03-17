@@ -6,7 +6,6 @@ date: 2026-02-22
 cover-img: /assets/img/Agentic.webp
 share-img: /assets/img/Agentic.webp
 thumbnail-img: /assets/img/AgenticThumb.webp
-show-thumbnail: true
 tags:
   - Agentic AI
   - AI-First
