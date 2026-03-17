@@ -26,7 +26,7 @@ An embedding is a way of converting words, sentences, images, or even entire doc
 
 Instead of treating words as isolated text (ones and zeros) embeddings map words to similar things that are close in terms of meaning. On that "mathematical map", _cat_ is close to _kitten_. _Paris_ sits closer to _France_ than _Argentina_. However, _Hilton_ is closer to _Paris_ than _Argentina_.
 
-The phenomenal Advances in the processing power of chips has allowed the creation of highly complex embeddings that can respond in milliseconds.
+The phenomenal advances in the processing power of chips has allowed the creation of highly complex embeddings that can respond in milliseconds.
 
 Embeddings are stored in vector databases, allowing AI platforms to search with context. **With human-like context**. RAG systems use embeddings to find the most relevant information, which is then passed to a large language model to generate answers.
 
