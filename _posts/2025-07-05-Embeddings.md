@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Embeddings In AI
-subtitle: Why They Matter to Humans 
+subtitle: Fuzzy Human Context In A Mathematical AI World 
 date: 2025-07-05
 thumbnail-img: /assets/img/EmbeddingThumb.webp
 cover-img: /assets/img/Embeddings.webp
