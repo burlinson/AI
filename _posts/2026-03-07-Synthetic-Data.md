@@ -1,5 +1,6 @@
 ---
 cover-img: /assets/img/Synthetic.webp
+thumbnail-img: /assets/img/DataFlow.webp
 subtitle: The Strategic Advantage Every Firm Will Need
 tags:
   - Synthetic Data
@@ -9,7 +10,7 @@ author: Tony Burlinson
 date: 2026-03-07T00:00:00.000Z
 title: Synthetic Data
 share-img: /assets/img/Synthetic.webp
-show-thumbnail: false
+show-thumbnail: true
 comments: fasle
 mathjax: false
 ---
