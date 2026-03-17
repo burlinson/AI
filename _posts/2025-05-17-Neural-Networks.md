@@ -3,6 +3,7 @@ layout: post
 title: How Neural Networks Work in AI
 subtitle: The Brain of AI Models
 date: 2025-05-17
+thumbnail-img: /assets/img/Neural.webp
 tags:
   - Neural Networks
   - Neurons
