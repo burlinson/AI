@@ -5,8 +5,9 @@ tags:
   - Smell
   - Taste
   - Touch
+  - Multimodal
 layout: post
-author: Tony Burlinson
+author: Tony Burlinson 
 date: 2025-11-22T00:00:00.000Z
 title: 'AI Is Learning How to Smell, Taste & Touch'
 share-img: /assets/img/Touch.webp
