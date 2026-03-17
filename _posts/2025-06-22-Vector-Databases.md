@@ -15,7 +15,7 @@ author: Tony Burlinson
 
 Vector databases are a critical component of modern AI architecture, mimicking human memory. Yet they’re often pushed into the background, overshadowed by Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
 
-Instead of organizing data in rows and columns, vector databases represent information as mathematical vectors. This is fundamentally different from traditional databases, where data is stored in two dimensional tables.
+Instead of organizing data in rows and columns, vector databases represent information as mathematical vectors. This is fundamentally different from traditional databases, where data is stored in two dimensional tables with rows and columns.
 
 In mathematics, a vector represents a point in multi dimensional space. Not just height, depth, and distance but potentially hundreds or thousands of dimensions.
 
