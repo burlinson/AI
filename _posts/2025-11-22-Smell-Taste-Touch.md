@@ -1,5 +1,6 @@
 ---
 cover-img: /assets/img/Touch.webp
+thumbnail-img: /assets/img/AISmell.webp
 subtitle: AI Is Advancing Way Beyond Text With Some Graphics
 tags:
   - Smell
@@ -11,7 +12,6 @@ author: Tony Burlinson
 date: 2025-11-22T00:00:00.000Z
 title: AI is Learning to Smell, Touch & Taste
 share-img: /assets/img/Touch.webp
-show-thumbnail: false
 comments: fasle
 mathjax: false
 ---
