@@ -5,7 +5,7 @@ subtitle: What Happens When AI Is Smarter Than Us?
 date: 2025-09-21
 cover-img: /assets/img/Smarter.webp
 share-img: /assets/img/Smarter.webp
-thumbnail-img: /assets/img/Face.webp
+thumbnail-img: /assets/img/face.webp
 tags:
   - Singularity
   - AI
