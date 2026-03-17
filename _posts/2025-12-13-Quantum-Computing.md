@@ -18,7 +18,7 @@ On October 22, 2025 Google crossed a threshold that scientists have been chasing
 
 Although that’s an amazing achievement, is not just about speed. Google’s Willow processor represents an entirely new class of computation. 
 
-**All this lands at pivotal moment for AI. **
+**All this lands at pivotal moment for AI.**
 
 Modern AI models are hitting the limits of existing compute platforms. GPUs are maxed out and the energy costs to run them are exploding.
 
