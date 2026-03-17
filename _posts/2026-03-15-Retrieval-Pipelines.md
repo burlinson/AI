@@ -1,5 +1,5 @@
 ---
-thumbnail-img: /assets/img/Pipe.webp
+thumbnail-img: /assets/img/DataFlow.webp
 cover-img: /assets/img/PipeHead.webp
 subtitle: The Secret Sauce For AI Platforms
 tags:
