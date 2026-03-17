@@ -13,9 +13,7 @@ show-thumbnail: false
 comments: fasle
 mathjax: false
 ---
-As AI systems grow more capable, one force is quietly and radically reshaping how they learn: **Synthetic Data**. 
-
-Historically, AI platforms have relied on real world data. The only problem with that is corporate data is messy, incomplete, biased, and often too small to train AI systems.
+As AI systems grow more capable, one force is quietly and radically reshaping how they learn: **Synthetic Data**. Historically, AI platforms have relied on real world data. The only problem with that is corporate data is messy, incomplete, biased, and often too small to train AI systems.
 
 Enter stage right: Synthetic Data. 
 
