@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ai Is Getting Smarter Every Day 
+title: AI Is Getting Smarter Every Day 
 subtitle: The Debate on Singularity
 date: 2025-09-21
 cover-img: /assets/img/Smarter.webp
