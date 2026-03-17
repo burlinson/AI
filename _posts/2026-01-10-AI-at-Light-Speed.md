@@ -1,5 +1,5 @@
 ---
-thumbnail-img: /assets/img/LightSpeed.webp
+thumbnail-img: /assets/img/LightChip.webp
 cover-img: /assets/img/LightSpeedHeader.webp
 subtitle: Photonic Light Chips Are Coming
 tags:
