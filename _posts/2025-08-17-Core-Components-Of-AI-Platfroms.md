@@ -14,7 +14,7 @@ tags:
   - Data Pipelines
 comments: fasle
 mathjax: false
-author: Tony Burlinson
+author: Tony Burlinson 
 ---
 
 Three of the most important pieces of an AI platform are neural networks, vector databases, and Retrieval Augmented Generation (RAG). Each plays a distinct role and together they form the backbone of modern AI platforms.
