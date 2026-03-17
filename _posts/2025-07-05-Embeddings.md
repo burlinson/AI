@@ -24,11 +24,11 @@ The bridge between these two worlds is critical if AI is to deliver on its promi
 
 An embedding is a way of converting words, sentences, images, or even entire documents into a set of numbers that capture their meaning and relationships.
 
-Instead of treating words as isolated text (ones and zeros) embeddings map words to similar things that are close in terms of meaning. On that "mathematical map", _cat_ is close to _kitten_. _Paris_ sits closer to _France_ than _Argentina_. However, _Hilton_ is closer to _Paris_ than _Argentina_.
+Instead of treating words as isolated text (ones and zeros) embeddings map words to similar things that are close in terms of meaning. On that "mathematical map", cat is close to kitten. Paris sits closer to France than Argentina. However, Hilton is closer to Paris than Argentina. (For those of you too young to know who Paris Hilton is, look her up.)
 
 The phenomenal advances in the processing power of chips has allowed the creation of highly complex embeddings that can respond in milliseconds.
 
-Embeddings are stored in vector databases, allowing AI platforms to search with context. **With human-like context**. RAG systems use embeddings to find the most relevant information, which is then passed to a large language model to generate answers.
+Embeddings are stored in vector databases, allowing AI platforms to search with context. With human-like context. RAG systems use embeddings to find the most relevant information, which is then passed to a large language model to generate answers.
 
 When properly coordinated, these components work together to make AI more accurate, and more contextual. They provide answers that make sense to humans in our fuzzy contextual world.
 
@@ -36,6 +36,6 @@ When properly coordinated, these components work together to make AI more accura
 
 With embeddings, AI becomes flexible, contextual, and meaningful to humans.
 
-That’s why embeddings are so important. They don’t get headlines of LLMs or RAGs. They quietly work with vector databases, enabling AI platforms to provide responses that humans can understand. They are a critical component of AI platforms.
+That’s why embeddings are so important. They aren't in the spotlight like LLMs or RAGs. They quietly work in the background with vector databases, enabling AI platforms to provide responses that humans can understand. 
 
-Embeddings are where raw data is given meaning, and understanding human meaning is how AI can make our lives better.
+Embeddings are where raw data is given contextual meaning, and understanding humans is how AI can help make our lives better.
