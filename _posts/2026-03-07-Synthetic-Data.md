@@ -1,19 +1,19 @@
 ---
-layout: post
-title: Synthetic Data
-subtitle: The Rise of Synthetic Data 
-date: 2026-03-07
 cover-img: /assets/img/Synthetic.webp
-share-img: /assets/img/Synthetic.webp
-show-thumbnail: false
+subtitle: The Rise of Synthetic Data
 tags:
   - Synthetic Data
-  - AI 
+  - AI
+layout: post
+author: Tony Burlinson
+date: 2026-03-07T00:00:00.000Z
+title: Synthetic Data
+share-img: /assets/img/Synthetic.webp
+show-thumbnail: false
 comments: fasle
 mathjax: false
-author: Tony Burlinson
 ---
-As AI systems grow more capable, one force is quietly and radically reshaping how they learn: Synthetic Data. 
+As AI systems grow more capable, one force is quietly and radically reshaping how they learn: **Synthetic Data**. 
 
 Historically, AI platforms have relied on real world data. The only problem with that is corporate data is messy, incomplete, biased, and often too small to train AI systems.
 
@@ -21,7 +21,7 @@ Enter stage right: Synthetic Data.
 
 Instead of waiting for data to exist, AI can generate the data it needs, at scale, and with astonishing precision.
 
-Synthetic data allows AI to train on scenarios that are rare, or impossible to capture in real life. 
+Synthetic data allows AI to train on scenarios that are rare, or impossible to capture in the real world. 
 
 Autonomous vehicles can practice millions of edge cases without ever touching a road. 
 
@@ -37,7 +37,7 @@ Simulation learning will accelerate innovation in robotics, logistics, drug deve
 
 Companies will be able to test new processes, products, and policies before deploying them in the real world. 
 
-There is a point in the future where most of the world’s AI platforms will be trained on synthetic data.
+**There is a point in the future where most of the world’s AI platforms will be trained on synthetic data.**
 
 The firms that master synthetic data and simulation driven learning are going to be able to out innovate their competitors.
 
