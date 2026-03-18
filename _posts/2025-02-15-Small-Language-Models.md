@@ -3,6 +3,7 @@ layout: post
 title: Small Language Models 
 subtitle: Small Is Better
 date: 2025-02-15
+thumbnail-img: /assets/img/SLMThumb.webp
 tags:
   - SLM
   - LLM
