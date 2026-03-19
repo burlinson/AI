@@ -19,7 +19,7 @@ This makes bad data sound like some new-fangled conundrum. In reality, it’s th
 
 High-quality mastered data is the boring stuff. AI aficionados are focused on the promise of AI automating the workflows and improving profit margins.
 
-Firms that want to take advantage of the phenomenal benefits of AI need to focus on **Data Readiness** and a lot less on vendor automations, masquerading as AI. We are going to see a lot of that in the next year: Vendors labeling anything that is broadly faster and deeper as ‘AI-enabled’ with little regard to the quality of what is being generated.
+Firms that want to take advantage of the phenomenal benefits of AI need to focus on **[data readiness](https://dealhub.io/glossary/data-readiness/)** and a lot less on vendor automations, masquerading as AI. We are going to see a lot of that in the next year: Vendors labeling anything that is broadly faster and deeper as ‘AI-enabled’ with little regard to the quality of what is being generated.
 
 Smart firms are focusing on AI-ready data pipelines that leverage models to scrub, tag, and structure their data. If enterprise datasets haven't been structured for retrieval-augmented generation (RAG), AI models will become confident liars, creating deeper garbage dumps of data on top of one another.
 
