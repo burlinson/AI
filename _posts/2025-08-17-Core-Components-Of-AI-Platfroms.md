@@ -18,7 +18,7 @@ mathjax: false
 author: Tony Burlinson 
 ---
 
-Three of the most important pieces of an AI platform are neural networks, vector databases, and Retrieval Augmented Generation (RAG). Each plays a distinct role and together they form the backbone of modern AI platforms.
+Some of the most important pieces of an AI platform are neural networks, embeddings, vector databases, Retrieval Augmented Generation (RAG), and retrieval pipelines. Each plays a distinct role and together they form the backbone of modern AI platforms.
 
 Neural networks are the intelligence. They learn patterns from massive amounts of data, enabling them to understand language, recognize images, and generate text. But they can only rely on what they were trained on. 
 
