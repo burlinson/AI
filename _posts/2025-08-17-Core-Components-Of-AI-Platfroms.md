@@ -30,6 +30,6 @@ AI platforms include additional layers: Orchestration frameworks that manage pro
 
 Increasingly, AI platforms are also incorporating agents: Models that can take autonomous actions within defined guidelines.
 
-AI platforms are accelerating toward new architectures, powered by every more powerful compute power. Retrieval spanning every modality, continuous knowledge updates, and neural networks that fuse reasoning, memory, and planning into a single adaptive system. 
+AI platforms are accelerating toward new architectures, powered by ever more powerful compute power. Retrieval spanning every modality, continuous knowledge updates, and neural networks that fuse reasoning, memory, and planning into a single adaptive system. 
 
 The next generation of AI won’t just generate answers, it will stay current, interpret the events in the world in real time, and operate as a proactive partner in decision making.
