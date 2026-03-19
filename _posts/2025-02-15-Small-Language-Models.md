@@ -4,6 +4,8 @@ title: Small Language Models
 subtitle: Small Is Better
 date: 2025-02-15
 thumbnail-img: /assets/img/SLMThumb.webp
+cover-img: /assets/img/SMLHeader.webp
+share-img: /assets/img/SMLHeader.webp
 tags:
   - SLM
   - LLM
