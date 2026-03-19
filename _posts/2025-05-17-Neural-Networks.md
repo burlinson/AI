@@ -4,6 +4,8 @@ title: Neural Networks in AI
 subtitle: The Brain of AI Models
 date: 2025-05-17
 thumbnail-img: /assets/img/Neural.webp
+cover-img: /assets/img/NeuralHeader.webp
+share-img: /assets/img/NeuralHeader.webp
 tags:
   - Neural Networks
   - Neurons
