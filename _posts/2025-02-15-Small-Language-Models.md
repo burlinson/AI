@@ -16,7 +16,7 @@ Almost anyone paying attention to AI has heard about **Large Language Models**: 
 
 While LLMs grab the headlines, SLMs are quietly solving a set of different and more practical problems.
 
-SLMs are AI models designed to run on limited compute power. Sometimes that‘s on a laptop, or perhaps a lightweight cloud environment. Their size isn’t a limitation, it can be a positive advantage. They deliver fast, cost effective AI intelligence without the heavy backend infrastructure or latency of LLMs.
+SLMs are AI models designed to run on limited compute power. Sometimes that‘s on a laptop, or perhaps a lightweight cloud environment. Their size isn’t a limitation; it can be a positive advantage. They deliver fast, cost effective AI intelligence without the heavy backend infrastructure or latency of LLMs.
 
 One of the biggest benefits of SLMs is speed. They respond quickly, making them ideal for real time decision making where milliseconds matter. 
 
@@ -34,5 +34,5 @@ LLMs provide **general intelligence and creativity**. SLMs provide **precision, 
 
 When LLMs and SLMs are combined, the two create a layered architecture where the LLM handles broad reasoning and the SLM handles specialized tasks.
 
-As we move from exploring the broad possibilities of AI and into more nuanced practical uses, SLMs will likely become just as well known as their big brother LLM.
+As we move from exploring the broad possibilities of AI and into more nuanced practical uses, SLMs will likely become just as well known as their LLM big brother.
 
