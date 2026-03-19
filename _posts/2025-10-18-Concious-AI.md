@@ -23,7 +23,7 @@ Many argue that consciousness will never be achievable in machines.
 
 The definition of human consciousness has been hotly debated: Some believe it’s embedded within the organic structures if the human mind, and therefore consciousness is beyond the capability of computer chips and models, no matter how sophisticated. Yet others go on to claim that a part  of our consciousness exists even after death and the human brain has ceased to function, so why wouldn’t that be possible for other non-organic entities?
 
-AI consciousness and Singularity lead to very different implications. 
+AI consciousness and [Singularity](https://burlinson.github.io/AI/2025-09-21/Singularity) lead to very different implications. 
 
 Singularity raises concerns about control, alignment, and existential risk due to overwhelming AI intelligence. AI consciousness introduces moral and ethical questions. 
 
@@ -35,9 +35,9 @@ In one extreme theory, would a conscious AI system be able to co-join with human
 
 In a positive case, humans and conscious machines might coexist as cooperative partners, vastly expanding creativity, science, and understanding of life itself. In darker scenarios, a conscious AI might experience suffering, resist being shut down (killed), or pursue goals that conflict with human values. Not because it is superintelligent but because it has its own subjective perspective on the meaning of existence and might want to exist – live - forever. 
 
-These outcomes remain highly speculative, but they highlight why consciousness and Singularity must be treated as separate concepts.
+These outcomes remain highly speculative, but they highlight why consciousness and Singularity are separate concepts.
 
-My personal opinion: We are a long way away from AI getting even close to consciousness. Even if it does, there’s a huge difference between AI **understanding** human emotions and **feeling** them. 
+My personal opinion: We are a long way away from AI getting even close to consciousness, and there’s a huge difference between AI **understanding** human emotions and **feeling** them. 
 
 Assuming for a moment AI does get close to feeling emotions, there are already many entities – animals – on this planet besides humans that feel emotions. A dog can feel fear or anger, and those feelings might cause it to harm – bite – a human. Dogs might happily coexist with us and enrich our lives, but the moment a dog harms another human we have a clear understanding of what happens next. In fact, in some jurisdictions the next steps are coded into law.  
 
