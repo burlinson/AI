@@ -13,9 +13,7 @@ tags:
   - Data Readiness
 author: Tony Burlinson
 ---
-The phrase "_garbage in, garbage out_" has been around for decades. AI is about to amplify this age-old problem, creating even bigger garbage dumps of corporate data.
-
-There’s even a fancy name for bad data in the AI age: **Hallucination**.
+The phrase "_garbage in, garbage out_" has been around for decades. AI is about to amplify this age-old problem, creating even bigger garbage dumps of corporate data.There’s even a fancy name for bad data in the AI age: **Hallucination**.
 
 This makes bad data sound like some new-fangled conundrum. In reality, it’s the same age-old problem that has plagued technology for decades. If the back-end foundational data isn’t good then front-end tools - no matter how shiny - are going to spew out garbage.  
 
