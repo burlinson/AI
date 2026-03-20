@@ -24,7 +24,7 @@ Commoditized AI solutions are becoming a utility for many firms. There is a myri
 
 Think of the firms that raced to embrace email in the early 1990’s, and then similarly digital web-based platforms in the 2000’s. These technologies brought significant productivity gains, but eventually every firm implemented them. There was no meaningful long-term competitive advantage.  Today, they are just the cost of doing business. 
 
-Similarly, AI solutions like GPT, Gemini and Claude are incredible at general reasoning, summarization, and coding. However, every firm can buy the exact same API access for roughly the same price. These models, while amazing at what they do, offer limited long-term competitive advantage. 
+Similarly, AI solutions like [GPT](https://chat.openai.com), [Gemini](https://gemini.google.com), and [Claude](https://claude.ai) are incredible at general reasoning, summarization, and coding. However, every firm can buy the exact same API access for roughly the same price. These models, while amazing at what they do, offer limited long-term competitive advantage. 
 
 ![ComAIThumb]({{ site.baseurl }}/assets/img/ComAIThumb.webp){: .mx-auto.d-block :}
 
@@ -52,7 +52,7 @@ that define their core business logic.
 
 This approach allows AI-First firms to benefit from ongoing advances in foundational AI models without surrendering their intellectual property.
 
-A new generation of small and nimble startups are helping large enterprises build these proprietary AI platforms. Rather than competing in commoditized AI markets, these small startup firms specialize in building retrieval pipelines, dark data mining, fine tuned RAG systems, and hybrid LLM/SLM architectures. Many of them are largely unknown, operating under the radar, backed by venture capital. They are on track to become the AI powerhouses of the next decade.
+A new generation of small and nimble startups such as [Contextual AI](https://www.contextual.ai), [AI21 Labs](https://www.ai21.com), and [Articul8](https://www.articul8.ai) are helping large enterprises build these proprietary AI platforms. Rather than competing in commoditized AI markets, these small startup firms specialize in building retrieval pipelines, dark data mining, fine tuned RAG systems, and hybrid LLM/SLM architectures. Many of them are largely unknown, operating under the radar, backed by venture capital. They are on track to become the AI powerhouses of the next decade.
 
 Their value lies not in the commoditized vendor AI tools where there will inevitably be a race to the bottom on pricing, but in enabling corporations to convert their internal data into durable competitive moats.
 
