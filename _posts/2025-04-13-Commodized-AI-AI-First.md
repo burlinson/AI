@@ -16,7 +16,7 @@ tags:
   - LLM
 author: Tony Burlinson
 ---
-The AI divide is no longer between firms that use AI and those that don’t. The real divide is between firms that are running POCs with **commodity AI vendor solutions** and those that are building their own **proprietary AI platforms** to create growth engines.
+The AI divide is no longer between firms that use AI and those that don’t. The real divide is between firms that are running with **commodity AI vendor solutions** and those that are building their own **proprietary AI platforms** to create growth engines.
 
 Differentiating between **Commoditized AI** and **Proprietary AI** is a critical first step for firms that truly want to be AI-First. That then sets the stage for understanding where to invest capital to build proprietary AI platforms, versus where to simply "plug into the AI bandwagon". 
 
