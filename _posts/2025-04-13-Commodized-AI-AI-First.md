@@ -21,7 +21,7 @@ Differentiating between **Commoditized AI** and **Strategic AI** is a critical f
 
 Commoditized AI solutions are becoming the "electricity" of many firms. There is a myriad of ‘off-the-shelf’ vendor AI solutions. Eventually, every firm will benefit equally from the same productivity gains offered by these commoditized AI solutions. 
 
-Think of the firms that raced to embrace email solutions in the early 1990’s, and then similarly digital web-based platforms in the 2000’s. These technologies brought significant productivity gains, but eventually every firm implemented them. There was no meaningful long-term competitive advantage. Today, email and web technologies are part of the cost of doing business. 
+Think of the firms that raced to embrace email applications in the early 1990’s, and then similarly digital web-based platforms in the 2000’s. These technologies brought significant productivity gains, but eventually every firm implemented them. There was no meaningful long-term competitive advantage. Today, email and web technologies are part of the cost of doing business. 
 
 The only question left for commoditized AI solutions is not **if** firms will use them, but rather who will adopt them **first** and reap a short-term tactical advantage before everyone else catches up.
 
