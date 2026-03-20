@@ -37,7 +37,11 @@ In a positive case, humans and conscious machines might coexist as cooperative p
 
 These outcomes remain highly speculative, but they highlight why consciousness and Singularity are separate concepts.
 
-My personal opinion: We are a long way away from AI getting even close to consciousness, and there’s a huge difference between AI **understanding** human emotions and **feeling** them. 
+**My personal opinion**: We are a long way away from AI getting even close to consciousness, and there’s a huge difference between AI **understanding** human emotions and **feeling** them. 
 
-Assuming for a moment AI does get close to feeling emotions, there are already many entities – animals – on this planet besides humans that feel emotions. A dog can feel fear or anger, and those feelings might cause it to harm – bite – a human. Dogs might happily coexist with us and enrich our lives, but the moment a dog harms another human we all have a very clear understanding of what need to happen next. In fact, in some jurisdictions the next steps are coded into law.  
+Assuming for a moment AI does get close to feeling emotions, there are already many entities – animals – on this planet besides humans that feel emotions. 
+
+A dog can feel fear or anger, and those feelings might cause it to harm – bite – a human. 
+
+Dogs might happily coexist with us and enrich our lives, but the moment a dog harms another human we all have a very clear understanding of what need to happen next. In fact, in some jurisdictions the next steps are coded into law.  
 
