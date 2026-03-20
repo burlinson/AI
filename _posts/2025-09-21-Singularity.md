@@ -37,7 +37,7 @@ We are seeing phenomenal advances in [compute power](https://burlinson.github.io
 
 To be smarter than humans, AI would need to vastly reduce their propensity to hallucinate. 
 
-The current AI models make errors that most humans can spot a mile away, and we're likley going to see AI hallucinations for some time to come.
+The current AI models make errors that most humans can spot a mile away. We're likley going to see AI hallucinations for some time to come.
 
 If AI ever does start to approach Singularity, we would likely need a choke point (kill switch) in the architecture. 
 
