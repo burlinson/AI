@@ -35,7 +35,7 @@ While AI capabilities continue to advance, there is no consensus that singularit
 
 We are seeing phenomenal advances in [compute power](https://burlinson.github.io/AI/2025-12-13/Quantum-Computing) and model complexity. However, you only need to spend a bit of time using AI to understand that while AI models are amazing, they frequently fail to grasp real world context and then start [hallucinating](https://burlinson.github.io/AI/2025-01-12/Hallucination). 
 
-To be smarter than humans, AI would need to vastly reduce their propensity to hallucinate. 
+To be smarter than humans, AI would need to vastly reduce its propensity to hallucinate. 
 
 The current AI models make errors that most humans can spot a mile away. We're likley going to see AI hallucinations for some time to come.
 
