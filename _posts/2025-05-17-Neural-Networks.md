@@ -36,6 +36,8 @@ In simplified terms, the neurons in your visual cortex activate, and then your b
 
 Neurons associated with “elephant” become active, while unrelated patterns fade. If the elephant suddenly turns and charges, the brain’s fear circuits activate intensely, triggering an immediate output: RUN!
 
+![NeuralNetwork]({{ site.baseurl }}/assets/img/NeuralPage.webp){: .mx-auto.d-block :}
+
 AI neural networks work in a similar conceptual way, though they are far less sophisticated than the human brain. At least for now.
 
 Learning in an AI neural network occurs through training. (In humans, we call this life experience.) 
