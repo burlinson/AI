@@ -43,5 +43,8 @@ Assuming for a moment AI does get close to feeling emotions, there are already m
 
 A dog can feel fear or anger, and those feelings might cause it to harm – bite – a human. 
 
-Dogs might happily coexist with us and enrich our lives, but the moment a dog harms another human we all have a very clear understanding of what need to happen next. In fact, in some jurisdictions the next steps are coded into law.  
+Dogs might happily coexist with us and enrich our lives, but the moment a dog harms another human we all have a very clear understanding of what needs to happen next. 
+
+In fact, in some jurisdictions the next steps are coded into law.  
+
 
