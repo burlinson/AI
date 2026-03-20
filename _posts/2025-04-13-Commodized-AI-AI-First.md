@@ -56,6 +56,6 @@ A new generation of small and nimble startups are helping large enterprises buil
 
 Their value lies not in the commoditized vendor AI tools where there will inevitably be a race to the bottom on pricing, but in enabling corporations to convert their internal data into durable competitive moats.
 
-Firms that **rent** the brain and **own** the memory are best positioned in the AI First race.
+Firms that **rent** the brain and **own** the memory are best positioned in the AI-First race.
 
 Firms that are relying solely on a third-party AI subscription models aren't building an AI future. They are just renting someone else's. 
