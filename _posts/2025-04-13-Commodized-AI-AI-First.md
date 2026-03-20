@@ -45,7 +45,7 @@ These aren’t just productivity improvements. They are entirely new business mo
 
 Firms with a true AI First mindset are using AI to build **intellectual property moats** that will compound over time and separate them from the firms that are doing some “AI stuff”. 
 
-![Moat]({{ site.baseurl }}/assets/img/Moat.png){: .mx-auto.d-block :}
+![IncProp]({{ site.baseurl }}/assets/img/IncProp.webp){: .mx-auto.d-block :}
 
 Sophisticated AI-First firms are adopting a hybrid architecture, whereby they **rent** the massive reasoning power of commodity LLMs for general tasks, then they **own** and build specialized [vector databases]({{ "/2025-06-22-Vector-Databases/#Vector-Databases" | relative_url }}) 
 that define their core business logic. 
