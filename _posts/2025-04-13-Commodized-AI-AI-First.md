@@ -15,7 +15,7 @@ tags:
   - Small Language Models
 author: Tony Burlinson
 ---
-The AI divide isn't between the firms that use AI and those that don't. The real divide is between firms that are playing with commodity AI solutions and those that are building AI-First platforms to create proprietary growth engines. 
+The AI divide isn't between the firms that use AI and those that don't. The real divide is between firms that are playing with commodity AI solutions and those that are building strategic AI-First platforms to create proprietary growth engines. 
 
 Differentiating between **Commoditized AI** and **Strategic AI** is a critical first step for firms that want to adopt an AI-First strategy. Understanding where to invest capital for **Strategic AI-First** solutions, versus where to simply "plug into the AI bandwagon", are some the biggest technology decisions facing corporations.
 
