@@ -31,7 +31,7 @@ The real AI revolution is happening in a discrete second category: **Strategic A
 [Small Language Models]({{ "/2025-02-15-Small-Language-Models/#Small-Language-Models" | relative_url }}), 
 trained on proprietary 
 [dark data]({{ "/2025-03-22-Dark-Data/#dark-data" | relative_url }}) 
-to support their market niche. These firms are moving from just **_using_** AI, to positioning themselves as **_being_** AI-first businesses.
+to support their market niche. These firms are moving from just **_using_** canned vendor AI solutions, to positioning themselves as **_building_** AI-First businesses powerd by proprietary AI models.
 
 A global logistics firm doesn't gain an edge by using a chatbot. They gain competitive advantage by building a custom model trained on twenty years of their own proprietary supply chain telemetry, weather patterns, and port latency data. Pharmaceutical firms are mining their vast knowledge of chemistry, molecular models and patient trials data to create new drugs. They are curing diseases that were previously thought to be uncurable. 
 
