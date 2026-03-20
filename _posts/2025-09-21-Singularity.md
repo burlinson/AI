@@ -33,7 +33,7 @@ While AI capabilities continue to advance, there is no consensus that singularit
 
 **My personal opinion:** We are a long way away from Singularity. 
 
-We are seeing phenomenal advances in [compute power](https://burlinson.github.io/AI/2025-12-13/Quantum-Computing) and model complexity, but you only need to spend a bit of time using AI to understand that while amazing, AI models frequently fail to grasp real world context and then start [hallucinating](https://burlinson.github.io/AI/2025-01-12/Hallucination). 
+We are seeing phenomenal advances in [compute power](https://burlinson.github.io/AI/2025-12-13/Quantum-Computing) and model complexity. However, you only need to spend a bit of time using AI to understand that while they are amazing, AI models frequently fail to grasp real world context and then start [hallucinating](https://burlinson.github.io/AI/2025-01-12/Hallucination). 
 
 To be smarter than humans, AI would need to vastly reduce their propensity to hallucinate. 
 
@@ -43,7 +43,7 @@ If AI ever does start to approach Singularity, we would likely need a choke poin
 
 There are two problems with that: 
 
-First we have spent decades building technology infrastructures with decentralized redundancies. That’s the polar opposite of a choke point and it would be difficult and expensive to back out of our existing ubiquitous fail-safe architectures. 
+First, we have spent decades building technology infrastructures with decentralized redundancies. That’s the polar opposite of a choke point and it would be difficult and expensive to back out of our existing ubiquitous fail-safe architectures. 
 
 Second, choke points create latency. Slowing down AI is the last thing any of the firms operating in this space are going to do. 
 
