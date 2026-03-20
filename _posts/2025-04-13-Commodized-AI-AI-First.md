@@ -33,7 +33,9 @@ The real AI-First revolution is occurring in a second category: **Proprietary AI
 AI-First companies are building [retrieval pipelines]({{ "/2025-03-15-Retrieval-Pipelines/#Retrieval-Pipelines" | relative_url }})
 to feed their highly specialized [Small Language Models]({{ "/2025-02-15-Small-Language-Models/#Small-Language-Models" | relative_url }})
 with structured and unstructured [dark data]({{ "/2025-03-22-Dark-Data/#dark-data" | relative_url }})
-, and then carefully integrating into Large Language Models. These firms are moving from just **_using_** canned vendor AI solutions, to  **_building_** proprietary AI platforms with real long term value.
+, and then carefully integrating with Large Language Models. 
+
+These firms are moving from just **_using_** canned vendor AI solutions, to  **_building_** their own proprietary AI platforms to create real long term value.
 
 A global logistics firm doesn’t gain an edge from AI by deploying a chatbot. It gains a competitive advantage by training its AI models on the decades of supply chain telemetry, weather patterns, and port latency data. They are creating new business models, optimizing the delivery of products into the hands of customers in ways that weren’t possible before AI.  
 
