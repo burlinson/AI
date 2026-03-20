@@ -1,6 +1,6 @@
 ---
 cover-img: /assets/img/multimodal.webp
-thumbnail-img: /assets/img/Multimodal.webp
+thumbnail-img: /assets/img/AISmell.webp
 subtitle: AI Is Advancing Way Beyond Text With Some Graphics
 tags:
   - Smell
