@@ -26,6 +26,8 @@ Think of the firms that raced to embrace email in the early 1990’s, and then s
 
 Similarly, AI solutions like GPT, Gemini and Claude are incredible at general reasoning, summarization, and coding. However, every firm can buy the exact same API access for roughly the same price. These models, while amazing at what they do, offer limited long-term competitive advantage. 
 
+![ComAIThumb]({{ site.baseurl }}/assets/img/ComAIThumb.webp){: .mx-auto.d-block :}
+
 The real AI-First revolution is occurring in a second category: **Proprietary AI Platforms**
 
 AI-First companies are building [retrieval pipelines]({{ "/2025-03-15-Retrieval-Pipelines/#Retrieval-Pipelines" | relative_url }})
