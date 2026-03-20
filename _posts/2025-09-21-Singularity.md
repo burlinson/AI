@@ -31,7 +31,19 @@ Some claim that humans will always be capable of ‘pulling the plug’ in the t
 
 While AI capabilities continue to advance, there is no consensus that singularity will occur, when it might happen, or what it would look like. As a result, Singularity functions as both a serious topic of academic debate and a powerful lens for examining the long term implications of AI on human civilization.
 
-**My personal opinion:** We are a long way away from Singularity. We are seeing phenomenal advances in [compute power](https://burlinson.github.io/AI/2025-12-13/Quantum-Computing) and model complexity, but you only need to spend a bit of time using AI to understand that while amazing, AI models frequently fail to grasp real world context and then start [hallucinating](https://burlinson.github.io/AI/2025-01-12/Hallucination). To be smarter than humans, AI would need to vastly reduce their propensity to hallucinate. The current AI models can sometimes make errors that most humans can spot a mile away.
+**My personal opinion:** We are a long way away from Singularity. 
 
-If AI ever does start to approach Singularity, we would likely need a choke point (kill switch) in the architecture. There are two problems with that: First we have spent decades building technology infrastructures with decentralized redundancies. That’s the polar opposite of a choke point and it would be difficult and expensive to back out of our existing ubiquitous fail-safe architectures. Second, choke points create latency. Slowing down AI is the last thing any of the firms operating in this space are going to do. 
+We are seeing phenomenal advances in [compute power](https://burlinson.github.io/AI/2025-12-13/Quantum-Computing) and model complexity, but you only need to spend a bit of time using AI to understand that while amazing, AI models frequently fail to grasp real world context and then start [hallucinating](https://burlinson.github.io/AI/2025-01-12/Hallucination). 
+
+To be smarter than humans, AI would need to vastly reduce their propensity to hallucinate. 
+
+The current AI models make errors that most humans can spot a mile away, and we're likley going to see AI hallucinations for some time to come.
+
+If AI ever does start to approach Singularity, we would likely need a choke point (kill switch) in the architecture. 
+
+There are two problems with that: 
+
+First we have spent decades building technology infrastructures with decentralized redundancies. That’s the polar opposite of a choke point and it would be difficult and expensive to back out of our existing ubiquitous fail-safe architectures. 
+
+Second, choke points create latency. Slowing down AI is the last thing any of the firms operating in this space are going to do. 
 
