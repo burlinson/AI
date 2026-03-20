@@ -15,7 +15,7 @@ share-img: /assets/img/Touch.webp
 comments: fasle
 mathjax: false
 ---
-To date, AI has been defined by a single dominant input: Text. A new frontier is emerging. AI is being trained on AI sensory data that we humans take for granted: Smell, taste, and touch. 
+To date, AI has been defined by a single dominant input: Text. A new frontier is emerging. AI is being trained on multimodal sensory data that we humans take for granted: Smell, taste, and touch. 
 
 Even the most advanced AI models - capable of writing code, analyzing documents, and generating images – are still primarily relying on language as their window into the world. 
 
