@@ -45,7 +45,7 @@ Early adopters are benefiting. Companies with clean, structured, high quality da
 
 Firms that are struggling with their foundational client and product datasets are in trouble. The shift to GEO could make or break firms, with laggards struggling to make up lost ground. 
 
-Firms that don’t have sophisticated client and product datasets, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
+Firms that don’t have sophisticated client and product datasets finetuned for the AI age, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
 
 AI is rapidly becoming the primary interface for humans to consume information. The younger set are even abandoning written prompts and talking into the microphone on their smartphone's AI apps.  
 
