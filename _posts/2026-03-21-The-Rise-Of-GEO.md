@@ -25,7 +25,7 @@ AI apps no longer point users to two-dimensional websites; they synthesize infor
 
 **Instead of searching for answers, people are simply asking AI to tell them what they need.**
 
-The younger generation are rapidly switching away from traditional search tools. They’re asking AI copilots, assistants, and chat interfaces for answers, recommendations, and decisions. The older generations will follow, albeit a bit slower. 
+The younger generation are rapidly switching away from traditional search tools. They’re asking AI copilots, assistants, and chat interfaces for answers, recommendations, and decisions. (The older generations will follow, albeit a bit slower.) 
 
 When an AI app generates answers, it chooses which brands and products to mention. Those choices are not driven by SEO principles like keyword density or backlinks, but by data quality, authority signals, and structured context. 
 
@@ -45,10 +45,10 @@ Early adopters are benefiting. Companies with clean, structured, high quality da
 
 Firms that are struggling with their foundational client and product datasets are in trouble. The shift to GEO could make or break firms, with laggards struggling to make up lost ground. 
 
-Firms that don’t have sophisticated client and product datasets finetuned for the AI age, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
+Firms that don’t have sophisticated client and product datasets, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
 
-AI is rapidly becoming the primary interface for humans to consume information. The younger set are even abandoning written prompts and talking into the microphone on their smartphone's AI apps.  
+AI is rapidly becoming the primary interface for humans to consume information. The younger set are even abandoning written prompts and talking into the microphone on their smartphone's multiple AI apps.  
 
 **AI is transforming how we consume information.** 
 
-Firms that want to stay relevant need to rethink their digital strategy, define their GEO strategy, solidify their client and product datasets for the AI age, and start executing on a robust [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/). 
+Firms that want to stay relevant need to rethink their digital strategy, define their GEO strategy, fine tune their client and product datasets for the AI age, and start executing on a robust [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/). 
