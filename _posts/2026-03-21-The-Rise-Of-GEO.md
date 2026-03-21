@@ -13,7 +13,7 @@ tags:
 layout: post
 author: Tony Burlinson
 date: 2026-03-15T00:00:00Z
-title: The Rise of GEO In The AI Age
+title: The Rise of GEO In the AI Age
 share-img: /assets/img/SEOGEOHeader.webp
 ---
 
