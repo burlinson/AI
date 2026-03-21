@@ -47,7 +47,7 @@ Firms that are struggling with their foundational client and product datasets ar
 
 Firms that don’t have sophisticated client and product datasets, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
 
-AI is rapidly becoming the primary interface for humans to consume information. The younger set are even abandoning written prompts and talking into the microphone on their smartphone's multiple AI apps.  
+AI is rapidly becoming the primary interface for humans to consume information. The younger set are even abandoning written prompts and talking into the microphone to one of their smartphone's multiple AI apps.  
 
 **AI is transforming how we consume information.** 
 
