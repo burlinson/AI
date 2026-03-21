@@ -33,6 +33,8 @@ More importantly, AI apps prioritize firms and products by how well a company’
 
 The game has shifted from optimizing for **search crawlers** to optimizing for **AI reasoning**.
 
+![SEOvGEO]({{ site.baseurl }}/assets/img/SEOvGEO.webp){: .mx-auto.d-block :}
+
 This is reshaping the multi billion dollar SEO industry, and it’s **happening almost overnight**. There’s a profound structural shift from chasing rankings to ensuring AI systems know a firm even exists, let alone recommend its products.
 
 Most firms don’t yet have a strategy for their own internal [retrieval pipelines](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/), let alone how to expose those pipelines to the outside world. (An API strategy for legacy structured databases doesn’t cut it.)     
