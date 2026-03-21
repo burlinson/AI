@@ -24,7 +24,7 @@ Retrieval pipelines work by transforming data into [embeddings](https://burlinso
 
 When a user enters a prompt, a well-designed retrieval pipeline identifies the most relevant information and injects it into the model at generation time. This allows the model to ground its response in real time evidence rather than relying solely on its pretraining.
 
-Providing not just an answer, but the most accurate answer based on evidence, is the primary purpose of [Retrieval Augmented Generation](https://burlinson.github.io/AI/2026-07-26-Retreval-Augmented-Generation/) (RAG).
+Providing not just an answer, but the most accurate answer based on evidence, is the primary purpose of [Retrieval Augmented Generation](https://burlinson.github.io/AI/2025-07-26-Retreval-Augmented-Generation/) (RAG).
 
 **RAGs and AI platforms can only be as good as their retrieval pipelines.**  
 
