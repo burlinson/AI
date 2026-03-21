@@ -35,7 +35,7 @@ The game has shifted from optimizing for **search crawlers** to optimizing for *
 
 ![SEOvGEO]({{ site.baseurl }}/assets/img/SEOvGEO.webp){: .mx-auto.d-block :}
 
-This is reshaping the multi billion dollar SEO industry, and it’s **happening almost overnight**. There’s a profound structural shift from chasing rankings to ensuring AI systems know a firm even exists, never mind what products it sells, and why they are better than the competition.
+This is reshaping the multi billion dollar SEO industry, and it’s **happening almost overnight**. There’s a profound structural shift from chasing rankings to ensuring AI systems know a firm even exists, then providing information about what products it sells, and why they are better than the competition.
 
 Most firms don’t yet have a strategy for their own internal [retrieval pipelines](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/), let alone how to expose those pipelines to the outside world. (An API strategy for legacy structured databases doesn’t cut it.)     
 
