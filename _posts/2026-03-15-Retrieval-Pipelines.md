@@ -56,8 +56,8 @@ Companies that are looking to become AI‑First will need retrieval pipelines th
 
 But technology alone isn’t enough.
 
-Firms need engineering teams that know where the “golden nuggets” of enterprise data live today: The data that determines whether an AI platform is fed just good data that produce good‑enough answers, or ingests rich multimodal data in real time and generates unique, powerful insights.
+Firms need engineering teams that know where the “golden nuggets” of enterprise data live today: Is the AI platform fed standard data from legacy structured databases that produces good‑enough answers or ingests rich multimodal data from multiple sources in real time to generate unique, powerful insights.
 
-That requires engineering teams who are not only experts at building high‑quality retrieval pipelines, but who also know where an enterprise’s data is stored, how it is transformed, the lineage of that data, and how to convert that data into something an AI platform can retrieve and turn into real competitive advantage.
+That requires engineering teams who are not only experts at building high‑quality retrieval pipelines, but who also know where an enterprise’s data is stored, how it is transformed, the business usage, and how to convert that data into something an AI platform can retrieve and turn into real competitive advantage.
 
 Perhaps the most critical piece of this puzzle is finding and retaining the top‑tier data engineers who can build top‑tier multimodal retrieval pipelines.
