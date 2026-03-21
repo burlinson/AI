@@ -29,7 +29,7 @@ The younger generation are rapidly switching away from traditional search tools.
 
 When an AI app generates answers, it chooses which brands and products to mention. Those choices are not driven by SEO principles like keyword density or backlinks, but by data quality, authority signals, and structured context. 
 
-More importantly, AI apps prioritize firms and products by how well a company’s information is represented in the [**retrieval pipeline**](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/). Data structure, freshness, and accessibility in the [retrieval pipeline](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/) are key factors.
+More importantly, AI apps prioritize firms and products by how well a company’s information is represented in the [**retrieval pipeline**](https://burlinson.github.io/AI/2026-03-15-Retrieval-Pipelines/). Data structure, freshness, and accessibility in the [retrieval pipeline](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/) are key factors.
 
 The game has shifted from optimizing for **search crawlers** to optimizing for **AI reasoning**.
 
@@ -37,18 +37,18 @@ The game has shifted from optimizing for **search crawlers** to optimizing for *
 
 This is reshaping the multi billion dollar SEO industry, and it’s **happening almost overnight**. There’s a profound structural shift from chasing rankings to ensuring AI systems know that a firm even exists, and then providing information about what products it sells and why they are better than the competition.
 
-Most firms don’t yet have a strategy for their own internal [retrieval pipelines](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/), let alone how to expose those pipelines to the outside world. (An API strategy for legacy structured databases doesn’t cut it.)     
+Most firms don’t yet have a strategy for their own internal [retrieval pipelines](https://burlinson.github.io/AI/2026-03-15-Retrieval-Pipelines/), let alone how to expose those pipelines to the outside world. (An API strategy for legacy structured databases doesn’t cut it.)     
 
 A GEO strategy is reliant on structuring data about firm’s brand and products so that AI systems can retrieve it, understand it, and **more importantly trust it**.
 
-Early adopters are benefiting. Companies with clean, structured, high quality data and strong [retrieval pipelines](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/) are getting the best results. Their products are recommended, their expertise is cited more reliably, and they are becoming the premier choices for AI.  
+Early adopters are benefiting. Companies with clean, structured, high quality data and strong [retrieval pipelines](https://burlinson.github.io/AI/2026-03-15-Retrieval-Pipelines/) are getting the best results. Their products are recommended, their expertise is cited more reliably, and they are becoming the premier choices for AI.  
 
 Firms that are struggling with their foundational client and product datasets are in trouble. The shift to GEO could make or break firms, with laggards struggling to make up lost ground. 
 
-Firms that don’t have sophisticated client and product datasets finetuned for the AI age, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
+Firms that don’t have sophisticated client and product datasets finetuned for the AI age, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-15-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
 
 AI is rapidly becoming the primary interface for humans to consume information. The younger set are even abandoning written prompts and talking into the microphone on their smartphone's AI apps.  
 
 **AI is transforming how we consume information.** 
 
-Firms that want to stay relevant need to rethink their digital strategy, define their GEO strategy, solidify their client and product datasets for the AI age, and start executing on a robust [retrieval pipeline strategy](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/). 
+Firms that want to stay relevant need to rethink their digital strategy, define their GEO strategy, solidify their client and product datasets for the AI age, and start executing on a robust [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-15-Retrieval-Pipelines/). 
