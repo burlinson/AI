@@ -24,7 +24,7 @@ Retrieval pipelines work by transforming data into [embeddings](https://burlinso
 
 When a user enters a prompt, a well-designed retrieval pipeline identifies the most relevant information and injects it into the model at generation time. This allows the model to ground its response in real time evidence rather than relying solely on its pretraining.
 
-Providing not just an answer, but the most accurate answer based on evidence, is the primary purpose of [Retrieval Augmented Generation](https://burlinson.github.io/AI/2025-07-26-Retreval-Augmented-Generation/) (RAG).
+Providing not just an answer, but the most accurate answer based on evidence, is the primary purpose of [Retrieval Augmented Generation](https://burlinson.github.io/AI/2026-07-26-Retreval-Augmented-Generation/) (RAG).
 
 **RAGs and AI platforms can only be as good as their retrieval pipelines.**  
 
@@ -50,7 +50,7 @@ Lastly, they will become continuous, updating knowledge in real time as new mult
 
 **Retrieval pipelines could well become more important than the AI models themselves.**
 
-Most firms are focused on the shiny AI tools on the front end and aren’t thinking through a cohesive strategy and architecture to address how they will ingest multimodal structured and unstructured data into their AI platform.
+Most firms are focused on the [shiny AI tools on the front end](https://burlinson.github.io/AI/2025-04-13-Commodized-AI-AI-First/) and aren’t thinking through a cohesive strategy and architecture to address how they will ingest multimodal structured and unstructured data into their AI platform.
 
 Companies that are looking to become AI‑First will need retrieval pipelines that have been well designed and coded to be scalable, reliable, and robust. 
 
