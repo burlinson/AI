@@ -19,7 +19,7 @@ share-img: /assets/img/PipeHead.webp
 
 For decades, Search Engine Optimization (SEO) has shaped the internet. It influenced how we perceived brands and what products we consumed. In the age of AI, the SEO era is fading fast. AI apps answer questions in ways that make internet search tools look dated. Welcome **Generative Engine Optimization** (GEO).
 
-Historically, brands fought for rankings, backlinks, and keywords because internet search Company’s algorithms decided how those brands got ranked. Those algorithms decided where – if – products were shown on web pages. If companies didn’t have a digital SEO strategy, they were dead meat.  
+Historically, brands fought for rankings, backlinks, and keywords because the traditional [SEO search algorithms](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) decided how those brands got ranked. Those algorithms decided where – even if – products were shown on web pages. If companies didn’t have a digital SEO strategy, they were dead meat.  
 
 AI apps no longer point users to two-dimensional websites; they synthesize information in multiple dimensions and then provide contextual answers. AI apps increasingly maintain persistent memory. They can remember and learn about your preferences and priorities, and can provide continuously better answers, tailored just for you.
 
