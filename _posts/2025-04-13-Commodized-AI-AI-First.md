@@ -59,3 +59,6 @@ Their value lies not in the commoditized vendor AI tools where there will inevit
 Firms that **rent** the brain and **own** the memory are best positioned in the AI-First race.
 
 Firms that are relying solely on a third-party AI subscription models aren't building an AI future. They are just renting someone else's. 
+
+
+_This article was updated in February 2026 to include refences to Retrieval Pipelines, Gemini and Claude_
