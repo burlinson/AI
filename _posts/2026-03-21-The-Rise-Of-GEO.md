@@ -49,4 +49,6 @@ Firms that don’t have sophisticated client and product datasets, and more impo
 
 AI is rapidly becoming the primary interface for humans to consume information. The younger set are even abandoning written prompts and talking into the microphone on their smartphone's AI apps.  
 
-AI is transforming how we consume information. Firms that want to stay relevant need to rethink their digital strategy, get a solid GEO strategy, solidify their client and product datasets for the AI age, and start executing on a robust [retrieval pipeline strategy](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/). 
+**AI is transforming how we consume information.** 
+
+Firms that want to stay relevant need to rethink their digital strategy, define their GEO strategy, solidify their client and product datasets for the AI age, and start executing on a robust [retrieval pipeline strategy](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/). 
