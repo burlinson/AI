@@ -10,6 +10,8 @@ tags:
   - Agentic AI
   - AI-First
   - AI Agents
+  - Governance
+  - New Business Model
 comments: fasle
 mathjax: false
 author: Tony Burlinson
@@ -26,7 +28,7 @@ Firms that deploy Agentic AI will be able to move faster than their competitors 
 
 Firms that want to implement Agentic AI need to start by identifying the parts of their business that have the biggest value opportunity from Agentic AI solutions. 
 
-More importantly they need to be realistic about the quality of the underlying data and systems that are supporting those business outcomes today. **The underlying data and systems will not magically improve just because an AI Agent has been layered on top of them.** 
+More importantly they need to be realistic about the quality of the underlying data and systems that are supporting those business outcomes today. **The underlying data and systems will not magically improve just because an AI Agent has been plopped on top of them.** 
 
 Business leaders then need to step back and imagine how they might deliver business outcomes differently when AI Agents are automating workflows, and the limitations of finite human capital are removed.
 
