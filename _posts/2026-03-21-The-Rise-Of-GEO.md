@@ -1,5 +1,5 @@
 ---
-thumbnail-img: /assets/img/RetPipeThumb.webp
+thumbnail-img: /assets/img/SEOGEOThumb.webp
 cover-img: /assets/img/SEOGEOHeader.webp
 subtitle: How AI Is Rewriting Digital Strategy Overnight
 tags:
