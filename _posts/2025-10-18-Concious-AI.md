@@ -23,7 +23,7 @@ Many argue that consciousness will never be achievable in machines.
 
 The definition of human consciousness has been hotly debated: Some believe it’s embedded within the organic structures of the human mind, and therefore consciousness is beyond the capability of computer chips and models, no matter how sophisticated. Yet others go on to claim that a part  of our consciousness exists even after death and the human brain has ceased to function, so why wouldn’t that be possible for other non-organic entities?
 
-AI consciousness and [Singularity](https://burlinson.github.io/AI/2025-09-21/Singularity) lead to very different implications. 
+AI consciousness and [Singularity](https://burlinson.github.io/AI/2025-09-21/Singularity/) lead to very different implications. 
 
 Singularity raises concerns about control, alignment, and existential risk due to overwhelming AI intelligence. AI consciousness introduces moral and ethical questions. 
 
