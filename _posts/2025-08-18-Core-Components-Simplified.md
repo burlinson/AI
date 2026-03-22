@@ -1,14 +1,16 @@
 ---
 title: "Core Components Of AI Platforms - Simplified"
 date: 2025-08-18
-author: Microsoft Copilot 
 hide: true
 ---
+Author: Microsoft Copilot
 
 
-AI platforms may seem like magic, but behind the scenes there’s many pieces working together. Here’s how they fit together:
+AI platforms may seem like magic, but behind the scenes there’s many pieces working together.
 
-👤** Start with the User**
+Here’s how they fit together:
+
+👤**Start with the User**
 Someone types a question into a chat window: “What’s our remote work policy?”
 
 🧭 **Orchestration Layer**
