@@ -45,4 +45,4 @@ The next generation of AI won’t just generate answers. It will stay current, i
 
 
 
-_**Note from the author:** Every time I reread this article, I felt like it might be too technical for some readers, so I asked AI to create a non-technical summary using the text above. It did a pretty good job. See the simplified version [here](https://burlinson.github.io/AI/2025-08-18-Core-Components-Simplified/)_ 
+_**Note from the author:** Every time I reread this article, I felt like it might be too technical for some readers, so I asked AI to create a non-technical summary using the text above. It did a pretty good job. See the simplified version [here](https://aimusing.blog/AI/2025-08-18-Core-Components-Simplified/)_ 
