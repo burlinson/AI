@@ -25,29 +25,29 @@ AI apps no longer point users to two-dimensional websites; they synthesize infor
 
 **Instead of searching for answers, people are simply asking AI to tell them what they need.**
 
-The younger generation are rapidly switching away from traditional search tools. They’re asking AI copilots, assistants, and chat interfaces for answers, recommendations, and decisions. (The older generations will follow, albeit a bit slower.) 
+The younger generation are rapidly switching away from traditional search tools. They’re asking AI copilots, assistants, and chat interfaces for answers, recommendations, and decisions. Older generations will follow, albeit a bit slower.
 
-When an AI app generates answers, it chooses which brands and products to mention. Those choices are not driven by SEO principles like keyword density or backlinks, but by data quality, authority signals, and structured context. 
+When an AI app generates answers, it chooses which brands and products to mention. Those choices are not driven by SEO principles like keyword density or backlinks.
 
-More importantly, AI apps prioritize firms and products by how well a company’s information is represented in the [**retrieval pipeline**](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/). Data structure, freshness, and accessibility in the [retrieval pipeline](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/) are key factors.
+AI models prioritize firms and products by how well a company’s information is represented in the [**retrieval pipeline**](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/). Data structure, freshness, and accessibility in the [retrieval pipeline](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/) are key factors.
 
 The game has shifted from optimizing for **search crawlers** to optimizing for **AI reasoning**.
 
 ![SEOvGEO]({{ site.baseurl }}/assets/img/SEOvGEO.webp){: .mx-auto.d-block :}
 
-This is reshaping the multi billion dollar SEO industry, and it’s **happening almost overnight**. There’s a profound structural shift from chasing rankings to ensuring AI systems know that a firm even exists, and then providing information about what products it sells and why they are better than the competition.
+This is reshaping the multi billion dollar SEO industry, and it’s **happening almost overnight**. There’s a profound structural shift from chasing rankings to ensuring AI systems know that a firm even exists. Thereafter the AI models need information about a company's products and why they are better than the competition.
 
-Most firms don’t yet have a strategy for their own internal [retrieval pipelines](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/), let alone how to expose those pipelines to the outside world. (An API strategy for legacy structured databases doesn’t cut it.)     
+Most firms don’t yet have a strategy for their own internal [retrieval pipelines](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/), let alone how to expose those pipelines to the outside world. (An API strategy for internal legacy structured databases doesn’t cut it.)     
 
 A GEO strategy is reliant on structuring data about firm’s brand and products so that AI systems can retrieve it, understand it, and **more importantly trust it**.
 
-Early adopters are benefiting. Companies with clean, structured, high quality data and strong [retrieval pipelines](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/) are getting the best results. Their products are recommended, their expertise is cited more reliably, and they are becoming the premier choices for AI.  
+Early adopters are benefiting. Companies with clean, structured, high quality data, and strong [retrieval pipelines](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/) are getting the best results. Their products are recommended, their expertise is cited more reliably, and they are becoming the leading choices for AI.  
 
 Firms that are struggling with their foundational client and product datasets are in trouble. The shift to GEO could make or break firms, with laggards struggling to make up lost ground. 
 
 Firms that don’t have sophisticated client and product datasets, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
 
-AI is rapidly becoming the primary interface for humans to consume information. The younger set are even abandoning written prompts and talking into the microphone to one of their smartphone's multiple AI apps.  
+AI is rapidly becoming the primary interface for humans to consume information. Younger generations are even abandoning written prompts and talking into the microphone of thier smartphone, to one of multiple AI apps. 
 
 **AI is transforming how we consume information.** 
 
