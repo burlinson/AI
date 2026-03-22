@@ -23,12 +23,14 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - My LinkedIn: "https://www.linkedin.com/in/tonyburlinson"
-    - MIT AI: "https://openlearning.mit.org"
-    - Coursera AI: "https://www.corsera.org"
+    - MIT AI: "https://ocw.mit.edu"
+    - Coursera AI: "https://www.corsera.org/courses?query=atrificial%20intelligence"
     - Microsoft AI: "https://learn.microsoft.com/ai"
     - Andrew Ng: "https://twitter.com/AndrewYNg"
-    - Bernard Marr: "https://bernardmarr.comg"
-    - Zain Khan: "https://superhuman.ai"
+    - Bernard Marr: "https://bernardmarr.com"
+    - Zain Khan: "https://superhuman.ai/authors/zain-kahn"
+    - Superhuman Newsletter: "https://superhuman.ai"
+    - The Rundown: "https://www.therundown.ai/subscribe"
 
  # Author's home: "https://burlinson.com"
 
