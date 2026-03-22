@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Is Getting Smarter Every Day 
+title: AI is Getting Smarter Every Day 
 subtitle: What Happens When AI Is Smarter Than Us?
 date: 2025-09-21
 cover-img: /assets/img/Smarter.webp
