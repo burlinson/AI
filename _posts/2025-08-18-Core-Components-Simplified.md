@@ -1,9 +1,10 @@
 ---
-title: "Core Compnents Of AI Platforms - Simplified"
+title: "Core Components Of AI Platforms - Simplified"
 date: 2025-08-18
+author: Microsoft Copilot 
 hide: true
 ---
-**How Modern AI Platforms Work in Non-Technical Language**
+
 
 AI platforms may seem like magic, but behind the scenes there’s many pieces working together. Here’s how they fit together:
 
