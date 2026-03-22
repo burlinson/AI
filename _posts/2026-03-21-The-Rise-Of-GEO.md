@@ -1,7 +1,7 @@
 ---
 thumbnail-img: /assets/img/SEOGEOThumb.webp
 cover-img: /assets/img/SEOGEOHeader.webp
-subtitle: How AI Is Rewriting Digital Strategy Overnight
+subtitle: How AI Is Rewriting Digital Strategy
 tags:
   - SEO
   - GEO
