@@ -44,4 +44,4 @@ AI platforms are rapidly evolving toward new architectures, driven by increasing
 The next generation of AI won’t just generate answers. It will stay current, interpret events in the world in real time, and operate as a proactive partner in human decision‑making.
 
 
-_**Note from Author:** Every time I reread this article, I felt like it might be too technical for some readers, so I asked AI to create a non technical summary using the text from above. It did a pretty good job: See the simplified version here_ 
+_**Note from Author:** Every time I reread this article, I felt like it might be too technical for some readers, so I asked AI to create a non technical summary using the text from above. It did a pretty good job: See the simplified version [here](https://burlinson.github.io/AI/2025-08-18-Core-Components-Simplified/)_ 
