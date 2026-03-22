@@ -1,6 +1,6 @@
 ---
 title: "Core Components Of AI Platforms - Simplified By AI"
-published: false
+hide: true
 ---
 
 **Published:** August 18, 2025
