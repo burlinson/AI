@@ -1,9 +1,9 @@
 ---
-title: "Core Components Of AI Platforms - Simplified"
-date: 2025-08-18
+title: "Core Components Of AI Platforms - Simplified By AI"
 hide: true
 ---
-Author: Microsoft Copilot
+**Published:** August 18, 2025
+**Author:** Microsoft Copilot
 
 
 AI platforms may seem like magic, but behind the scenes there’s many pieces working together.
@@ -43,3 +43,4 @@ In advanced setups, the AI can take action too. like creating a helpdesk ticket 
 🚀 **The Big Picture**
 What looks like a simple Q&A is actually a fast, intelligent pipeline. Retrieval finds the facts, prompts guide the model, and the LLM generates answers. This all happens in seconds.
 
+Return to the orgonal post here
