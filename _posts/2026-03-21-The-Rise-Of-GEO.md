@@ -21,7 +21,7 @@ For decades, Search Engine Optimization (SEO) has shaped the internet. It has in
 
 Historically, companies fought for rankings, backlinks, and keywords because in the traditional [SEO search algorithms](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) that's what mattered. Those algorithms determined where – even if – products were shown in search results. If companies didn’t have a digital SEO strategy, they were dead meat.  
 
-AI apps have stopped pointing users to serach engines on web pages that primarily relied on how well a firm was able to promote their own brand or product through SEO. 
+AI apps have stopped pointing users to search engines on web pages that primarily relied on how well a firm was able to promote their own brand or product through SEO. 
 
 Instead AI models are synthesizing information in multiple dimensions, taking into consideration third party citations, and then providing contextual answers. AI apps increasingly maintain persistent memory. This enables them to remember and learn about your preferences and needs. It also allows them to provide continuously better answers, tailored just for you.
 
