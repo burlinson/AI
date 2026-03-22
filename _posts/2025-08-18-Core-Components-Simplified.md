@@ -43,4 +43,5 @@ In advanced setups, the AI can take action too. like creating a helpdesk ticket 
 🚀 **The Big Picture**
 What looks like a simple Q&A is actually a fast, intelligent pipeline. Retrieval finds the facts, prompts guide the model, and the LLM generates answers. This all happens in seconds.
 
-Return to the orgonal post here
+
+Return to the orginal post [here](https://burlinson.github.io/AI/2025-08-17-Core-Components-Of-AI-Platforms/)
