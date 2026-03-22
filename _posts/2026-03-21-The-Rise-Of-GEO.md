@@ -21,13 +21,15 @@ For decades, Search Engine Optimization (SEO) has shaped the internet. It has in
 
 Historically, companies fought for rankings, backlinks, and keywords because in the traditional [SEO search algorithms](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) that's what mattered. Those algorithms determined where – even if – products were shown in search results. If companies didn’t have a digital SEO strategy, they were dead meat.  
 
-AI apps no longer point users to two-dimensional websites; they synthesize information in multiple dimensions and then provide contextual answers. AI apps increasingly maintain persistent memory. This enables them to remember and learn about your preferences and needs. It also allows them to provide continuously better answers, tailored just for you.
+AI apps have stopped pointing users to serach engines on web pages that primarily relied on how well a firm was able to promote their own brand or product through SEO. 
+
+Instead AI models are synthesizing information in multiple dimensions, taking into consideration third party citations, and then providing contextual answers. AI apps increasingly maintain persistent memory. This enables them to remember and learn about your preferences and needs. It also allows them to provide continuously better answers, tailored just for you.
 
 Capgemini estimates that 58% of users have [replaced classic search engines with AI tools](https://www.capgemini.com/us-en/news/press-releases/71-of-consumers-want-generative-ai-integrated-into-their-shopping-experiences/) when looking for products and services. Ahrefs report that 63% of websites now report traffic [originating from AI based search engines](https://ahrefs.com/blog/ai-traffic-study/).
 
 **Instead of searching for answers, people are simply asking AI to tell them what they need.**
 
-The younger generation are rapidly switching away from traditional search tools. They’re asking AI copilots, assistants, and chat interfaces for recommendations and answers.
+The younger generation are rapidly switching away from the traditional search tools. They’re asking AI apps for recommendations and answers.
 
 When an AI app generates answers, it chooses just two or three brands or products. In the SEO age being in the top ten was good enough. In the GEO age firms need to be in the top three to stand a chance. 
 
