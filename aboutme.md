@@ -22,6 +22,7 @@ The world will be a better place.
 
 ![Signature]({{ site.baseurl }}/assets/img/SigThick.webp){: .mx-auto.d-block :}
 
+
 **#EmbraceTheChange**
 
 ![Transformation]({{ site.baseurl }}/assets/img/Transformation.webp){: .mx-auto.d-block :}
