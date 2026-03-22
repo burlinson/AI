@@ -20,9 +20,6 @@ The AI transformation we are living through now will soon be embedded into our l
 
 The world will be a better place.
 
-![Signature]({{ site.baseurl }}/assets/img/sigthick.webp){: .float-left }
-
-
 **#EmbraceTheChange**
 
 ![Transformation]({{ site.baseurl }}/assets/img/Transformation.webp){: .mx-auto.d-block :}
