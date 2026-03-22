@@ -2,9 +2,6 @@
 title: "Core Components Of AI Platforms - Simplified By AI"
 hidden: true
 ---
-
-**Published:** August 18, 2025
-
 **Author:** Microsoft Copilot
 
 
