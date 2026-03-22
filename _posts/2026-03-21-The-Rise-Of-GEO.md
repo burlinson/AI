@@ -17,7 +17,7 @@ title: The Rise of GEO
 share-img: /assets/img/SEOGEOHeader.webp
 ---
 
-For decades, Search Engine Optimization (SEO) has shaped the internet. It influenced how we perceived brands and what products we consumed. In the age of AI, the SEO era is fading fast. AI apps answer questions in ways that make internet search tools look dated. Welcome **Generative Engine Optimization** (GEO).
+For decades, Search Engine Optimization (SEO) has shaped the internet. It has influenced how we perceive brands and what products we buy. In the age of AI, the SEO era is fading fast. AI apps answer questions in ways that make internet search tools look dated. Welcome **Generative Engine Optimization** (GEO).
 
 Historically, companies fought for rankings, backlinks, and keywords because in the traditional [SEO search algorithms](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) that's what mattered. Those algorithms determined where – even if – products were shown on web pages. If companies didn’t have a digital SEO strategy, they were dead meat.  
 
