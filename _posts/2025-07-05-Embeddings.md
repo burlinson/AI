@@ -23,13 +23,13 @@ Computers don’t naturally understand these contextual relationships. They proc
 
 Embeddings bridge the gap between the abstract realm where computers crunch numbers, and the fuzzy contextual world where humans live.
 
-The bridge between these two worlds is critical if AI is to deliver on its promise to understand and analyze the world we live in, and then make life better for us. **Without embeddings – without context – AI can't understand our human world**.
+The bridge between these two worlds is critical if AI is to deliver on its promise to understand and analyze the world we live in and then make life better for us. **Without embeddings – without context – AI can't understand our human world**.
 
 An embedding is a way of converting words, sentences, images, or even entire documents into a set of numbers that capture their meaning and relationships.
 
 Instead of treating words as isolated text (ones and zeros) embeddings map words to similar things that are close in terms of meaning. On that "mathematical map", cat is close to kitten. Paris sits closer to France than Argentina. However, Hilton is closer to Paris than Argentina. (For those of you too young to know who Paris Hilton is, look her up.)
 
-The phenomenal advances in the processing power of chips has allowed the creation of highly complex embeddings that can respond in milliseconds.
+The phenomenal advances in the processing power of chips have allowed the creation of highly complex embeddings that can respond in milliseconds.
 
 Embeddings are stored in vector databases, allowing AI platforms to search with context. With human-like context. RAG systems use embeddings to find the most relevant information, which is then passed to a large language model to generate answers.
 
