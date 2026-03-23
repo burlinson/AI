@@ -26,7 +26,7 @@ Think of the firms that raced to embrace email in the early 1990’s, and then s
 
 Similarly, AI solutions like [GPT](https://chat.openai.com), [Gemini](https://gemini.google.com), and [Claude](https://claude.ai) are incredible at general reasoning, summarization, and coding. However, every firm can buy the exact same API access for roughly the same price. These models, while amazing at what they do, offer limited long-term competitive advantage. 
 
-![ComAIThumb]({{ site.baseurl }}/assets/img/ComAIThumb.webp){: .mx-auto.d-block :}
+![ComAIThumb]({{ site.baseurl }}/assets/img/Truck.webp){: .mx-auto.d-block :}
 
 The real AI-First revolution is occurring in a second category: **Proprietary AI Platforms**
 
