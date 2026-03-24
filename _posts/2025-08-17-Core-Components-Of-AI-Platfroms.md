@@ -21,7 +21,7 @@ author: Tony Burlinson
 
 Some of the most important pieces of an AI platform are retrieval pipelines, neural networks, embeddings, vector databases, Retrieval Augmented Generation (RAG), LLMs, and prompt frameworks. Each plays a distinct role, and together they form the bedrock of modern AI platforms.
 
-[Retrieval pipelines](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/) source and deliver relevant data to ground AI model responses in external knowledge. The model is only as good as the data the retrieval pipelines provide.
+[Retrieval pipelines](https://burlinson.github.io/AI/2026-03-15-Retrieval-Pipelines/) source and deliver relevant data to ground AI model responses in external knowledge. The model is only as good as the data the retrieval pipelines provide.
 
 [Neural networks](https://burlinson.github.io/AI/2025-05-17-Neural-Networks/) are the intelligence layer. They learn patterns from massive amounts of data, enabling them to understand language, recognize images, and generate text. 
 
