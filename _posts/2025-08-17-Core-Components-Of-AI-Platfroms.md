@@ -19,7 +19,7 @@ mathjax: false
 author: Tony Burlinson 
 ---
 
-Some of the most important pieces of an AI platform are retrieval pipelines, neural networks, embeddings, vector databases, Retrieval Augmented Generation (RAG), LLMs, and prompt frameworks. Each plays a distinct role, and together they form the bedrock of modern AI platforms.
+Some of the most important pieces of an AI platform are retrieval pipelines, neural networks, embeddings, vector databases, Retrieval Augmented Generation (RAG), Large Language Models (LLM), and prompt frameworks. Each plays a distinct role, and together they form the bedrock of modern AI platforms.
 
 [Retrieval pipelines](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/) source and deliver relevant data to ground AI model responses in external knowledge. The model is only as good as the data the retrieval pipelines provide.
 
@@ -29,17 +29,17 @@ Some of the most important pieces of an AI platform are retrieval pipelines, neu
 
 When a human asks a question, the prompt framework searches the vector database for similar content and retrieves the most relevant chunks. That retrieved content is injected into the enhanced prompt, which the LLM uses to generate a grounded answer.
 
-Large Language Models (LLMs) interpret prompts and contextual data to generate text. They are the reasoning layer.
+[Large Language Models](https://uit.stanford.edu/service/techtraining/ai-demystified/llm) (LLMs) interpret prompts and contextual data to generate text. They are the reasoning layer.
 
-Together, the vector database, the prompt framework, and the LLM participate in a workflow known as Retrieval Augmented Generation (RAG).
+Together, the vector database, the prompt framework, and the LLM participate in a workflow known as Retrieval [Augmented Generation](https://cloud.google.com/use-cases/retrieval-augmented-generation) (RAG).
 
 ![Simple AI Platform]({{ site.baseurl }}/assets/img/AIPlatformSImple.webp){: .mx-auto.d-block :}
 
 When all these components work in concert, they can make responses to human questions seem quick and easy. In reality, a great deal is happening under the covers, and at astonishing speed.
 
-The diagram above is a simplified outline to demonstrate how the components interact. There are other components not shown here, and there are also other more complex workflows. For example, in more advanced AI platforms the prompt framework might trigger additional retrieval steps or request fresh data from the retrieval pipeline.
+The diagram above is a simplified outline to demonstrate conceptually how the components interact. There are other components not shown here, and there are also other more complex workflows. For example, in more advanced AI platforms the prompt framework might trigger additional calls on the retrieval pipelines.
 
-AI platforms might include additional layers not shown: Memory systems can store past interactions, multimodal pipelines handle different types of data beyond just text, and guardrails enforce safety and accuracy.
+AI platforms might include additional layers not shown above: Memory systems can store past interactions, multimodal pipelines handle different types of data beyond just text, and guardrails enforce safety and ensure accuracy.
 
 Increasingly, AI platforms are also incorporating agents that can take autonomous actions within defined guidelines to provide better answers.
 
