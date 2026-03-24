@@ -27,11 +27,11 @@ Some of the most important pieces of an AI platform are retrieval pipelines, neu
 
 [Embedding models](https://burlinson.github.io/AI/2025-07-05-Embeddings/) then convert text, images, and other content into embeddings. Embeddings are mathematical representations that capture meaning and context. [Vector databases](https://burlinson.github.io/AI/2025-06-22-Vector-Databases/) store these embeddings and make it possible to search data by similarity.
 
-When a human asks a question, the prompt framework searches the vector database for similar content and retrieves the most relevant chunks. That retrieved content is injected into the enhanced prompt, which the LLM uses to generate a grounded answer.
+When a human asks a question, the [prompt framework](https://guides.lib.umich.edu/c.php?g=1406239&p=10420137) searches the vector database for similar content and retrieves the most relevant chunks. That retrieved content is injected into the enhanced prompt, which the LLM uses to generate a grounded answer.
 
 [Large Language Models](https://uit.stanford.edu/service/techtraining/ai-demystified/llm) (LLMs) interpret prompts and contextual data to generate text. They are the reasoning layer.
 
-Together, the vector database, the prompt framework, and the LLM participate in a workflow known as [Retrieval Augmented Generation](https://cloud.google.com/use-cases/retrieval-augmented-generation) (RAG).
+Together, the vector database, the prompt framework, and the LLM participate in a workflow known as [Retrieval Augmented Generation](https://burlinson.github.io/AI/2025-07-26-Retreval-Augmented-Generation/) (RAG).
 
 ![Simple AI Platform]({{ site.baseurl }}/assets/img/AIPlatformSImple.webp){: .mx-auto.d-block :}
 
