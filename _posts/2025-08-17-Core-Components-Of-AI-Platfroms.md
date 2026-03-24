@@ -31,7 +31,7 @@ When a human asks a question, the prompt framework searches the vector database 
 
 [Large Language Models](https://uit.stanford.edu/service/techtraining/ai-demystified/llm) (LLMs) interpret prompts and contextual data to generate text. They are the reasoning layer.
 
-Together, the vector database, the prompt framework, and the LLM participate in a workflow known as Retrieval [Augmented Generation](https://cloud.google.com/use-cases/retrieval-augmented-generation) (RAG).
+Together, the vector database, the prompt framework, and the LLM participate in a workflow known as [Retrieval Augmented Generation](https://cloud.google.com/use-cases/retrieval-augmented-generation) (RAG).
 
 ![Simple AI Platform]({{ site.baseurl }}/assets/img/AIPlatformSImple.webp){: .mx-auto.d-block :}
 
