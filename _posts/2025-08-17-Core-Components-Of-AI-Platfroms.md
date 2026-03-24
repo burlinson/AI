@@ -37,7 +37,7 @@ Together, the vector database, the prompt framework, and the LLM participate in 
 
 When all these components work in concert, they can make responses to human questions seem quick and easy. In reality, a great deal is happening under the covers, and at astonishing speed.
 
-The diagram above is a simplified outline to demonstrate conceptually how the components interact. There are other components not shown here, and there are also other more complex workflows. For example, in more advanced AI platforms the prompt framework might trigger additional calls on the retrieval pipelines.
+The diagram above is a simplified outline to demonstrate conceptually how the components interact. There are other components not shown here, and there are also other more complex workflows. For example, in more advanced AI platforms the prompt framework might trigger additional calls on the retrieval pipelines for more timley or more accurate data.
 
 AI platforms might include additional layers not shown above: Memory systems can store past interactions, multimodal pipelines handle different types of data beyond just text, and guardrails enforce safety and ensure accuracy.
 
