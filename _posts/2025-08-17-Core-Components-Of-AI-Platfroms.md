@@ -25,7 +25,7 @@ Some of the most important pieces of an AI platform are retrieval pipelines, neu
 
 [Neural networks](https://burlinson.github.io/AI/2025-05-17-Neural-Networks/) are the intelligence layer. They learn patterns from massive amounts of data, enabling them to understand language, recognize images, and generate text. 
 
-[Embedding models](https://burlinson.github.io/AI/2025-07-05-Embeddings/) then convert text, images, and other content into embeddings. Embeddings are mathematical representations that capture meaning and context. [Vector databases](https://burlinson.github.io/AI/2025-06-22-Vector=Databases/) store these embeddings and make it possible to search data by similarity.
+[Embedding models](https://burlinson.github.io/AI/2025-07-05-Embeddings/) then convert text, images, and other content into embeddings. Embeddings are mathematical representations that capture meaning and context. [Vector databases](https://burlinson.github.io/AI/2025-06-22-Vector-Databases/) store these embeddings and make it possible to search data by similarity.
 
 When a human asks a question, the prompt framework searches the vector database for similar content and retrieves the most relevant chunks. That retrieved content is injected into the enhanced prompt, which the LLM uses to generate a grounded answer.
 
