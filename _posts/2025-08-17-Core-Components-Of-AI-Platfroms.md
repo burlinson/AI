@@ -33,7 +33,7 @@ Large Language Models (LLMs) interpret prompts and contextual data to generate t
 
 The prompt framework ensures LLMs receive the right instructions and context so they can produce reliable and predictable results.
 
-![Simple AI Platform]({{ site.baseurl }}/assets/img/AIPlatformAImple.webp){: .mx-auto.d-block :}
+![Simple AI Platform]({{ site.baseurl }}/assets/img/AIPlatformSImple.webp){: .mx-auto.d-block :}
 
 When all these components work well together, they make responses to human questions seem quick and easy. In reality, a great deal is happening under the covers, and at astonishing speed.
 
