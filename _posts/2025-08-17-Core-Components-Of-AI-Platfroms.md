@@ -21,11 +21,11 @@ author: Tony Burlinson
 
 Some of the most important pieces of an AI platform are retrieval pipelines, neural networks, embeddings, vector databases, Retrieval Augmented Generation (RAG), LLMs, and prompt frameworks. Each plays a distinct role, and together they form the bedrock of modern AI platforms.
 
-Retrieval pipelines source and deliver relevant data to ground AI model responses in external knowledge. The model is only as good as the data the retrieval pipelines provide.
+[Retrieval pipelines](https://burlinson.github.io/AI/2025-03-15-Retrieval-Pipelines/) source and deliver relevant data to ground AI model responses in external knowledge. The model is only as good as the data the retrieval pipelines provide.
 
-Neural networks are the intelligence layer. They learn patterns from massive amounts of data, enabling them to understand language, recognize images, and generate text. 
+[Neural networks](https://burlinson.github.io/AI/2025-05-17-Neural-Networks/) are the intelligence layer. They learn patterns from massive amounts of data, enabling them to understand language, recognize images, and generate text. 
 
-Embedding models then convert text, images, and other content into embeddings. Embeddings are mathematical representations that capture meaning and context. Vector databases store these embeddings and make it possible to search data by similarity.
+[Embedding models](https://burlinson.github.io/AI/2025-07-05-Embeddings/) then convert text, images, and other content into embeddings. Embeddings are mathematical representations that capture meaning and context. [Vector databases](https://burlinson.github.io/AI/2025-06-22-Vector=Databases/) store these embeddings and make it possible to search data by similarity.
 
 When a human asks a question, the prompt framework searches the vector database for similar content and retrieves the most relevant chunks. That retrieved content is injected into the enhanced prompt, which the LLM uses to generate a grounded answer.
 
