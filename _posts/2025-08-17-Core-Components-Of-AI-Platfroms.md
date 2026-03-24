@@ -37,8 +37,6 @@ When all these components work well together, they make responses to human quest
 
 AI platforms also include additional layers: Orchestration frameworks manage prompts and workflows, memory systems store past interactions, multimodal pipelines handle images and audio, and guardrails enforce safety and accuracy.
 
-![Simplifed AI Platform]({{ site.baseurl }}/assets/img/AIPlatformSImple.webp){: .mx-auto.d-block :}
-
 Increasingly, AI platforms are also incorporating agents that can take autonomous actions within defined guidelines.
 
 AI platforms are rapidly evolving toward new architectures, driven by increasing compute capacity, retrieval spanning every modality, continuous knowledge updates, and neural networks that fuse reasoning, memory, and planning into a single adaptive system.
