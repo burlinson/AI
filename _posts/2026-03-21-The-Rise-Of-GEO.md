@@ -19,11 +19,11 @@ share-img: /assets/img/SEOGEOHeader.webp
 
 For decades, Search Engine Optimization (SEO) has shaped the internet. It has influenced how we perceive brands and what products we buy. In the age of AI, the SEO era is fading fast. AI apps answer questions in ways that make internet search tools look dated. Welcome **Generative Engine Optimization** (GEO).
 
-Historically, companies fought for rankings, backlinks, and keywords because in the traditional [SEO search algorithms](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) that's what mattered. Those algorithms determined where products were shown in search results. If companies didn’t have a digital SEO strategy, they were dead meat.  
+Historically, companies fought for rankings, backlinks, and keywords because in the traditional [SEO search algorithms](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) that's what mattered. Those algorithms determined where products were shown in search results. If companies didn’t have a digital SEO strategy, they would be dead meat.  
 
 AI apps have stopped pointing users to search engines on web pages some time ago.
 
-Instead AI models are synthesizing information in multiple dimensions, taking into consideration third party citations, and then providing contextual answers. AI apps increasingly maintain persistent memory. This enables them to remember and learn about your personal preferences and needs. It also allows them to provide continuously better answers, tailored just for you.
+Instead, AI models are synthesizing information in multiple dimensions, taking into consideration third party citations, and then providing contextual answers. AI apps increasingly maintain persistent memory. This enables them to remember and learn about your personal preferences and needs. It also allows them to provide continuously better answers, tailored just for you.
 
 McKinsey found that half of consumers are already [using AI to search for products](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/new-front-door-to-the-internet-winning-in-the-age-of-ai-search), and that number climbs rapidly for younger generations. Ahrefs report that 63% of websites now report traffic [originating from AI based search engines](https://ahrefs.com/blog/ai-traffic-study/).
 
