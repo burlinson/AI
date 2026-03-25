@@ -25,11 +25,11 @@ This isn’t that dissimilar to our own human behavior. When we don’t know som
 
 Our intuition can often tell us when another human isn’t giving us straight answers. With AI it’s a lot more difficult. AI doesn’t sweat or glance away. It gives us answers in blocks of text. Additionally, we humans have been conditioned over the last few decades to believe that computers deal in absolutes with 100% accuracy.
 
-Over the last few years, we have been asking AI to process ever larger volumes of data to answer our increasingly complex questions and do so in mere seconds. Just like our own brains, AI can’t always be 100% accurate. It fills in the gaps.       
+Over the last few years, we have been asking AI to process ever larger volumes of data to answer our increasingly complex questions and do so in mere seconds. Just like our own brains, AI can’t always be 100% accurate becuase it doesn't always have 100% of the information it needs. It fills in the gaps.       
 
 **RAG’s primary role in AI platforms is to reduce hallucinations**. It grounds the model in real information before it responds.
 
-If you ask a question about your company’s compliance policy, RAG retrieves the actual text of the policy first. The model still generates the response, but RAG made sure that the momdel is working from a real source rather than an educated guess. RAG made the response less imaginative and more reliable.  
+If you ask a question about your company’s compliance policy, RAG retrieves the actual text of the policy first. The model still generates the response, but RAG made sure that the model is working from a real source rather than an educated guess. RAG made the response less imaginative and more reliable.  
 
 RAG is poised to evolve in several important ways in the coming years:
 
