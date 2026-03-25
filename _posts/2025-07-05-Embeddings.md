@@ -27,7 +27,9 @@ The bridge between these two worlds is critical if AI is to deliver on its promi
 
 An embedding is a way of converting words, sentences, images, or even entire documents into a set of numbers that capture their meaning and relationships.
 
-Instead of treating words as isolated text (ones and zeros) embeddings map words to similar things that are close in terms of meaning. On that "mathematical map", cat is close to kitten. Paris sits closer to France than Argentina. However, Hilton is closer to Paris than Argentina. (For those of you too young to know who Paris Hilton is, look her up.)
+Instead of treating words as isolated text (ones and zeros) embeddings map words to similar things that are close in terms of meaning. On that "mathematical map", cat is close to kitten. Paris sits closer to France than Argentina. However, Hilton is closer to Paris than Argentina. (For those of you too young to know who Paris Hilton is, look her up [here](https://en.wikipedia.org/wiki/Paris_Hilton).)
+
+![Vector relationships]({{ site.baseurl }}/assets/img/VectorRelationships.webp){: .mx-auto.d-block :}
 
 The phenomenal advances in the processing power of chips have allowed the creation of highly complex embeddings that can respond in milliseconds.
 
