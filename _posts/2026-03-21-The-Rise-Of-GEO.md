@@ -16,7 +16,7 @@ date: 2026-03-21T00:00:00Z
 title: The Rise of GEO
 share-img: /assets/img/SEOGEOShare.png
 audio_enabled: true
-audio_link: "https://soundcloud.com/tony-burlinson/seogeo"
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/audio/SEOGEO.m4a"
 audio_text: "Listen to a quick two minute summary"
 ---
 
