@@ -15,6 +15,9 @@ tags:
   - SML
   - LLM
 author: Tony Burlinson
+audio_enabled: true
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIFirst.mp3"
+audio_text: "Listen to discussion on this article"
 ---
 The AI divide is no longer between firms that use AI and those that don’t. The real divide is between firms that are running with **commodity AI vendor solutions** and those that are purposefully building their own **proprietary AI platforms** to create growth engines.
 
