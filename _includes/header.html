@@ -42,7 +42,6 @@
             {% if page.audio_enabled and page.audio_link %}
               <div class="post-audio-link" style="margin-top:10px; margin-bottom:10px;">
                 <a href="{{ page.audio_link }}" target="_blank" style="font-weight:600;">
-                  <i class="fa fa-headphones" style="margin-right:6px;"></i>
                   {{ page.audio_text | default: "Listen to a two minute summary of this article" }}
                   <i class="fa fa-headphones" style="margin-left:6px;"></i>
                 </a>
