@@ -65,3 +65,13 @@ Firms that are relying solely on a third-party AI subscription models aren't bui
 
 
 _This article was updated in February 2026 to include references to Retrieval Pipelines, Gemini and Claude_
+
+<p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
+  Listen to a discussion on this article
+  <i class="fa fa-headphones" style="margin-left:6px;"></i>
+</p>
+
+<audio controls preload="none" style="width:100%; margin-bottom:20px;">
+  <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIFirst.mp3" type="audio/mp3">
+</audio>
+
