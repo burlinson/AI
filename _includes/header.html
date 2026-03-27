@@ -38,6 +38,14 @@
               By <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+              {% if page.audio_enabled and page.audio_link %}
+                <div class="post-meta" style="margin-top:6px;">
+                  <a href="{{ page.audio_link }}" target="_blank" style="font-weight:600;">
+                    <i class="fa fa-headphones" style="margin-right:4px;"></i>
+                    {{ page.audio_text | default: "Listen to a two minute summary" }
+                  </a>
+                </div>
+              {% endif %}
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
