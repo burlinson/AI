@@ -52,8 +52,6 @@ Firms that are struggling with their foundational client and product datasets ar
 
 Firms that don’t have sophisticated client and product datasets, and more importantly a solid and executable [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/), are going to find themselves in an increasingly lonely echo chamber.  
 
-AI is rapidly becoming the primary interface for humans to consume information.
-
 **AI is transforming how we consume information.** 
 
 Firms that want to stay relevant need to rethink their digital strategy, define their GEO strategy, fine tune their client and product datasets for the AI age, and start executing on a robust [retrieval pipeline strategy](https://burlinson.github.io/AI/2026-03-14-Retrieval-Pipelines/). 
