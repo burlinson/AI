@@ -16,7 +16,7 @@ date: 2026-03-15T00:00:00Z
 title: Retrieval Pipelines
 share-img: /assets/img/PipeHead.webp
 audio_enabled: true
-audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Pipelines.m4a"
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Pipelines.mp3"
 audio_text: "Listen to a discussion on this article"
 ---
 As AI platforms continue to evolve, one component is quietly becoming increasingly critical for success: **Retrieval Pipelines**. While large language models can generate human like responses, they are limited by the data they were trained on. AI platforms are only as good as the information they ingest.
@@ -70,6 +70,6 @@ Perhaps the most critical piece of this puzzle is finding and retaining the topâ
 </p>
 
 <audio controls preload="none" style="width:100%; margin-bottom:20px;">
-  <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Pipelines.m4a" type="audio/mp4">
+  <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Pipelines.mp3" type="audio/mp3">
 </audio>
 
