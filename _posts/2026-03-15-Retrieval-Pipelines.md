@@ -15,6 +15,7 @@ author: Tony Burlinson
 date: 2026-03-15T00:00:00Z
 title: Retrieval Pipelines
 share-img: /assets/img/PipeHead.webp
+audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Pipelines.m4a"
 audio_text: "Listen to a discussion on this article"
 ---
@@ -61,3 +62,11 @@ But technology alone isn’t enough.
 Firms need engineering teams that know where the “golden nuggets” of enterprise data live today. Feeding the AI model with standard data from legacy structured databases will produce good‑enough answers. Whereas ingesting rich multimodal data from multiple sources in real time will generate unique and powerful insights, creating a real competitive advantage.
 
 Perhaps the most critical piece of this puzzle is finding and retaining the top‑tier data engineering teams that can build top‑tier multimodal retrieval pipelines.
+
+<p style="margin: 20px 0; font-size: 1.1em;">
+  <a href="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Pipelines.m4a" target="_blank" style="font-weight:600;">
+    Listen to a discussion on this article
+    <i class="fa fa-headphones" style="margin-left:6px;"></i>
+  </a>
+</p>
+
