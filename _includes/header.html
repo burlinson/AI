@@ -46,15 +46,13 @@
                   {{ page.audio_text | default: "Listen to a two‑minute summary" }}
                 </div>
 
-                <iframe 
-                  width="100%" 
-                  height="120" 
-                  scrolling="no" 
-                  frameborder="no"
-                  src="https://w.soundcloud.com/player/?url={{ page.audio_link }}&color=%23ff5500&inverse=false&auto_play=false&show_user=true">
-                </iframe>
+                <audio controls preload="none" style="width:100%;">
+                  <source src="{{ page.audio_link }}" type="audio/mp4">
+                  Your browser does not support the audio element.
+                </audio>
               </div>
             {% endif %}
+
 
 
           
