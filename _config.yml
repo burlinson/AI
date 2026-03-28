@@ -10,7 +10,8 @@
 ############################
 
 # Name of website
-title: HOME
+title: www.aimusing.blog
+tagline: HOME
 
 # Your name to show in the footer
 author: © Tony Burlinson
@@ -20,6 +21,7 @@ author: © Tony Burlinson
 ###############################################
 
 navbar-links:
+  HOME: "/"
   About Me: "aboutme"
   Resources:
     - My LinkedIn: "https://www.linkedin.com/in/tonyburlinson"
