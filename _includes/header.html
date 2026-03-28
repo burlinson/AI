@@ -41,13 +41,15 @@
 
             {% if page.audio_enabled and page.audio_link %}
               <div class="post-audio-link" style="margin-top:10px; margin-bottom:10px;">
-                <a href="{{ page.audio_link }}" target="_blank" style="font-weight:600;">
+                <a href="{{ page.audio_link }}" 
+                   target="_blank" 
+                   style="font-weight:600; color:white;">
                   {{ page.audio_text | default: "Listen to a two minute summary of this article" }}
-                  <i class="fa fa-headphones" style="margin-left:6px;"></i>
+                  <i class="fa fa-headphones" style="margin-left:6px; color:white;"></i>
                 </a>
               </div>
             {% endif %}
-          
+
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
