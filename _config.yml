@@ -21,7 +21,6 @@ author: © Tony Burlinson
 ###############################################
 
 navbar-links:
-  HOME: "/"
   About Me: "aboutme"
   Resources:
     - My LinkedIn: "https://www.linkedin.com/in/tonyburlinson"
