@@ -14,6 +14,7 @@ tags:
   - Agentic AI
   - Semantic Reasoning
 author: Tony Burlinson 
+description: Retrieval Augmented Generation (RAG) grounds AI responses in real data to reduce hallucinations. Learn how RAG works and why it is essential for accurate enterprise AI platforms.
 ---
 Retrieval Augmented Generation (RAG) has quickly become one of the most important parts of modern AI platforms. RAG coordinates the core components of a platform to ensure that answers are grounded in real data and as accurate as possible. 
 

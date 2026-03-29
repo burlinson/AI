@@ -14,6 +14,7 @@ tags:
 comments: fasle
 mathjax: false
 author: Tony Burlinson
+description: Embeddings convert words and images into mathematical vectors that capture meaning and context — enabling AI to understand language the way humans do. Here's how they work.
 ---
 Behind almost every modern AI platform there’s a quiet yet powerful concept at work: **Embeddings**. In simple terms, embeddings are how computers turn meaning into math.
 

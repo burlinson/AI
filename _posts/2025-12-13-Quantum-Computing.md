@@ -14,6 +14,7 @@ share-img: /assets/img/Quantum.webp
 show-thumbnail: true
 comments: fasle
 mathjax: false
+description: Google's Willow quantum processor completed in 2 hours what would take a supercomputer 3 years. Learn why quantum computing is about to become AI's most powerful accelerator.
 ---
 On October 22, 2025 Google crossed a threshold that scientists have been chasing for decades: The first [verified quantum advantage](https://research.google/blog/a-verifiable-quantum-advantage/). Using its 105 qubit Willow processor and a new algorithm called Quantum Echoes, Google completed a simulation in 2 hours that would take the fastest supercomputer more than 3 years. 
 

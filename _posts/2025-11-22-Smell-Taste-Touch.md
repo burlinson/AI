@@ -14,6 +14,7 @@ title: AI is Learning to Smell, Touch & Taste
 share-img: /assets/img/SensesHeader.webp
 comments: fasle
 mathjax: false
+description: Multimodal AI is expanding beyond text and images to smell, taste and touch. Learn how sensory AI is transforming healthcare, food, robotics and what it means for the future of AI platforms.
 ---
 To date, AI has been defined by a single dominant input: Text. A new frontier is emerging. AI is being trained on multimodal sensory data that we humans take for granted: Smell, taste, and touch. 
 
