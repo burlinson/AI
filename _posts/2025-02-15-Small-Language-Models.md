@@ -12,6 +12,9 @@ tags:
 comments: fasle
 mathjax: false
 author: Tony Burlinson
+audio_enabled: true
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/SLM.mp3"
+audio_text: "Listen to a quick two minute summary"
 ---
 
 Almost anyone paying attention to AI has heard about **Large Language Models**: AI models boasting billions of parameters, giving us snappy answers to almost any question we care to think of, usually within a few seconds. **Small Language Models** (SLMs) are quietly becoming one of the most important innovations in the AI ecosystem. 
