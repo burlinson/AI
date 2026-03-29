@@ -2,6 +2,7 @@
 layout: page
 title: AI Musing
 subtitle: Tony Burlinson
+description: Helping business leaders, executives and educators cut through the AI hype. Practical, actionable insights on AI strategy, becoming AI-First, and building proprietary AI platforms.
 ---
 
 My name is Tony Burlinson.
