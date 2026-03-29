@@ -18,7 +18,7 @@ share-img: /assets/img/SEOGEOShare.png
 audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/SEOGEO.mp3"
 audio_text: "Listen to a quick summary"
-description: "What is Generative Engine Optimization GEO Services for AI, versus SEO" 
+description: What is Generative Engine Optimization GEO Services for AI, versus SEO 
 ---
 
 For decades, Search Engine Optimization (SEO) has shaped the internet. It has influenced how we perceive brands and what products we buy. In the age of AI, the SEO era is fading fast. AI apps answer questions in ways that make internet search tools look dated. Welcome **Generative Engine Optimization** (GEO).
