@@ -22,6 +22,7 @@ author: Tony Burlinson
 audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIPlat.mp3"
 audio_text: "Listen to a quick summary"
+description: Learn how retrieval pipelines, vector databases, RAG, neural networks and LLMs work together to build modern AI platforms — explained clearly for enterprise technology leaders.
 ---
 Some of the most important pieces of an AI platform are retrieval pipelines, neural networks, embeddings, vector databases, Retrieval Augmented Generation (RAG), Large Language Models (LLM), and prompt frameworks. Each plays a distinct role, and together they form the bedrock of modern AI platforms.
 

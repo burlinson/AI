@@ -12,6 +12,7 @@ tags:
   - Hallucination
   - Data Readiness
 author: Tony Burlinson
+decription: AI hallucination isn't a new problem — it's garbage in, garbage out at scale. Learn why data readiness and clean AI pipelines will separate AI First firms from laggards.
 ---
 The phrase "_garbage in, garbage out_" has been around for decades. AI is about to amplify this age-old problem, creating even bigger garbage dumps of corporate data. There’s even a fancy name for bad data in the AI age: **Hallucination**.
 

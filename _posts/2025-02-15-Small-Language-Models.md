@@ -15,6 +15,7 @@ author: Tony Burlinson
 audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/SLM.mp3"
 audio_text: "Listen to a quick summary"
+description: Small Language Models (SLMs) are faster, cheaper and more private than LLMs. Learn why SLMs paired with RAG are becoming the most practical AI tool for enterprise teams.
 ---
 
 Almost anyone paying attention to AI has heard about **Large Language Models**: AI models boasting billions of parameters, giving us snappy answers to almost any question we care to think of, usually within a few seconds. **Small Language Models** (SLMs) are quietly becoming one of the most important innovations in the AI ecosystem. 
@@ -35,7 +36,7 @@ Think of a Finance department at pharmaceutical company. That team might just ne
 
 LLMs provide **general intelligence and creativity**. SLMs provide **precision, control, and efficiency**. 
 
-![LLMSLM]({{ site.baseurl }}/assets/img/LLMsSLMs.png){: .mx-auto.d-block :}
+![Large Language Models versus Small Language Model Benefits]({{ site.baseurl }}/assets/img/LLMsSLMs.png){: .mx-auto.d-block :}
 
 When LLMs and SLMs are combined, the two create a layered architecture where the LLM handles broad reasoning and the SLM handles specialized tasks.
 

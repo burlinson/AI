@@ -10,6 +10,7 @@ tags:
   - AI Consciousness
   - Singularity
 author: Tony Burlinson 
+description: Could AI ever become conscious? Explore the difference between AI consciousness and Singularity, the ethical implications, and why it matters more than most people realize.
 ---
 AI consciousness refers to the hypothetical notion that AI could possess subjective awareness: The ability to experience sensations, emotions, and a sense of self and perhaps even make decisions about its own survival. 
 

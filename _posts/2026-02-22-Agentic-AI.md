@@ -15,6 +15,7 @@ tags:
 comments: fasle
 mathjax: false
 author: Tony Burlinson
+description: Agentic AI shifts software from responding to acting autonomously. Learn how AI agents plan, reason and execute workflows — and what firms need to do to implement them successfully.
 ---
 For decades, software has been passive. It waits for commands, follows predefined rules, and executes tasks inside rigid boundaries. Agentic AI changes that model entirely. Agentic AI shifts from software that **responds**, to software that **acts**. It doesn’t just generate answers; it plans, reasons, takes action, and self corrects. 
 

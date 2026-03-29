@@ -14,6 +14,7 @@ tags:
 comments: fasle
 mathjax: false
 author: Tony Burlinson
+description: AI Singularity — when AI surpasses human intelligence and improves itself uncontrollably — is hotly debated. Here's a clear-eyed look at what it means and whether it's really coming.
 ---
 Singularity is a theoretical point in the future when AI surpasses human intelligence and then improves itself at an accelerated and uncontrollable rate. Some believe that once this Rubicon has been crossed, AI’s progress becomes so rapid that human beings will no longer be able to control it. 
 

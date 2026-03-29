@@ -18,6 +18,7 @@ share-img: /assets/img/PipeHead.webp
 audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Pipelines.mp3"
 audio_text: "Listen to a discussion on this article"
+description: Retrieval pipelines are the unsung heroes of enterprise AI — feeding models with real-time data to reduce hallucinations and power RAG. Here's why they matter more than the AI model itself.
 ---
 As AI platforms continue to evolve, one component is quietly becoming increasingly critical for success: **Retrieval Pipelines**. While large language models can generate human like responses, they are limited by the data they were trained on. AI platforms are only as good as the information they ingest.
 

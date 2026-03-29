@@ -13,6 +13,7 @@ author: Tony Burlinson
 date: 2026-01-11T00:00:00.000Z
 title: AI at Light Speed
 share-img: /assets/img/LightSpeedHeader.webp
+description: Photonic chips use light instead of electrons to process data, delivering 30-100x performance gains for AI. Learn why light-based chips could be the biggest AI hardware breakthrough in decades.
 ---
 
 Microchips are one of mankind’s most amazing inventions. Yet they rely on electrons that impose physical limits. That is changing with photonic light‑based chips, capable of dramatically higher processing speeds.

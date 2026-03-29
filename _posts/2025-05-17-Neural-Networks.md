@@ -12,6 +12,7 @@ tags:
 comments: fasle
 mathjax: false
 author: Tony Burlinson
+description: Neural networks are the engines powering modern AI. Learn how these brain-inspired systems recognize patterns, learn from experience, and drive everything from face recognition to autonomous vehicles.
 ---
 
 Neural networks are the engines of modern AI platforms. They are inspired by the structure of our own human brain: Recognizing patterns, learning, and making split second decisions without being explicitly programmed.
