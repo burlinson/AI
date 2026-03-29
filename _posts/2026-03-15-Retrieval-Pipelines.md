@@ -42,7 +42,7 @@ There are three reasons why retrieval pipelines are important:
 
 First, organizations are drowning in unstructured dark data. Retrieval pipelines turn [dark data](https://burlinson.github.io/AI/2025-03-22-Dark-Data/) into a usable intelligence layer.
 
-Second, accuracy matters: AI systems that hallucinate are unusable, and in regulated industries that’s a showstopper. Retrieval pipelines, when built correctly, dramatically reduce hallucinations.
+Second, accuracy matters: AI systems that [hallucinate](https://aimusing.blog/2025-01-12-Hallucination/) are unusable, and in regulated industries that’s a showstopper. Retrieval pipelines, when built correctly, dramatically reduce hallucinations.
 
 Third, knowledge changes constantly. Retrieval pipelines allow AI to stay current without retraining massive models.
 
