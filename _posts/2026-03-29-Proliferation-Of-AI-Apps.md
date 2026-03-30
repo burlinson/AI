@@ -22,7 +22,7 @@ description: A strategic look at the explosion of AI apps and the inevitable con
 ---
 It seems like every day a new AI app is launched, each one filling a new niche in the AI marketplace. Most of these new apps distinguish themselves by  their front-end workflow rather than the sophistication of their back-end AI models.
 
-Andreson Horrowitz, a venture capital firm in Silicon Valley, publishes a report on the [top 100 AI apps](https://a16z.com/100-gen-ai-apps-6/). They are already the sixth revision of the report. Microsoft’s marketplace has a [dizzying choice of AI apps](https://marketplace.microsoft.com/en-us/search/products?category=ai-apps-and-agents) to support the workplace, and that’s just the business AI apps on Microsoft’s platform 
+Andreson Horrowitz, a venture capital firm in Silicon Valley, publishes a report on the [top 100 AI apps](https://a16z.com/100-gen-ai-apps-6/). They are already on the sixth revision of the report. Microsoft’s marketplace has a [dizzying choice of AI apps](https://marketplace.microsoft.com/en-us/search/products?category=ai-apps-and-agents) to support the workplace, and that’s just the business AI apps on Microsoft’s platform 
 
 **This moment in AI’s evolution has strong echoes to the early days of the internet. **
 
