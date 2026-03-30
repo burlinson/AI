@@ -78,7 +78,7 @@ Firms like Expedia, Netflix, Salesforce and Bloomberg used the foundational ISP 
 
 AI will consolidate in some form. **The bubble we are living in where almost anyone can release an app and call it "Artificial Intelligence" is eventually going to burst.**   
 
-The firms that steadily build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) — not just rent the latest shiny front-end tools with an "AI" label — will be the firms still standing when the dust settles on the AI landscape.
+The firms that steadily build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) will be the firms still standing when the dust settles on the AI landscape.
 
 <p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
   Listen to a discussion on this article
