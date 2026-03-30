@@ -11,7 +11,7 @@ tags:
   - Product Data
 layout: post
 author: Tony Burlinson
-date: 2026-03-21T00:00:00Z
+date: 2026-03-29T00:00:00Z
 thumbnail-img: /assets/img/Laptop.webp
 cover-img: /assets/img/AIAppProlifHeader.webp
 share-img: /assets/img//AIAppProlifHeader.webp
