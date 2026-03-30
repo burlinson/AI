@@ -2,13 +2,13 @@
 title: The Proliferation of AI Apps
 subtitle: History Suggests AI Is Headed for Massive Consolidation
 tags:
-  - SEO
-  - GEO
+  - LLM
+  - SLM
   - Digital Strategy
   - Retrieval Pipelines
+  - Dark Data
   - AI First
-  - Client Data
-  - Product Data
+  - AI Apps
 layout: post
 author: Tony Burlinson
 date: 2026-03-29T00:00:00Z
