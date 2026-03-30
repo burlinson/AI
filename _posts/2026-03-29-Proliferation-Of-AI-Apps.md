@@ -48,7 +48,7 @@ From a consumer’s point of view, the murky back-end AI models all do the same 
 
 Other analysts argue that front-end AI apps are ripe for consolidation. There are thousands of apps competing against each other to support the same overlapping workflows. They essentially do the same thing. They can’t all survive when all consumers want is simplicity. 
 
-Additionally, AI legislation and corporate governance are about to insert a hard divide between personal and professional use of AI. People are loading corporate data into their consumer AI apps. How many employees record their work meetings using an AI app on their personal phone, and then review an AI generated summary that also captures action items? 
+The consolidation pressure isn't coming from market forces alone. AI legislation and corporate governance are about to insert a hard divide between personal and professional use of AI. People are loading corporate data into their consumer AI apps. How many employees record their work meetings using an AI app on their personal phone, and then review an AI generated summary that also captures action items? 
 
 Lawmakers and corporations are poised to separate the AI ecosystem into two halves, making sure one half doesn’t leak confidential data into the other half. 
 
