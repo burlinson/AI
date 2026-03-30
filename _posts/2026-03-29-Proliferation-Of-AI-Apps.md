@@ -60,22 +60,22 @@ AI providers that distinguish individual consumers from large corporations and t
 
 **Consumers want a small number of apps that genuinely make their lives easier.**
 
-That probably means those apps are embedded into their smartphones, powered by a few mega firms that can dip into their existing deep datasets on consumer needs, enabling those same firms to understand exactly what AI capabilities will really going to make thier client's life better. Apple, Meta and Google are in pole position. 
+That probably means those apps are embedded into their smartphones, powered by a few mega firms that can dip into their existing deep datasets to profile consumers, enabling those same firms to understand exactly what AI capabilities will make thier customer's life better. Apple, Meta and Google are in pole position. 
 
 Consumers don’t want advertising in their AI apps, but they don’t mind if their metadata is sold on the back end. Especially if that reduces the price.  
 
-Corporations likely want the scalability of [large language models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms/) for general reasoning, inegrated with [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) to create competitive advantage, along with the adaptability of well-built [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time. Put another way, **corporations need to build a proprietary [AI-First Platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/)**. 
+The AI needs of Corporations are much more nuanced. They need the scalability of [large language models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms/) for general reasoning, integrated with [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) to create competitive advantage, along with the adaptability of well-built [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time. Put another way, **corporations need to build their own proprietary [AI-First Platforms](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/)**. 
 
-Most corporations are still figuring out how to go about building their own AI Platform. 
+Most corporations are still figuring out how to approach AI. 
 
-Moreover, the gritty technical details aren’t sexy. So instead, it’s easier to follow the current AI buzz around an almost endless range of front end "AI" tools. The shiny sexy stuff. The same stuff that’s likely heading for a massive consolidation. 
+Moreover, the gritty technical details of building a proprietary AI platform aren’t sexy. So instead, it’s easier to follow the current AI buzz around an almost endless range of front-end "AI" tools. The shiny sexy stuff. The stuff that consumers are chattering on about. The same stuff that’s likely heading for a massive consolidation. 
 
-Some firms don’t quite know where to start, so they are jumping on the AI bandwagon and running multiple AI POCs with [commoditized vendor solutions](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). 
+Firms that don’t quite know where to start are jumping on the AI bandwagon and running multiple AI POCs with [commoditized vendor solutions](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). 
 
-The compelling lesson from ISP and search engine consolidation is not which firms survived in that space, but **how smart businesses built on the back of those technologies**. 
+The compelling lesson from ISP and search engine consolidation is not which firms survived in that space, but **how smart businesses built on the back of those foundational technologies to create proprietary solutions**. 
 
 Firms like Expedia, Netflix, Salesforce and Bloomberg used the foundational ISP and search engine technologies to build proprietary tools, robust data pipelines and entirely new products. **The firms that stood back and saw the bigger picture gained a huge first adopter advantage**. 
 
-AI will consolidate in some form. **The bubble whereby almost anyone can release an app and call it "AI" is eventually going to burst.**   
+AI will consolidate in some form. **The bubble we are living in where almost anyone can release an app and call it "Artificial Intelligence" is eventually going to burst.**   
 
 The firms that steadily build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) — not just rent the latest shiny front-end tools with an "AI" label — will be the firms still standing when the dust settles on the AI landscape.
