@@ -58,6 +58,8 @@ Lawmakers and corporations are poised to separate the AI ecosystem into two halv
 
 The almost endless choice of AI apps today does not make users’ lives easier. 
 
+![Simple AI Platform](/assets/img/AILand.webp){: .mx-auto .d-block :}
+
 Consumers are confused. They don't want to jump from one app to another. 
 
 **Businesses are equally wary, fearful they are missing out while competitors leap ahead.**
