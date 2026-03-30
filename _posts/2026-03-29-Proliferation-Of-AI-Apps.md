@@ -46,7 +46,7 @@ A simplified home page with lots of white and a search bar with a small Google l
 
 Some analysts believe there will be a consolidation around a small number of back-end foundational models, powering front-end tools; similar to how [AWS](https://aws.amazon.com/free/webapps/) and [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search) currently host vast ecosystems of applications.
 
-Others argue that there will be an inevitable consolidation of AI apps on the front-end. Mainly because there are so many apps with overlapping workflows that essentiallu do the same thing. Legislation and corporate AI governance policies will likely accelerate the front-end consolidation, as hard lines are drawn between personal and professional AI use. 
+Others argue that there will be an inevitable consolidation of AI apps on the front-end. Mainly because there are so many apps with overlapping workflows that essentially do the same thing. Legislation and corporate AI governance policies will likely accelerate the front-end consolidation, as hard lines are drawn between personal and professional AI use. 
 
 The barrier to entry for creating new AI tools is incredibly low, in an already overcrowded ecosystem. They all make impressive claims about making the user’s life dramatically better. Some do indeed deliver. Others are shaky. Calling the back-end capabilities of some of these apps "Artificial Intelligence" is a stretch; they are merely leveraging massive back end computing power to do the same things that are already being done today, only faster.   
 
