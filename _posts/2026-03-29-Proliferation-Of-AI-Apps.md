@@ -42,13 +42,17 @@ All they wanted was simplicity.
 
 **Two decades later, AI is barreling towards a similar consolidation.**
 
-Some analysts suggest there will be a consolidation of the back-end models. That will then lead to a small number of foundational AI models powering a multitude of front-end tools. This is the same model for [AWS](https://aws.amazon.com/free/webapps/) and [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search). They provide back-end cloud services to host a vast front-end ecosystem of third-party applications. 
+Some analysts suggest there will be a consolidation of the back-end models. That will then lead to a small number of foundational AI models powering a multitude of front-end tools. This is the same utility model [AWS](https://aws.amazon.com/free/webapps/) and [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search) offer. They provide back-end cloud services to host a vast front-end ecosystem of third-party applications. 
 
 From a consumer’s point of view, the murky back-end AI models all do the same thing. (It’s actually a lot more complicated, but the point is consumers just don’t care.)
 
 Other analysts argue that front-end AI apps are ripe for consolidation. There are thousands of apps competing against each other to support the same overlapping workflows. They essentially do the same thing. They can’t all survive when all consumers want is simplicity. 
 
-The consolidation pressure isn't coming from market forces alone. AI legislation and corporate governance are about to insert a hard divide between personal and professional use of AI. People are loading corporate data into their consumer AI apps. How many employees record their work meetings using an AI app on their personal phone, and then review an AI generated summary that also captures action items? 
+The consolidation pressure isn't coming from market forces alone. 
+
+AI legislation and corporate governance are about to insert a hard divide between personal and professional use of AI. People are loading corporate data into their consumer AI apps. 
+
+How many employees record their work meetings using an AI app on their personal phone, and then review an AI generated summary that also captures action items? 
 
 Lawmakers and corporations are poised to separate the AI ecosystem into two halves, making sure one half doesn’t leak confidential data into the other half. 
 
@@ -66,21 +70,27 @@ Consumers just want AI to work and make their life easier. They don’t want to 
 
 **Corporations don't have that luxury. For corporations a coherent and executable AI-First strategy is mission critical.**
 
-The tangled complexity of the AI ecosystem is leading some firms towards a flawed approach: Chasing the AI buzz, trying out the latest front-end AI apps, and running multiple POCs with [commoditized AI vendor solutions](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). They are focusing on the shiny stuff. The shiny front-end AI apps that are about to be both segmented and undergo a massive consolidation.
+The tangled complexity of the AI ecosystem is leading some firms towards a flawed approach: Chasing the AI buzz, trying out every latest AI apps, and running multiple POCs with [commoditized AI vendor solutions](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). They are focusing on the shiny stuff. The shiny front-end AI apps that are about to be both segmented and undergo a massive consolidation.
 
 That’s a dangerous approach.
 
-The focus needs be on creating a proprietary AI platform to provide a meaningful competitive edge. An AI-First platform takes the scalability of [large language models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms/) for general reasoning and combines them with unique insights from proprietary [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/). Then there is the gritty work of building [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time. 
+The focus should be on creating a proprietary AI platform to provide a meaningful competitive edge. 
 
-None of that sounds sexy. It is far easier for corporate leaders to focus on the shiny AI stuff on the front-end that everyone is chattering about in the consumer domain. 
+An AI-First platform takes the scalability of [large language models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms/) for general reasoning and combines them with unique insights from proprietary [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/). Then there is the gritty work of building [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time. 
+
+None of that sounds sexy. 
+
+It's far easier for corporate leaders to focus on the shiny AI stuff on the front-end that everyone is chattering about in the consumer domain. 
 
 The compelling lesson from ISP and search engine consolidation is not which firms survived in that space, but how smart businesses built on the back of those foundational technologies to create new solutions. 
 
-Firms like Expedia, Netflix, Salesforce, and Bloomberg used the foundational internet technologies to build proprietary platforms with robust data pipelines. They created new products and new revenue streams. They saw the bigger picture: They built proprietary platforms on top of those foundational technologies to provide consumers with products they didn’t even know they needed.
+Firms like Expedia, Netflix, Salesforce, and Bloomberg used the foundational internet technologies to build proprietary platforms. They saw the bigger picture: By buiding proprietary platforms on top of those foundational technologies they were able to provide consumers with new products they didn’t even know they needed.
 
 That first-mover advantage proved decisive.
 
-AI will consolidate in some form. **The bubble we are living through where anyone can release an app and call it “Artificial Intelligence” will eventually burst.**
+AI will consolidate in some form. 
+
+**The bubble we are living through where anyone can release an app and call it “Artificial Intelligence” will eventually burst.**
 
 The firms that have a solid AI-First strategy to build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) will be the firms still standing when the dust settles on the AI landscape.
 
