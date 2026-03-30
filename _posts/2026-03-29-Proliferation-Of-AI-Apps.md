@@ -15,8 +15,8 @@ date: 2026-03-29T00:00:00Z
 thumbnail-img: /assets/img/Laptop.webp
 cover-img: /assets/img/AIAppProlifHeader.webp
 share-img: /assets/img//AIAppProlifHeader.webp
-audio_enabled: false
-audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/SEOGEO.mp3"
+audio_enabled: true
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Bubble.mp3"
 audio_text: "Listen to a quick summary"
 description: A strategic look at the explosion of AI apps and the inevitable consolidation that lies ahead. Explains for business executives and academics why firms building proprietary AI platforms will gain long-term advantage while others chase short-term buzz.
 ---
