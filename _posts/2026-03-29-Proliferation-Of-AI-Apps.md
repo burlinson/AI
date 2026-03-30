@@ -26,13 +26,13 @@ Andreessen Horowitz, a venture capital firm in Silicon Valley, is already on the
 
 **This moment in AI's evolution has strong echoes to the early days of the internet.**
 
-In the 1990s, consumers faced a confusing array of internet service providers (ISPs). Under the hood, they all did the same thing. 
+In the 1990s, consumers faced a confusing array of internet service providers (ISPs). America On Line, CompuServe, and EarthLink were just a few that clamoured for customers with claims of more reliable and faster service. Under the hood, they all did the same thing. 
 
 The same fragmentation occurred in the early 2000s with search engines. Firms like AltaVista, Lycos, and Yahoo aggressively competed against each other. Under the hood, they all did the same thing. 
 
 Then came a massive wave of consolidation. 
 
-Telecom giants gobbled up the ISPs and rolled internet access into consumer’s existing phone services. Then they issued one combined bill. 
+Telecom giants gobbled up the ISPs and rolled internet access into consumer’s existing phone services. Then they issued customers with one combined bill. 
 
 Google had a simple search bar on an almost blank home page with no advertising. It buried the competition. The search engine war was officially over in 2006 when "Google" was added to the Oxford English Dictionary as a verb.
 
@@ -54,11 +54,11 @@ AI legislation and corporate governance are about to insert a hard divide betwee
 
 How many employees record their work meetings using an AI app on their personal phone, and then review an AI generated summary that also captures action items? 
 
-Lawmakers and corporations are poised to separate the AI ecosystem into two halves, making sure one half doesn’t leak confidential data into the other half. 
+Lawmakers and corporations are poised to separate the AI ecosystem into two halves, making sure one half doesn’t leak confidential data into the other. 
 
 The almost endless choice of AI apps today does not make users’ lives easier. 
 
-Consumers are confused, jumping from one app to the next. 
+Consumers are confused. They don't want to jump from one app to another. 
 
 **Businesses are equally wary, fearful they are missing out while competitors leap ahead.**
 
@@ -70,7 +70,7 @@ Consumers just want AI to work and make their life easier. They don’t want to 
 
 **Corporations don't have that luxury. For corporations a coherent and executable AI-First strategy is mission critical.**
 
-The tangled complexity of the AI ecosystem is leading some firms towards a flawed approach: Chasing the AI buzz, trying out every latest AI apps, and running multiple POCs with [commoditized AI vendor solutions](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). They are focusing on the shiny stuff. The shiny front-end AI apps that are about to be both segmented and undergo a massive consolidation.
+The tangled complexity of the AI ecosystem is leading some firms towards a flawed approach: Chasing the AI buzz, trying out every latest AI app, and running multiple POCs with [commoditized AI vendor solutions](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). They are focusing on the shiny stuff. The shiny front-end AI apps that are about to be both segmented and undergo a massive consolidation.
 
 That’s a dangerous approach.
 
@@ -84,13 +84,13 @@ It's far easier for corporate leaders to focus on the shiny AI stuff on the fron
 
 The compelling lesson from ISP and search engine consolidation is not which firms survived in that space, but how smart businesses built on the back of those foundational technologies to create new solutions. 
 
-Firms like Expedia, Netflix, Salesforce, and Bloomberg used the foundational internet technologies to build proprietary platforms. They saw the bigger picture: By buiding proprietary platforms on top of those foundational technologies they were able to provide consumers with new products they didn’t even know they needed.
+Firms like [Expedia](https://www.expedia.com/), [Netflix](https://www.netflix.com/), [Salesforce](https://www.salesforce.com/), and [Bloomberg](https://www.bloomberg.com/) used the foundational internet technologies to build proprietary platforms and new business models. They saw the bigger picture: By buiding proprietary platforms on top of those foundational technologies they were able to provide consumers with new products they didn’t even know they needed.
 
 That first-mover advantage proved decisive.
 
 AI will consolidate in some form. 
 
-**The bubble we are living through where anyone can release an app and call it “Artificial Intelligence” will eventually burst.**
+**The bubble we are living in today where anyone can release an app and call it “Artificial Intelligence” will eventually burst.**
 
 The firms that have a solid AI-First strategy to build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) will be the firms still standing when the dust settles on the AI landscape.
 
