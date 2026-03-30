@@ -38,7 +38,7 @@ When a human asks a question, the [prompt framework](https://guides.lib.umich.ed
 
 Together, the vector database, the prompt framework, and the LLM participate in a workflow known as [Retrieval Augmented Generation](https://burlinson.github.io/AI/2025-07-26-Retreval-Augmented-Generation/) (RAG).
 
-!\[Simple AI Platform\]({{ site.baseurl }}/assets/img/AIPlatformSImple.webp)\{: .mx-auto.d-block :\}
+!\[Simple AI Platform]({{ site.baseurl }}/assets/img/AIPlatformSImple.webp)\{: .mx-auto.d-block :\}
 
 When all these components work in concert, they can make responses to human questions seem quick and easy. In reality, a great deal is happening under the covers, and at astonishing speed.
 
