@@ -20,7 +20,7 @@ audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/SEOGEO.mp3"
 audio_text: "Listen to a quick summary"
 description: A strategic look at the explosion of AI apps and the inevitable consolidation that lies ahead. Explains for business executives and academics why firms building proprietary AI platforms will gain long-term advantage while others chase short-term buzz.
 ---
-It seems like every day a new AI app is launched, each one filling a new niche in the AI marketplace. Each of the new apps usually distinguish themselves by front end workflow rather than their back-end AI capabilities.
+It seems like every day a new AI app is launched, each one filling a new niche in the AI marketplace. Most of these new apps distinguish themselves by front their front-end workflow rather than their back-end AI models.
 
 Andreson Horrowitz, a venture capital firm in Silicon Valley, report on the [top 100 apps](https://a16z.com/100-gen-ai-apps-6/), and they are already the six edition of this report.
 
