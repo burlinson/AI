@@ -24,7 +24,7 @@ It seems like every day a new AI app is launched, each one filling a new niche i
 
 Andreson Horrowitz, a venture capital firm in Silicon Valley, publishes a report on the [top 100 AI apps](https://a16z.com/100-gen-ai-apps-6/). They are already on the sixth revision of the report. Microsoft’s marketplace has a [dizzying choice of AI apps](https://marketplace.microsoft.com/en-us/search/products?category=ai-apps-and-agents) to support the workplace, and that’s just the business AI apps on Microsoft’s platform 
 
-**This moment in AI’s evolution has strong echoes to the early days of the internet. **
+**This moment in AI’s evolution has strong echoes to the early days of the internet.**
 
 In the 1990s, consumers faced a confusing array of internet service providers (ISPs). Each ISP promised access with slight variations in speed and pricing. Under the hood, they all did the same thing. 
 
