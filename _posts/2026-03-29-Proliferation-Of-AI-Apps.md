@@ -20,9 +20,9 @@ audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/SEOGEO.mp3"
 audio_text: "Listen to a quick summary"
 description: A strategic look at the explosion of AI apps and the inevitable consolidation that lies ahead. Explains for business executives and academics why firms building proprietary AI platforms will gain long-term advantage while others chase short-term buzz.
 ---
-It seems like every day a new AI app is launched, each one filling a new niche in the AI marketplace. Most of these new apps distinguish themselves by  their front-end workflow rather than the sophistication of their back-end AI models.
+It seems like every day a new AI app is launched, each one filling a new niche in the AI marketplace. Most of these new apps distinguish themselves by their front-end workflow rather than the sophistication of their back-end AI models.
 
-Andreson Horrowitz, a venture capital firm in Silicon Valley, publishes a report on the [top 100 AI apps](https://a16z.com/100-gen-ai-apps-6/). They are already on the sixth revision of the report. Microsoft’s marketplace has a [dizzying choice of AI apps](https://marketplace.microsoft.com/en-us/search/products?category=ai-apps-and-agents) to support the workplace, and that’s just the business AI apps on Microsoft’s platform 
+Andreessen Horowitz, a venture capital firm in Silicon Valley, publishes a report on the [top 100 AI apps](https://a16z.com/100-gen-ai-apps-6/). They are already on the sixth revision of the report. Microsoft’s marketplace has a [dizzying choice of AI apps](https://marketplace.microsoft.com/en-us/search/products?category=ai-apps-and-agents) to support the workplace, and that’s just the business AI apps on Microsoft’s platform. 
 
 **This moment in AI’s evolution has strong echoes to the early days of the internet.**
 
@@ -36,29 +36,27 @@ Users didn’t want to assemble the internet themselves; they wanted a reliable 
 
 The large telecom companies gobbled up the ISPs and rolled internet connectivity into consumers’ existing phone services, then they sent them one bill. Using the phone company they had relied on for decades made life so much simpler for consumers. 
 
-Google’s clean search page beat out their competitor’s complicated messy landing pages. Navigating Yahoo’s home page back in the 2000’s was like wading through a swap. 
+Google’s clean search page beat out their competitor’s complicated messy landing pages. Navigating Yahoo’s home page back in the 2000’s was like wading through a swamp. 
 
 In the early days, Google didn’t even have any advertising on its search page. (They realized that selling metadata on the back end was where the real money was.) 
 
 A simplified home page with lots of white and a search bar with a small Google logo, combined with a great algorithm, ultimately won the battle for search. The war was officially over in 2006 when “Google” became a verb and was [added to the Oxford English Dictionary](https://www.cnet.com/culture/google-joins-xerox-as-a-verb/). 
 
-**AI appears destined for a similar consolidation. Many analysts expect a small number of dominant platforms to emerge.**
+AI appears destined for a similar consolidation. 
 
-It’s not clear yet if the consolidation will happen on the back end AI models, with fragmentation of workflow apps persisting on the front end. 
+Some analysts believe there will be a consolidation around a small number of back-end foundational models, powering front-end tools. Similar to how [AWS](https://aws.amazon.com/free/webapps/) and [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search) currently host vast ecosystems of applications. What will accelerate that consolidation is legislation and corporate AI governance policies, which will inevitably draw a hard line between personal and professional AI use.
 
-Some analysts suggest that a handful of foundation models might power thousands of specialized front end tools. This is not that dissimilar to how a small number of utility cloud providers like [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search) and [AWS](https://aws.amazon.com/free/webapps/) currently host and power a wide variety of front end applications on the web.
+Others argue that there will be an inevitable consolidation of AI apps on the front-end. Mainly because there are so many apps with overlapping workflows. 
 
-Others argue that there will be an inevitable consolidation of AI apps on the front end. There are massive overlaps in the problems AI apps are addressing. Also, the line between personal and business use of AI apps is blurry. It's only a matter of time until legislation and corporate AI governance policies catch up and delineate personal and corporate use of AI apps. 
+The barrier to entry for firms wanting to create new AI tools is incredibly low, in an already overcrowded ecosystem. They all make impressive claims about making the user’s life dramatically better. Some do indeed deliver. Others are shaky. Calling the back-end capabilities of some of these apps "Artificial Intelligence" can be a stretch; they are merely leveraging massive back end computing power to do the same things that are already being done today, only faster.   
 
-It almost seems like anyone who can spell AI can release new AI tools into the already overcrowded ecosystem. They all make impressive claims about making the user’s life dramatically better. Some do indeed deliver. Others are shaky. Calling the back-end capabilities of some of these apps "Artificial Intelligence" can be a stretch; they are merely leveraging massive back end computing power to do the same things that are already being done today, only faster.   
+**The almost endless choice of AI apps is not making lives easier. They are confusing the hell out of people. They don’t know what app to use from one day to the next.**
 
-**The almost endless choice of AI apps are not making lives easier. They are confusing the hell out of people. They don’t know what app to use from one day to the next.**
+Businesses are equally wary, not knowing where to jump next and fearful they are missing out while the competition leaps ahead of them.  
 
-Businesses are equally weary, not knowing where to jump next and fearful they are missing out while the competition leaps ahead of them.  
+The lesson from the earlier consolidations in the tech sector is clear: Consumers want it simple, easy to use, and as cheap as possible. Whereas corporations want scalability, adaptability, and competitive advantage.
 
-The lesson from the earlier consolidations in the tech sector are clear: Consumers want it simple, easy to use, and as cheap as possible. Whereas corporations want scalability, adaptability, and competitive advantage.
-
-The firms that delineate individual consumers from large corporations and then focus on each group’s core needs will likely win the looming AI consolidation wars.
+The firms that distinguish individual consumers from large corporations and then focus on each group’s core needs will likely win the looming AI consolidation wars.
 
 **Consumers want a small number of apps that genuinely make their lives easier.**
 
@@ -74,11 +72,8 @@ Some firms don’t know where to jump, so instead they are jumping on the AI ban
 
 The compelling lesson from ISP and search engine consolidation is not which firms survived in that space, but **how smart businesses built on the back of those technologies**. 
 
-Back in the 1990’s some firms focused on understanding how ISPs and search engine technologies might give them a competitive advantage. Some firms built their own data networks, while others built their own search engines. Ultimately, these technologies did not provide any long-term advantage. 
-
-Smart firms built proprietary digital tools, robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) feeding those tools, and in doing so were able to create new products. Firms like Expedia, Netflix, Salesforce and Bloomberg built on top of the foundational ISP and search engine technologies. **The firms that stood back and saw the bigger picture gained a huge first adopter advantage**. 
+Firms like Expedia, Netflix, Salesforce and Bloomberg used the foundational ISP and search engine technologies to build proprietary tools, robust data pipelines and entirely new products. **The firms that stood back and saw the bigger picture gained a huge first adopter advantage**. 
 
 AI will consolidate in some form. **The bubble whereby almost anyone can release an app and call it "AI" is eventually going to burst.**   
 
-The firms that steadily build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) — not just rent to the latest shiny front-end tools labeled "AI" — will be the firms still standing when the dust settles on the AI landscape.
-
+The firms that steadily build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) — not just rent the latest shiny front-end tools with an "AI" label — will be the firms still standing when the dust settles on the AI landscape.
