@@ -74,11 +74,11 @@ Some firms don’t know where to jump, so instead they are jumping on the AI ban
 
 The compelling lesson from ISP and search engine consolidation is not which firms survived in that space, but **how smart businesses built on the back of those technologies**. 
 
-Back in the 1990’s some firms focused on understanding how ISPs and search engine like technology might give them a competitive advantage. Some firms built their own networks, while others built their own search engines. Ultimately, these technologies did not provide any long-term advantage. 
+Back in the 1990’s some firms focused on understanding how ISPs and search engine technologies might give them a competitive advantage. Some firms built their own data networks, while others built their own search engines. Ultimately, these technologies did not provide any long-term advantage. 
 
 Smart firms built proprietary digital tools, robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) feeding those tools, and in doing so were able to create new products. They built on top of the foundational ISP and search engine technologies. **The firms that stood back and saw the bigger picture gained a huge first adopter advantage**. 
 
-AI will consolidate in some form. **The bubble whereby almost anyone can release an app and call it "AI" will eventually burst.**   
+AI will consolidate in some form. **The bubble whereby almost anyone can release an app and call it "AI" is eventually going to burst.**   
 
 The firms that steadily build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) — not just rent to the latest shiny front-end tools labeled "AI" — will be the firms still standing when the dust settles on the AI landscape.
 
