@@ -34,7 +34,7 @@ After a period in which a multitude of both big and small firms entered the inte
 
 Users didn’t want to assemble the internet themselves; they wanted a reliable and simple way to get online.
 
-The large telecom companies gobbled up the ISPs and rolled internet connectivity into consumers’ existing phone services, with one bill. That made life so much simpler for consumers. 
+The large telecom companies gobbled up the ISPs and rolled internet connectivity into consumers’ existing phone services, then they sent them one bill. Using the phone company they had relied on for decades made life so much simpler for consumers. 
 
 Google’s clean search page beat out their competitor’s complicated messy landing pages. Navigating Yahoo’s home page back in the 2000’s was like wading through a swap. 
 
@@ -48,35 +48,35 @@ It’s not clear yet if the consolidation will happen on the back end AI models,
 
 Some analysts suggest that a handful of foundation models might power thousands of specialized front end tools. This is not that dissimilar to how a small number of utility cloud providers like [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search) and [AWS](https://aws.amazon.com/free/webapps/) currently host and power a wide variety of front end applications on the web.
 
-Others argue that there will be an inevitable consolidation of AI apps on the front end. Mainly because there are massive overlaps and the lines between how AI apps personal and business use are blurred. It's only a matter of time until legislation and corporate AI governance policies catch up and delineate personal and corporate use of AI. 
+Others argue that there will be an inevitable consolidation of AI apps on the front end. There are massive overlaps in the problems AI apps are addressing. Also, the line between personal and business use of AI apps is blurry. It's only a matter of time until legislation and corporate AI governance policies catch up and delineate personal and corporate use of AI apps. 
 
-It almost seems like anyone who can spell AI can release new AI tools into the already overcrowded ecosystem. They all make impressive claims about making the user’s life dramatically better. Some deliver. Others are shaky. Calling the back-end capabilities of some of these apps "Artificial Intelligence" is often a stretch; they are merely leveraging massive back end computing power to do the same things that are already being done today, only faster.   
+It almost seems like anyone who can spell AI can release new AI tools into the already overcrowded ecosystem. They all make impressive claims about making the user’s life dramatically better. Some do indeed deliver. Others are shaky. Calling the back-end capabilities of some of these apps "Artificial Intelligence" can be a stretch; they are merely leveraging massive back end computing power to do the same things that are already being done today, only faster.   
 
-The almost endless choice of AI apps are not making lives easier. They are confusing the hell out of people. They don’t know what app to use from one day to the next. 
+**The almost endless choice of AI apps are not making lives easier. They are confusing the hell out of people. They don’t know what app to use from one day to the next. **
 
 Businesses are equally weary, not knowing where to jump next and fearful they are missing out while the competition leaps ahead of them.  
 
-The lesson from the earlier consolidations in the tech sector are clear: Consumers want it simple, easy to use, and as cheap as possible. Whereas bigger corporations want scalability, adaptability, and competitive advantage.
+The lesson from the earlier consolidations in the tech sector are clear: Consumers want it simple, easy to use, and as cheap as possible. Whereas corporations want scalability, adaptability, and competitive advantage.
 
 The firms that delineate individual consumers from large corporations and then focus on each group’s core needs will likely win the looming AI consolidation wars.
 
-Consumers want a small number of apps that genuinely make their lives easier. 
+**Consumers want a small number of apps that genuinely make their lives easier.**
 
-That probably means those apps are embedded into their smartphones, powered by a few mega firms that already have deep knowledge about consumers, enabling those firms to understand exactly **what** AI capabilities are really going to make individual’s lives better. Apple, Meta and Google are in pole position. 
+That probably means those apps are embedded into their smartphones, powered by a few mega firms that already have deep knowledge about consumers, enabling those firms to understand exactly **what** AI capabilities are really going to make an individual’s life better. Apple, Meta and Google are in pole position. 
 
-Consumers don’t want advertising in their AI apps, but they don’t mind if their metadata is sold on the back end, especially if that reduces the price.  
+Consumers don’t want advertising in their AI apps, but they don’t mind if their metadata is sold on the back end. Especially if that reduces the price.  
 
-Corporations likely want the scalability of large language models for general reasoning, the adaptability of well-built [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time, along with the competitive advantage of a [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) layered alongside a large language model. Put another way, corporations need to build a proprietary [AI-First Platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). 
+Corporations likely want the scalability of large language models for general reasoning, the adaptability of well-built [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time, along with the competitive advantage of a [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) layered alongside a large language model. Put another way, **corporations need to build a proprietary [AI-First Platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/)**. 
 
-Most corporations don’t know how to go about that. Moreover, the gritty technical details aren’t sexy. So instead, it’s easier to follow the current AI buzz around an almost endless range of front end AI tools. The shiny sexy stuff. The same stuff that’s likely about to undergo a massive consolidation, but not before the ever expanding choice of sexy front end AI tools gets even bigger. 
+Most corporations don’t know how to go about that. Moreover, the gritty technical details aren’t sexy. So instead, it’s easier to follow the current AI buzz around an almost endless range of front end "AI" tools. The shiny sexy stuff. The same stuff that’s likely heading for a massive consolidation, but not before the ever expanding choice of sexy front end "AI stuff" gets even bigger. 
 
 Some firms don’t know where to jump, so instead they are jumping on the AI bandwagon and running multiple AI POCs with commoditized vendor solutions[commoditized vendor solutions](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). 
 
-The compelling lesson from ISP and search engine consolidation is not which firms survived in that space, but how smart businesses built on the back of those technologies. 
+The compelling lesson from ISP and search engine consolidation is not which firms survived in that space, but **how smart businesses built on the back of those technologies**. 
 
-Back in the 1990’s some firms focused on understanding how ISPs and search engine like technology might give them a competitive advantage. Some firms built their own networks, and others built their own search engines. Ultimately, these technologies did not provide any long-term advantage. 
+Back in the 1990’s some firms focused on understanding how ISPs and search engine like technology might give them a competitive advantage. Some firms built their own networks, while others built their own search engines. Ultimately, these technologies did not provide any long-term advantage. 
 
-Smart firms built proprietary digital tools, data pipelines[data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) feeding those tools, and created new products, building on top of the foundational ISP and search engine technologies. The firms that stood back and saw the bigger picture gained a huge first adopter advantage. 
+Smart firms built proprietary digital tools, robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) feeding those tools, and in doing so were able to create new products. They built on top of the foundational ISP and search engine technologies. **The firms that stood back and saw the bigger picture gained a huge first adopter advantage**. 
 
 AI will consolidate in some form. **The bubble whereby almost anyone can release an app and call it "AI" will eventually burst.**   
 
