@@ -40,7 +40,7 @@ Google’s clean search page beat out their competitor’s complicated messy lan
 
 In the early days, Google didn’t even have any advertising on its search page. (They realized that selling metadata on the back end was where the real money was.) 
 
-A simplified web page with nothing but a search bar, a small Google logo with lots of white space, combined with a great algorithm ultimately won the battle for search. The war was officially over in 2006 when “Google” became a verb and was [added to the Oxford English Dictionary](https://www.cnet.com/culture/google-joins-xerox-as-a-verb/). 
+A simplified home page with lots of white and a search bar with a small Google logo, combined with a great algorithm, ultimately won the battle for search. The war was officially over in 2006 when “Google” became a verb and was [added to the Oxford English Dictionary](https://www.cnet.com/culture/google-joins-xerox-as-a-verb/). 
 
 **AI appears destined for a similar consolidation. Many analysts expect a small number of dominant platforms to emerge.**
 
