@@ -66,9 +66,9 @@ That probably means those apps are embedded into their smartphones, powered by a
 
 Consumers don’t want advertising in their AI apps, but they don’t mind if their metadata is sold on the back end. Especially if that reduces the price.  
 
-Corporations likely want the scalability of [large language models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms/) for general reasoning, the adaptability of well-built [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time, along with the competitive advantage of a [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) layered alongside a large language model. Put another way, **corporations need to build a proprietary [AI-First Platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/)**. 
+Corporations likely want the scalability of [large language models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms/) for general reasoning, the adaptability of well-built [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time, along with the competitive advantage of layering a [small language model](https://aimusing.blog/2025-02-15-Small-Language-Models/) alongside large language models. Put another way, **corporations need to build a proprietary [AI-First Platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/)**. 
 
-Most corporations don’t know how to go about that. Moreover, the gritty technical details aren’t sexy. So instead, it’s easier to follow the current AI buzz around an almost endless range of front end "AI" tools. The shiny sexy stuff. The same stuff that’s likely heading for a massive consolidation, but not before the ever expanding choice of sexy front end "AI stuff" gets even bigger. 
+Most corporations don’t know how to go about that. Moreover, the gritty technical details aren’t sexy. So instead, it’s easier to follow the current AI buzz around an almost endless range of front end "AI" tools. The shiny sexy stuff. The same stuff that’s likely heading for a massive consolidation, but not before the ever expanding choice of sexy front end "AI stuff" balloons even bigger. 
 
 Some firms don’t know where to jump, so instead they are jumping on the AI bandwagon and running multiple AI POCs with [commoditized vendor solutions](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). 
 
@@ -76,7 +76,7 @@ The compelling lesson from ISP and search engine consolidation is not which firm
 
 Back in the 1990’s some firms focused on understanding how ISPs and search engine technologies might give them a competitive advantage. Some firms built their own data networks, while others built their own search engines. Ultimately, these technologies did not provide any long-term advantage. 
 
-Smart firms built proprietary digital tools, robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) feeding those tools, and in doing so were able to create new products. They built on top of the foundational ISP and search engine technologies. **The firms that stood back and saw the bigger picture gained a huge first adopter advantage**. 
+Smart firms built proprietary digital tools, robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) feeding those tools, and in doing so were able to create new products. Firms like Expedia, Netflix, Salesforce and Bloomberg built on top of the foundational ISP and search engine technologies. **The firms that stood back and saw the bigger picture gained a huge first adopter advantage**. 
 
 AI will consolidate in some form. **The bubble whereby almost anyone can release an app and call it "AI" is eventually going to burst.**   
 
