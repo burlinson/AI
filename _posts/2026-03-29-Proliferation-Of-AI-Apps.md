@@ -52,7 +52,7 @@ Others argue that there will be an inevitable consolidation of AI apps on the fr
 
 It almost seems like anyone who can spell AI can release new AI tools into the already overcrowded ecosystem. They all make impressive claims about making the user’s life dramatically better. Some do indeed deliver. Others are shaky. Calling the back-end capabilities of some of these apps "Artificial Intelligence" can be a stretch; they are merely leveraging massive back end computing power to do the same things that are already being done today, only faster.   
 
-**The almost endless choice of AI apps are not making lives easier. They are confusing the hell out of people. They don’t know what app to use from one day to the next. **
+**The almost endless choice of AI apps are not making lives easier. They are confusing the hell out of people. They don’t know what app to use from one day to the next.**
 
 Businesses are equally weary, not knowing where to jump next and fearful they are missing out while the competition leaps ahead of them.  
 
