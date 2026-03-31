@@ -30,7 +30,7 @@ They can also be significantly cheaper to run.
 
 SLMs also shine where privacy is a concern. They can run locally so data never needs to leave the device or the company network. 
 
-SLMs shine even more when they are paired with retrieval augmented generation (RAG). LLMs boast about knowing everything. SLMs focus on a smaller set of problems, perhaps for a specific industry, or department. 
+SLMs shine even more when they are paired with [retrieval augmented generation](https://aimusing.blog/2025-07-26-Retreval-Augmented-Generation/) (RAG). LLMs boast about knowing everything. SLMs focus on a smaller set of problems, perhaps for a specific industry, or department. 
 
 Think of a Finance department at pharmaceutical company. That team might just need a SLM that is limited to understanding Finance and Pharmaceuticals. It might be overkill to use a LLM that leverages huge models, with expensive and time consuming compute power, considering every industry and every corporate function. A tailored SLM can likely meet the Finance team’s needs with more precise and quicker answers.  
 
@@ -40,5 +40,5 @@ LLMs provide **general intelligence and creativity**. SLMs provide **precision, 
 
 When LLMs and SLMs are combined, the two create a layered architecture where the LLM handles broad reasoning and the SLM handles specialized tasks.
 
-As we move from exploring the broad possibilities of AI and into more nuanced practical uses, SLMs will likely become just as well known as their LLM big brother.
+As we move from exploring the broad possibilities of AI and into more nuanced practical uses, SLMs will likely become just as well known as their [LLM big brother](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms).
 
