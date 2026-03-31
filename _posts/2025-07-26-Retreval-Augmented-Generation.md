@@ -44,11 +44,3 @@ RAG is a foundational part of modern AI platforms. It makes AI more trustworthy,
 
 The faster we can trust the answers we get from AI platforms, the faster AI will proliferate and help us live better lives. 
 
-<!--
-Pillar: Retrieval & Knowledge Systems (/retrieval-systems/)
-Related:
-- /2025-07-05-Embeddings/
-- /2025-06-22-Vector-Databases/
-- /2026-03-14-Retrieval-Pipelines/
-- /2025-11-18-Synthetic-Data/
--->
