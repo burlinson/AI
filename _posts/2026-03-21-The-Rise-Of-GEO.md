@@ -41,7 +41,7 @@ AI models prioritize firms and products by how well a company’s information is
 
 The game has shifted from optimizing for **search crawlers** to optimizing for **AI reasoning**.
 
-![SEO versus GEO]({{ site.baseurl }}/assets/img/SEOGEOMain.webp){: .mx-auto.d-block :}
+![SEO versus GEO](/assets/img/SEOGEOMain.webp){: .mx-auto .d-block :}
 
 
 This is reshaping the multi billion dollar SEO industry, and it’s **happening almost overnight**. There’s a profound structural shift from chasing rankings to ensuring AI systems know that a firm even exists. Thereafter the AI models need information about a company's products and why they are better than the competition.
