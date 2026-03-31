@@ -35,9 +35,3 @@ How companies transform their operating models, data, and strategy to become AI-
 - Highlights the shift from tools → agents → autonomous workflows  
 - Frames the strategic implications of AI app proliferation  
 
----
-
-## Related Articles
-- [Core Components of AI Platforms](/2025-12-01-Core-AI-Platforms/)  
-- [Synthetic Data](/2025-11-18-Synthetic-Data/)  
-- [AI Hallucination](/2025-08-12-AI-Hallucination/)
