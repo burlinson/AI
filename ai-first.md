@@ -10,35 +10,20 @@ AI‑First is not a slogan — it’s an operating model. It’s the shift from 
 
 ---
 
-## Start Here
+# AI-First
 
-### **AI‑First**  
-Why AI‑native operating models outperform AI‑enabled ones — and how companies make the shift.  
-👉 [Read the article](/2025-12-20-AI-First/)
+How companies transform their operating models, data, and strategy to become AI-native.
 
-### **Commoditized AI**  
-Why generic AI is no longer a differentiator — and where competitive advantage now comes from.  
-👉 [Read the article](/2025-09-30-Commoditized-AI/)
-
-### **Dark Data**  
-The hidden data problem inside every organization — and why AI‑First firms treat it as an asset.  
-👉 [Read the article](/2025-10-02-Dark-Data/)
-
-### **Small Language Models**  
-Why smaller, specialized models trained on proprietary data are the future of enterprise AI.  
-👉 [Read the article](/2025-07-20-Small-Language-Models/)
-
-### **Retrieval Pipelines**  
-The infrastructure layer that transforms raw data into usable intelligence.  
-👉 [Read the article](/2026-03-14-Retrieval-Pipelines/)
-
-### **Agentic AI**  
-How autonomous agents reshape workflows, decision‑making, and enterprise productivity.  
-👉 [Read the article](/2026-01-20-Agentic-AI/)
-
-### **Proliferation of AI Apps**  
-Why AI‑native apps are exploding — and how exceutives can create AI strategy.  
-👉 [Read the article](/2026-02-10-AI-Apps/)
+## AI-First Strategy
+- [/2025-01-12-Hallucination/](/2025-01-12-Hallucination/)
+- [/2025-02-15-Small-Language-Models/](/2025-02-15-Small-Language-Models/)
+- [/2025-03-22-Dark-Data/](/2025-03-22-Dark-Data/)
+- [/2025-04-13-Commodized-AI-AI-First/](/2025-04-13-Commodized-AI-AI-First/)
+- [/2025-08-16-Core-Components-Of-AI-Platfroms/](/2025-08-16-Core-Components-Of-AI-Platfroms/)
+- [/2026-02-22-Agentic-AI/](/2026-02-22-Agentic-AI/)
+- [/2026-03-14-Retrieval-Pipelines/](/2026-03-14-Retrieval-Pipelines/)
+- [/2026-03-20-The-Rise-Of-GEO/](/2026-03-20-The-Rise-Of-GEO/)
+- [/2026-03-28-Proliferation-Of-AI-Apps/](/2026-03-28-Proliferation-Of-AI-Apps/)
 
 ---
 
