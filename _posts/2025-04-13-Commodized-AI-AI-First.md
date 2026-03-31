@@ -34,7 +34,7 @@ Similarly, AI solutions like [GPT](https://chat.openai.com), [Gemini](https://ge
 
 The real AI-First revolution is occurring in a second category: **Proprietary AI Platforms**
 
-AI-First companies are building [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to feed specialized [Small Language Models](https://aimusing.blog/2025-02-15-Small-Language-Models/) with structured and unstructured [dark data](https://aimusing.blog/2025-03-22-Dark-Data/). They then carefully integrate these with [Large Language Models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms to maximize insights. 
+AI-First companies are building [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to feed specialized [Small Language Models](https://aimusing.blog/2025-02-15-Small-Language-Models/) with structured and unstructured [dark data](https://aimusing.blog/2025-03-22-Dark-Data/). They then carefully integrate these with [Large Language Models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms) to maximize insights. 
 
 These firms are moving from just **_using_** canned vendor AI solutions, to  **_building_** their own proprietary AI platforms to create real long term value.
 
