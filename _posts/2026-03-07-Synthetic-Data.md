@@ -42,12 +42,3 @@ Companies will be able to test new processes, products, and policies before depl
 The firms that master synthetic data and simulation driven learning are going to be able to out innovate their competitors.
 
 In the next wave of AI, a competitive edge won’t come from using the data companies already have, but from the data they can create.
-
-<!--
-Pillar: Retrieval & Knowledge Systems (/retrieval-systems/)
-Related:
-- /2025-10-02-Dark-Data/
-- /2025-08-12-AI-Hallucination/
-- /2026-03-14-Retrieval-Pipelines/
-- /retrieval-systems/
--->
