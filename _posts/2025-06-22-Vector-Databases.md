@@ -17,7 +17,7 @@ author: Tony Burlinson
 description: Vector databases store data as mathematical vectors, enabling AI to search by meaning not just keywords. Learn why they are a critical component of modern enterprise AI platforms.
 ---
 
-Vector databases are a critical component of modern AI architecture, mimicking human memory. Yet they’re often pushed into the background, overshadowed by [Large Language Models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms) (LLMs) and Retrieval Augmented Generation[Retrieval Augmented Generation](https://aimusing.blog/2025-07-26-Retreval-Augmented-Generation/) (RAG).
+Vector databases are a critical component of modern AI architecture, mimicking human memory. Yet they’re often pushed into the background, overshadowed by [Large Language Models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms) (LLMs) and [Retrieval Augmented Generation](https://aimusing.blog/2025-07-26-Retreval-Augmented-Generation/) (RAG).
 
 Instead of organizing data in rows and columns, vector databases represent information as mathematical vectors. This is fundamentally different from traditional databases, where data is stored in two dimensional tables with rows and columns.
 
