@@ -10,27 +10,21 @@ This cluster explains the fundamentals — the architecture, the data, and the s
 
 ---
 
-## Start Here
+# AI Foundations
 
-### **Neural Networks**  
-The core architecture behind all modern AI.  
-👉 [Read the article](/2025-06-01-Neural-Networks/)
+A deep foundation of core AI concepts, architectures, and building blocks.
 
-### **Small Language Models**  
-Why smaller, specialized models are the future of enterprise AI.  
-👉 [Read the article](/2025-07-20-Small-Language-Models/)
+## Core Concepts
+- [/2025-01-12-Hallucination/](/2025-01-12-Hallucination/)
+- [/2025-02-15-Small-Language-Models/](/2025-02-15-Small-Language-Models/)
+- [/2025-05-17-Neural-Networks/](/2025-05-17-Neural-Networks/)
+- [/2025-06-22-Vector-Databases/](/2025-06-22-Vector-Databases/)
+- [/2025-07-05-Embeddings/](/2025-07-05-Embeddings/)
+- [/2025-07-26-Retreval-Augmented-Generation/](/2025-07-26-Retreval-Augmented-Generation/)
+- [/2025-08-16-Core-Components-Of-AI-Platfroms/](/2025-08-16-Core-Components-Of-AI-Platfroms/)
+- [/2026-03-06-Synthetic-Data/](/2026-03-06-Synthetic-Data/)
+- [/2026-03-14-Retrieval-Pipelines/](/2026-03-14-Retrieval-Pipelines/)
 
-### **Core Components of AI Platforms**  
-The building blocks of scalable AI systems.  
-👉 [Read the article](/2025-12-01-Core-AI-Platforms/)
-
-### **Dark Data**  
-The hidden data problem inside every organization.  
-👉 [Read the article](/2025-10-02-Dark-Data/)
-
-### **AI Hallucination**  
-Why models make things up — and how architecture fixes it.  
-👉 [Read the article](/2025-08-12-AI-Hallucination/)
 
 ---
 
