@@ -70,6 +70,15 @@ _This article was updated in February 2026 to include references to Retrieval Pi
 <p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
   Listen to a discussion on this article
   <i class="fa fa-headphones" style="margin-left:6px;"></i>
+
+  <!--
+Pillar: AI‑First Strategy (/ai-first/)
+Related:
+- /2025-09-30-Commoditized-AI/
+- /2025-07-20-Small-Language-Models/
+- /2026-01-20-Agentic-AI/
+-->
+
 </p>
 
 <audio controls preload="none" style="width:100%; margin-bottom:20px;">
