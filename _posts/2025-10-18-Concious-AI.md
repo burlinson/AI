@@ -48,10 +48,3 @@ For the most part, dogs happily coexist with humans and enrich our lives, but th
 
 In fact, in some jurisdictions the next steps are coded into law.  
 
-<!--
-Pillar: AI Evolution & Acceleration (/ai-evolution/)
-Related:
-- /2025-09-22-Singularity/
-- /2026-01-20-Agentic-AI/
-- /2025-12-15-AI-at-Light-Speed/
--->
