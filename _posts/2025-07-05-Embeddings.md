@@ -40,16 +40,6 @@ When properly coordinated, these components work together to make AI more accura
 
 **Without embeddings, AI just wouldn’t work for us.**
 
-<!--
-Pillar: Retrieval & Knowledge Systems (/retrieval-systems/)
-Related:
-- /2025-06-22-Vector-Databases/
-- /2026-03-14-Retrieval-Pipelines/
-- /2025-09-01-RAG/
-- /2025-11-18-Synthetic-Data/
--->
-
-
 With embeddings, AI becomes flexible, contextual, and meaningful to humans.
 
 That’s why embeddings are so important. They aren't in the spotlight like LLMs or RAGs. They quietly work in the background with vector databases, enabling AI platforms to provide responses that humans can understand. 
