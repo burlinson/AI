@@ -44,11 +44,3 @@ As models integrate smell, taste, and touch with language, vision, and sound, th
 
 This could enhance human experiences and even create new products and industries that we can’t quite imagine today.
 
-<!--
-Pillar: AI Evolution & Acceleration (/ai-evolution/)
-Related:
-- /2025-06-01-Neural-Networks/
-- /2025-07-20-Small-Language-Models/
-- /2026-01-20-Agentic-AI/
--->
-
