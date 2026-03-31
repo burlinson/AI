@@ -34,9 +34,4 @@ How AI systems are accelerating, expanding, and transforming the digital world.
 - Drives new business models  
 - Sets the stage for AGI  
 
----
 
-## Related Articles
-- [Proliferation of AI Apps](/2026-02-10-AI-Apps/)  
-- [Core Components of AI Platforms](/2025-12-01-Core-AI-Platforms/)  
-- [Small Language Models](/2025-07-20-Small-Language-Models/)
