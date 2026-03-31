@@ -48,3 +48,10 @@ First, we have spent decades building technology infrastructures with decentrali
 
 Second, choke points create latency. Slowing down AI is the last thing any of the firms operating in this space are going to do. 
 
+<!--
+Pillar: AI Evolution & Acceleration (/ai-evolution/)
+Related:
+- /2025-10-10-Conscious-AI/
+- /2025-12-15-AI-at-Light-Speed/
+- /2026-01-20-Agentic-AI/
+-->
