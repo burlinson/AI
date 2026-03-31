@@ -60,9 +60,6 @@ Firms that **rent** the brain and **own** the memory are best positioned in the 
 
 Firms relying solely on a third-party AI subscriptions aren't building an AI future, they're just renting someone else's. 
 
-
-_This article was updated in February 2026 to include references to Retrieval Pipelines, Gemini and Claude_
-
 <p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
   Listen to a discussion on this article
   <i class="fa fa-headphones" style="margin-left:6px;"></i>
@@ -72,3 +69,4 @@ _This article was updated in February 2026 to include references to Retrieval Pi
   <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIFirst.mp3" type="audio/mp3">
 </audio>
 
+_This article was updated in February 2026 to include references to Retrieval Pipelines, Gemini and Claude_
