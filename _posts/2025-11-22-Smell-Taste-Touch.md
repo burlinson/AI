@@ -43,3 +43,12 @@ Tactile AI is transforming manufacturing, healthcare, and robotics, enabling mac
 As models integrate smell, taste, and touch with language, vision, and sound, they will develop a multidimensional understanding of reality, similar to our own. In fact, in some cases it might well surpass our own understanding. 
 
 This could enhance human experiences and even create new products and industries that we can’t quite imagine today.
+
+<!--
+Pillar: AI Evolution & Acceleration (/ai-evolution/)
+Related:
+- /2025-06-01-Neural-Networks/
+- /2025-07-20-Small-Language-Models/
+- /2026-01-20-Agentic-AI/
+-->
+
