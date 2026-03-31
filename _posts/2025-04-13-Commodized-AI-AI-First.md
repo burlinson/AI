@@ -40,7 +40,7 @@ These firms are moving from just **_using_** canned vendor AI solutions, to  **_
 
 A global logistics firm doesn’t gain an edge from AI by deploying a chatbot. It gains a competitive advantage by training its AI models on the decades of supply chain telemetry, weather patterns, and port latency data. They are creating new business models, optimizing the delivery of products into the hands of customers in ways that weren’t possible before AI.  
 
-Pharmaceutical companies aren't beating the competition by giving employees access to general-purpose AI models — even those with enterprise privacy controls. They are mining internal chemistry models, molecular data, and clinical trial results. Their proprietary AI platforms are creating new drugs and developing treatments for diseases previously thought untreatable.
+Pharmaceutical companies aren't beating the competition by giving employees access to public AI models — even those with enterprise privacy controls. They are mining internal chemistry models, molecular data, and clinical trial results. Their proprietary AI platforms are creating new drugs and developing treatments for diseases previously thought untreatable.
 
 These aren’t just productivity gains. They enable entirely new business models and revenue streams.
 
