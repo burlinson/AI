@@ -51,3 +51,12 @@ Increasingly, AI platforms are also incorporating agents that can take autonomou
 AI platforms are rapidly evolving toward new architectures, driven by increasing compute capacity, retrieval spanning every modality, continuous knowledge updates, and neural networks that fuse reasoning, memory, and planning into a single adaptive system.
 
 The next generation of AI won’t just generate answers. It will stay current, interpreting events in real time, and operate as a proactive partner in human decision making.
+
+<!--
+Pillar: AI Foundations & Architecture (/ai-foundations/)
+Related:
+- /2025-07-20-Small-Language-Models/
+- /2026-01-20-Agentic-AI/
+- /ai-first/
+-->
+
