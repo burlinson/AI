@@ -28,11 +28,4 @@ The firms that win with AI won’t be chasing flashy vendor demos. They’ll spe
 
 These organizations will be in pole position when we start to emerge from the AI hype-cycle in 2026.
 
-<!--
-Pillar: AI Foundations & Architecture (/ai-foundations/)
-Related:
-- /2025-10-02-Dark-Data/
-- /2025-11-18-Synthetic-Data/
-- /2026-03-14-Retrieval-Pipelines/
--->
 
