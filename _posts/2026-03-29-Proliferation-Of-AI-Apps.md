@@ -104,11 +104,3 @@ The firms that have a solid AI-First strategy to build their own [proprietary AI
 <audio controls preload="none" style="width:100%; margin-bottom:20px;">
   <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Bubble.mp3" type="audio/mp3">
 </audio>
-
-<!--
-Pillar: AI‑First Strategy (/ai-first/)
-Related:
-- /2025-12-20-AI-First/
-- /2026-01-20-Agentic-AI/
-- /2025-09-30-Commoditized-AI/
--->
