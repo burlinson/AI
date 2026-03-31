@@ -12,27 +12,12 @@ This pillar page connects the core concepts that power retrieval‑augmented AI.
 
 ---
 
-## Start Here
+# Retrieval Systems
 
-### **Embeddings**  
-How AI turns text, images, and data into mathematical meaning.  
-👉 [Read the article](/2025-07-05-Embeddings/)
+The intelligence layer that grounds AI in real, current, verifiable knowledge.
 
-### **Vector Databases**  
-Why traditional databases fail for semantic search — and how vector DBs fix it.  
-👉 [Read the article](/2025-06-22-Vector-Databases/)
-
-### **Retrieval Pipelines**  
-The real engine behind accurate AI — not the model, the retrieval.  
-👉 [Read the article](/2026-03-14-Retrieval-Pipelines/)
-
-### **Retrieval‑Augmented Generation (RAG)**  
-How retrieval and generation combine to reduce hallucination.  
-👉 [Read the article](/2025-09-01-RAG/)
-
-### **Synthetic Data**  
-How organizations fill data gaps and improve retrieval quality.  
-👉 [Read the article](/2025-11-18-Synthetic-Data/)
+## Retrieval Architecture
+- [/2026-03-14-Retrieval-Pipelines/](/2026-03-14-Retrieval-Pipelines/)
 
 ---
 
@@ -43,9 +28,4 @@ How organizations fill data gaps and improve retrieval quality.
 - Powers enterprise AI  
 - Forms the foundation of agentic systems  
 
----
 
-## Related Articles
-- [Dark Data](/2025-10-02-Dark-Data/)  
-- [AI Hallucination](/2025-08-12-AI-Hallucination/)  
-- [Core Components of AI Platforms](/2025-12-01-Core-AI-Platforms/)
