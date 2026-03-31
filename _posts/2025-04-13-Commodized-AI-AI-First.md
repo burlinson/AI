@@ -12,6 +12,7 @@ tags:
   - Proprietary AI
   - Intellectual Property Moats
   - Dark Data
+  - Vector Databases
   - SML
   - LLM
 author: Tony Burlinson
