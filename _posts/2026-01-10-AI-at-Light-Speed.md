@@ -52,13 +52,3 @@ The leaps forward we have seen in the last few years from AI have been astonishi
 
 Photonic chips are going to accelerate AI in ways we probably don't yet fully appreciate or understand.
 
-<!--
-Pillar: AI Evolution & Acceleration (/ai-evolution/)
-Related:
-- /2026-01-20-Agentic-AI/
-- /2025-09-22-Singularity/
-- /2025-10-10-Conscious-AI/
-- /2025-07-20-Small-Language-Models/
-- /ai-first/
--->
-
