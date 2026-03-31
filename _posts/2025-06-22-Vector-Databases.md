@@ -56,13 +56,3 @@ While vector databases are nowhere near conscious, their structure is a fascinat
 As processing power continues to advance, vector databases will become even more capable, enabling faster retrieval, richer context, and more intelligent AI.
 
 However, their ability to learn from experience has made vector databases a critical component of AI platforms. 
-
-<!--
-Pillar: Retrieval & Knowledge Systems (/retrieval-systems/)
-Related:
-- /2025-07-05-Embeddings/
-- /2026-03-14-Retrieval-Pipelines/
-- /2025-09-01-RAG/
-- /2025-11-18-Synthetic-Data/
--->
-
