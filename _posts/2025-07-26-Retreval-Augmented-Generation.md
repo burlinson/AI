@@ -10,7 +10,7 @@ tags:
   - RAG
   - LLM
   - AI
-  - Multi-Modal
+  - Multimodal
   - Agentic AI
   - Semantic Reasoning
 author: Tony Burlinson 
