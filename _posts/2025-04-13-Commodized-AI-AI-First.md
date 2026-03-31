@@ -10,9 +10,9 @@ tags:
   - AI First
   - Commoditized AI
   - Proprietary AI
-  - Intellectual Property Moats
   - Dark Data
   - Vector Databases
+  - RAG
   - SML
   - LLM
 author: Tony Burlinson
