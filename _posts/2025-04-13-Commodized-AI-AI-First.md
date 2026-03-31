@@ -69,4 +69,4 @@ Firms relying solely on a third-party AI subscriptions aren't building an AI fut
 <audio controls preload="none" style="width:100%; margin-bottom:20px;">
   <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIFirst.mp3" type="audio/mp3">
 </audio>
-_This article was updated in February 2026 to include references to Retrieval Pipelines, Gemini and Claude_
+_This article was updated in Feb. 2026 to include references to Retrieval Pipelines, Gemini and Claude_
