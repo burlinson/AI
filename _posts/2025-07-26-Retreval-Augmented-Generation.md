@@ -42,5 +42,5 @@ Third, RAG will shift from simple keyword retrieval to semantic reasoning: The A
 
 RAG is a foundational part of modern AI platforms. It makes AI more trustworthy, more grounded in real information, and therein more useful to humans. 
 
-The faster we can trust the answers we get from AI platforms, the faster AI will proliferate and help us live better lives. 
+The faster we can trust the answers we get from [AI platforms](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms), the faster AI will proliferate and help us live better lives. 
 
