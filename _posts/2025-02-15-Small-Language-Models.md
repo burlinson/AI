@@ -42,3 +42,10 @@ When LLMs and SLMs are combined, the two create a layered architecture where the
 
 As we move from exploring the broad possibilities of AI and into more nuanced practical uses, SLMs will likely become just as well known as their LLM big brother.
 
+<!--
+Pillar: AI Foundations & Architecture (/ai-foundations/)
+Related:
+- /2025-06-01-Neural-Networks/
+- /ai-first/
+- /2025-12-15-AI-at-Light-Speed/
+-->
