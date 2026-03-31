@@ -54,3 +54,12 @@ Despite their success, neural networks are not as intelligent as humans. They do
 However, their ability to learn from experience has made neural networks a critical component of modern AI platforms. 
 
 As chip processing power continues to grow, advances in the capabilities of neural networks will likely be key to the next wave of AI.
+
+<!--
+Pillar: AI Foundations & Architecture (/ai-foundations/)
+Related:
+- /2025-07-20-Small-Language-Models/
+- /2025-12-15-AI-at-Light-Speed/
+- /2026-01-20-Agentic-AI/
+-->
+
