@@ -84,6 +84,10 @@ layout: page
         {% endif %}
       </div>
       {% endunless %}
+            <!-- LIKES BUTTON -->
+      <p class="likes-line">
+        Likes <button class="like-btn" data-slug="{{ post.slug }}">👍 <span class="like-count">—</span></button>
+      </p>
 
       {% if site.feed_show_tags != false and post.tags.size > 0 %}
       <div class="blog-tags">
@@ -125,3 +129,51 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+  const SUPABASE_URL = 'https://kppytumxvtsctczesfph.supabase.co';
+  const SUPABASE_KEY = 'sb_publishable_j0scyZvnPiyOMgW6dPPA1g_znUFXEka';
+  const client = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+  async function loadLikeCounts() {
+    const buttons = document.querySelectorAll('.like-btn');
+    const slugs = [...buttons].map(b => b.dataset.slug);
+
+    const { data } = await client
+      .from('likes')
+      .select('slug, count')
+      .in('slug', slugs);
+
+    if (data) {
+      data.forEach(row => {
+        const btn = document.querySelector(`.like-btn[data-slug="${row.slug}"]`);
+        if (btn) btn.querySelector('.like-count').textContent = row.count;
+      });
+    }
+  }
+
+  async function addLike(btn) {
+    const slug = btn.dataset.slug;
+    btn.disabled = true;
+
+    const { data } = await client
+      .from('likes')
+      .select('count')
+      .eq('slug', slug)
+      .single();
+
+    const newCount = data.count + 1;
+    await client
+      .from('likes')
+      .update({ count: newCount })
+      .eq('slug', slug);
+
+    btn.querySelector('.like-count').textContent = newCount;
+  }
+
+  document.querySelectorAll('.like-btn').forEach(btn => {
+    btn.addEventListener('click', () => addLike(btn));
+  });
+
+  loadLikeCounts();
+</script>
