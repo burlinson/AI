@@ -32,7 +32,7 @@ The same fragmentation occurred in the early 2000s with search engines. Firms li
 
 Then came a massive wave of consolidation. 
 
-Telecom giants gobbled up the ISPs and rolled internet access into consumer’s existing phone services. Then they issued customers with one combined bill. 
+Telecom giants gobbled up the ISPs and rolled internet access into consumer’s existing phone services. They even issued customers with one combined bill. 
 
 Google had a simple search bar on an almost blank home page with no advertising. It buried the competition. The search engine war was officially over in 2006 when "Google" was added to the Oxford English Dictionary as a verb.
 
@@ -42,7 +42,7 @@ All they wanted was simplicity.
 
 **Two decades later, AI is barreling towards a similar consolidation.**
 
-Some analysts suggest there will be a consolidation of the back-end models. That will then lead to a small number of foundational AI models powering a multitude of front-end tools. This is the same utility model [AWS](https://aws.amazon.com/free/webapps/) and [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search) offer. They provide back-end cloud services to host a vast front-end ecosystem of third-party applications. 
+Some analysts suggest there will be a consolidation of the back-end models. That will then lead to a small number of foundational AI models powering a multitude of front-end tools. This is the same utility model [AWS](https://aws.amazon.com/free/webapps/) and [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search) offer; they provide back-end cloud services to host a vast front-end ecosystem of third-party applications. 
 
 From a consumer’s point of view, the murky back-end AI models all do the same thing. (It’s actually a lot more complicated, but the point is consumers just don’t care.)
 
@@ -76,7 +76,7 @@ The tangled complexity of the AI ecosystem is leading some firms towards a flawe
 
 That’s a dangerous approach.
 
-The focus should be on creating a proprietary AI platform to provide a meaningful competitive edge. 
+The focus should be on creating a [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) to provide a meaningful competitive edge. 
 
 An AI-First platform takes the scalability of [large language models](https://aimusing.blog/2025-08-16-Core-Components-Of-AI-Platfroms/) for general reasoning and combines them with unique insights from proprietary [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/). Then there is the gritty work of building [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) to ingest [dark data](https://aimusing.blog/2025-03-22-Dark-Data/) in real time. 
 
