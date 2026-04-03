@@ -15,7 +15,7 @@ audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Bubble.mp3"
 audio_text: "Listen to a quick summary"
 description: A strategic look at the explosion of AI apps and the inevitable consolidation that lies ahead. Explains for business executives and academics why firms building proprietary AI platforms will gain long-term advantage while others chase short-term buzz.
 ---
-In the last week two announcements quietly redrew the boundary between human investing and agentic AI trading. [eToro](https://www.etoro.com/news-and-analysis/etoro-updates/agent-portfolios-let-your-ai-agent-trade-for-you/) launched Agent Portfolios, allowing users to start trading with AI Agents for little as $200. A few days later Public launched an agentic AI trading solution and their launch video quickly [went viral on X](https://x.com/public/status/1990445448667312393).  
+In the last week two announcements quietly redrew the boundary between human investing and agentic AI trading. [eToro](https://www.etoro.com/news-and-analysis/etoro-updates/agent-portfolios-let-your-ai-agent-trade-for-you/) launched Agent Portfolios, allowing users to start trading with AI Agents. A few days later Public launched an agentic AI trading solution and their launch video quickly [went viral on X](https://x.com/public/status/1990445448667312393).  
 
 It was only a matter of time before this Rubicon was crossed. 
 
@@ -33,6 +33,6 @@ For the big investment firms, there's an even bigger issue looming on the horizo
 
 If an AI agent selects a passive index fund or executes an investment strategy, its likely going to be making decisions based on the best product data available to the AI model. The relationship manager, the wholesaler, the carefully crafted pitch deck, the client lunch - none of that influences an AI agent.
 
-It's more important than ever that investment firms accelerate their retrieval pipeline strategies to make clean, timely, and structured product data available to the AI models for the AI agents making those decisions. 
+It's more important than ever that investment firms accelerate their [retrieval pipeline](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) strategies to make clean, timely, and structured product data available to the AI models for the AI agents making those decisions. 
 
 
