@@ -14,6 +14,7 @@ audio_enabled: false
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Bubble.mp3"
 audio_text: "Listen to a quick summary"
 description: A strategic look at the explosion of AI apps and the inevitable consolidation that lies ahead. Explains for business executives and academics why firms building proprietary AI platforms will gain long-term advantage while others chase short-term buzz.
+hide: true
 ---
 In the last week two announcements quietly redrew the boundary between human investing and agentic AI trading. [eToro](https://www.etoro.com/news-and-analysis/etoro-updates/agent-portfolios-let-your-ai-agent-trade-for-you/) launched Agent Portfolios, allowing users to start trading with AI Agents. A few days later Public launched an agentic AI trading solution and their launch video quickly [went viral on X](https://x.com/public/status/1990445448667312393).  
 
