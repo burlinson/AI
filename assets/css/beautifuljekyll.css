@@ -1124,3 +1124,20 @@ pre {
     display: inline-block;
   }
 }
+.post-likes {
+  font-size: 0.85rem;
+  color: #999;
+  margin-top: 4px;
+}
+.like-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.85rem;
+  padding: 0;
+  margin-right: 2px;
+  opacity: 0.6;
+  transition: opacity 0.2s, transform 0.15s;
+}
+.like-btn:hover { opacity: 1; transform: scale(1.2); }
+.like-btn.liked { opacity: 1; }
