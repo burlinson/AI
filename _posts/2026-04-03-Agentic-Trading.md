@@ -19,9 +19,9 @@ In the last week two announcements quietly redrew the boundary between human inv
 
 It was only a matter of time before this Rubicon was crossed. 
 
-The SEC moved to regulate AI use in 2024, though it remains unclear how that policy will be enforced. 
+The SEC moved to regulate AI use in 2024, though it remains unclear [how that policy will be enforced](https://www.wealthmanagement.com/regulation-compliance/sec-withdraws-ai-and-esg-proposed-rules-from-gensler-s-tenure). 
 
-Many firms are still working out how agentic AI will make automated decisions for enterprise workflows. Yet as of this week, agentic AI is already making investment decisions for consumers. A JPMorgan report called eToro's AI integration a potential game-changer. The Currency analytics 
+Many firms are still working out how agentic AI will make automated decisions for enterprise workflows. Yet as of this week, agentic AI is already making investment decisions for consumers. A JPMorgan report called eToro's AI integration a potential [game-changer](https://thecurrencyanalytics.com/finance/etoro-rolls-out-ai-agent-trading-feature-for-retail-investors-249876). 
 
 Automated portfolio management has been around for some time in the robo-advisor space. Robo-advisors can rebalance portfolios on a schedule or track to a target allocation. AI agents are much more proactive and can react to breaking news, earnings calls, or market conditions in real time. 
 
