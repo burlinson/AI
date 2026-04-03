@@ -6,7 +6,7 @@ tags:
   - Retrieval Pipelines
 layout: post
 author: Tony Burlinson
-date: 2026-03-29T00:00:00Z
+date: 2026-04-03T00:00:00Z
 thumbnail-img: /assets/img/TradingThumb.webp
 cover-img: /assets/img/TradingHeader.webp
 share-img: /assets/img//TradingHeader.webp
@@ -27,12 +27,12 @@ Automated portfolio management has been around for some time in the robo-advisor
 
 AI agents making real time trading decisions based on market events opens up a whole new frontier.
 
-The robo-advisor space never fully lived up to its promise, largely because investors still wanted a human in the loop. It will be interesting to see if consumers are willing to extend that same trust to an AI agent and go even further by letting AI make real-time decisions.  
+The robo-advisor space never fully lived up to its promise, largely because investors still wanted a human in the loop. It will be interesting to see if consumers are willing to extend that same trust to an AI agent that can trade in real time.  
 
-For the big investment firms, there's an even bigger issue looming on the horizon. If agentic AI trading for consumers does succeed, who exactly are fund houses going to be selling to? 
+For the big asset management firms, there's an even bigger issue looming on the horizon. If agentic AI trading for consumers does succeed, who exactly are the asset management firms going to be selling to? 
 
-If an AI agent selects a passive index fund or executes an investment strategy, its likely going to be making decisions based on the best product data available to the AI model. The relationship manager, the wholesaler, the carefully crafted pitch deck, the client lunch - none of that influences an AI agent.
+If an AI agent selects a passive index fund or executes an investment strategy, its likely going to select products based on the best data available to the AI model. The relationship manager, the wholesaler, the carefully crafted pitch deck, the client lunch - none of that influences an AI agent.
 
-It's more important than ever that investment firms accelerate their [retrieval pipeline](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) strategies to make clean, timely, and structured product data available to the AI models for the AI agents making those decisions. 
+It's more important than ever that investment firms accelerate their [retrieval pipeline](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) strategies so they can make clean, timely, and structured product data available to AI models. 
 
 
