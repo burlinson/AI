@@ -94,7 +94,7 @@ AI will consolidate in some form.
 
 **The bubble we are living in today where anyone can release an app and call it “Artificial Intelligence” will eventually burst.**
 
-The firms that have a solid AI-First strategy to build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) will be the firms still standing when the dust settles on the AI landscape.
+The firms that have a solid AI-First strategy to build their own [proprietary AI platform](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) will be the firms still standing when the dust settles on the AI landscape. 
 
 <p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
   Listen to a discussion on this article
