@@ -103,6 +103,7 @@ layout: page
     <p class="post-likes" data-slug="{{ post.url | remove_first: '/' | split: '/' | first }}">
       <button class="like-btn" aria-label="Like this post">👍</button>
       <span class="likes-count">...</span>
+      <small style="color:red">{{ post.url | remove_first: '/' | split: '/' | first }}</small>
     </p>
   </li>
   {% endunless %}
