@@ -34,7 +34,7 @@ Then came a massive wave of consolidation.
 
 Telecom giants gobbled up the ISPs and rolled internet access into consumer’s existing phone services. They even issued customers with one combined bill. 
 
-Google had a simple search bar on an almost blank home page with no advertising. It buried the competition. The search engine war was officially over in 2006 when "Google" was added to the Oxford English Dictionary as a verb.
+Google had a simple search bar on an almost blank home page with no advertising. They buried the competition. The search engine war was officially over in 2006 when "Google" was added to the Oxford English Dictionary as a verb.
 
 Consumers didn’t want to stumble through the back-end mechanics of connecting to the internet. Nor did they want complicated search websites. 
 
@@ -46,7 +46,7 @@ Some analysts suggest there will be a consolidation of the back-end models. That
 
 From a consumer’s point of view, the murky back-end AI models all do the same thing. (It’s actually a lot more complicated, but the point is consumers just don’t care.)
 
-Other analysts argue that front-end AI apps are ripe for consolidation. There are thousands of apps competing against each other to support the same overlapping workflows. They essentially do the same thing. They can’t all survive when all consumers want is simplicity. 
+Other analysts argue that front-end AI apps are ripe for consolidation. There are thousands of apps competing against each other to support the same overlapping workflows. They all essentially do the same thing. They can’t all survive when all consumers want is simplicity. 
 
 The consolidation pressure isn't coming from market forces alone. 
 
