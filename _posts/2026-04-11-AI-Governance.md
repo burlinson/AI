@@ -16,7 +16,7 @@ audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Bubble.mp3"
 audio_text: "Listen to a quick summary"
 description: Tony Burlinson - Without AI Governance, Agentic AI is a liability. As autonomous AI agents begin approving loans, assessing risk, and executing trades, AI-first firms need clear accountability frameworks, explainability standards, and human-in-the-loop controls. Here is how to build an AI governance foundation for agentic AI demands.
 ---
-AI Governance sounds like something regulators and compliance officers should be concerned with. The rapid rise of agentic AI - systems that plan, decide, and act autonomously - makes AI Governance a core competency for all AI First firms. 
+AI Governance sounds like something regulators and compliance officers should be concerned with. The rapid rise of agentic AI - systems that plan, decide, and act autonomously - makes AI Governance a core competency for AI First firms. 
 
 We are rapidly approaching a world where AI agents will be technically capable of approving loans, flagging customers as high-risk, and even trading stocks. Humans in the workplace have clear boundaries, sometimes explicitly documented but often implicitly understood. 
 
@@ -24,7 +24,7 @@ AI Governance lays out a corporate framework for how AI agents make decisions, w
 
 One of the first steps is to distinguish between **Data Governance** and **AI Governance**. 
 
-AI is only as good as the data it’s fed from retrieval pipelines. The phrase “garbage in, garbage out” is still relevant today. This means Data Governance and AI Governance need to work hand in hand. Agentic AI needs good quality foundational data to make good decisions. 
+AI is only as good as the data it’s fed from retrieval pipelines. The phrase “garbage in, garbage out” is still relevant today. This means Data Governance and AI Governance need to work hand in hand. Agentic AI starts with good quality foundational data to make good decisions. 
 
 While Data Governance and AI Governance are similar disciplines, and AI is heavily reliant on Data Governance, they are two different but related frameworks. 
 
