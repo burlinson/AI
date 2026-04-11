@@ -50,7 +50,7 @@ That's lot of upfront work for Agentic AI to be successful.
 
 When AI Governance is done right, multiple layers of complex technology need to be orchestrated, and likely in near real time. Additionally, there will be a massive amount of brain power from business teams to configure and maintain those technologies. Compliance, Legal and Technology need to be active participants, but they don’t own the business configuration and ongoing updates. 
 
-AI Governance frameworks needs to be in place before Agentic AI solutions are launched, and then they need to be continuously monitored and updated. The AI Governance model needs to be embedded in the project lifecycle, but as with all frameworks the key to success is creating a cultural mindset across an organization to embrace AI Governance. 
+AI Governance frameworks need to be in place before Agentic AI solutions are launched, and then they need to be continuously monitored and updated. The AI Governance model needs to be embedded in the project lifecycle, but as with all frameworks the key to success is creating a cultural mindset across an organization to embrace AI Governance. 
 
 That mindset needs to come from the top.
 
