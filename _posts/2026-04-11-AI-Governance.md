@@ -9,8 +9,8 @@ layout: post
 author: Tony Burlinson
 date: 2026-04-11T00:00:00Z
 thumbnail-img: /assets/img/GovThumb.webp
-cover-img: /assets/img/GovHeader.webp
-share-img: /assets/img//GovHeader.webp
+cover-img: /assets/img/GovHeader2.webp
+share-img: /assets/img//GovHeader2.webp
 audio_enabled: false
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Bubble.mp3"
 audio_text: "Listen to a quick summary"
