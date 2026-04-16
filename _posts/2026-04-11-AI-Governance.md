@@ -56,7 +56,7 @@ That mindset needs to come from the top.
 
 **Done right, AI Governance will deliver better decisions, more timely responses, improved accuracy and reduced risk, but more than any of this it will create trust.**
 
-The evolution of technology over the last few decades has led humans to assume output from systems is truthful with very few exceptions. AI is vastly more complex and an inherently different species from any technology we have seen before now. It hallucinates, and when it hallucinates it often does so convincingly. When a human isn’t being truthful our sixth sense kicks in. AI doesn’t sweat or glance away when it’s hallucinating. It provides us with unemotional text and our human predisposition to technology leads us to accept that output as factual.
+The evolution of technology over the last few decades has led humans to assume output from systems is truthful with very few exceptions. AI is vastly more complex and an inherently different species from any technology we have seen before now. It hallucinates, and when it hallucinates it often does so convincingly. When a human isn’t being truthful our sixth sense kicks in. AI doesn’t stutter or glance away when it’s hallucinating. It provides us with unemotional text and our human predisposition to technology leads us to accept that output as factual.
 
 AI Governance helps us better understand what needs to be done when AI hallucinates. This is critical. Especially if the next wave of AI is going to start making decisions that were previously entrusted to humans. 
 
