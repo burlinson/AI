@@ -1,5 +1,5 @@
 ---
-title: Agentic AI Will Soar or Crash on Governance 
+title: Agentic AI: Govern or Crash
 subtitle: AI Governance Frameworks Are an Imperative for AI-First Firms 
 tags:
   - AI First
