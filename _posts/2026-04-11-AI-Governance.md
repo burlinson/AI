@@ -11,14 +11,14 @@ date: 2026-04-11T00:00:00Z
 thumbnail-img: /assets/img/GovThumb.webp
 cover-img: /assets/img/GovHeader2.webp
 share-img: /assets/img//GovHeader2.webp
-audio_enabled: false
-audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Bubble.mp3"
+audio_enabled: true
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Governance.mp3"
 audio_text: "Listen to a quick summary"
 description: Tony Burlinson - Without AI Governance, Agentic AI is a liability. As autonomous AI agents begin approving loans, assessing risk, and executing trades, AI-first firms need clear accountability frameworks, explainability standards, and human-in-the-loop controls. Here is how to build an AI governance foundation for agentic AI demands.
 ---
 AI Governance sounds like something regulators and compliance officers should be concerned with. The rapid rise of agentic AI - systems that plan, decide, and act autonomously - makes AI Governance a core competency for AI First firms. 
 
-We are rapidly approaching a world where AI agents will be technically capable of approving your loan, handling your legal defense, and managing your stock portfolio. Humans in the workplace have clear boundaries, sometimes explicitly documented but often implicitly understood. 
+We are rapidly approaching a world where AI agents could be technically capable of diagnosing minor health issues then writing a prescription, handling your legal defense, and even managing your stock portfolio. Humans in the workplace have clear boundaries, sometimes explicitly documented but often implicitly understood. 
 
 AI Governance lays out a corporate framework for how AI agents make decisions, when humans need to be in the loop, and more importantly who is accountable for those decisions. Especially if a decision turns out to be a bad one.
 
@@ -28,7 +28,7 @@ AI is only as good as the data it’s fed from retrieval pipelines. The phrase �
 
 While Data Governance and AI Governance are similar disciplines, and AI is heavily reliant on Data Governance, they are two different but related frameworks. 
 
-The key purpose of Data Governance is to produce **high quality data**. Whereas the key purpose of AI Governance is to clearly define **who is accountable when AI leads to bad outcomes**. 
+The key purpose of Data Governance is to produce **high quality data**. Whereas the key purpose of AI Governance is to clearly define **who is accountable** when AI leads to bad outcomes. 
 
 Most firms already have Data Governance frameworks. They can clearly identify if data quality is sufficient for business purposes. They know who is accountable for data quality, how to measure it and what to do when bad data shows up. 
 
@@ -67,3 +67,12 @@ There’s likely a whole raft of new jobs that will be created by AI Governance.
 It took a while for Data Governance frameworks to become ubiquitous, and then some time after that for business areas to fully own their data to deliver trusted business insights. Similarly, AI Governance needs to be fully embraced by the underlying business areas so that AI can make trusted business decisions. 
 
 The rapid ascent of Agentic AI likely means AI Governance needs to be embraced much faster this time around.
+
+<p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
+  Listen to a discussion on this article
+  <i class="fa fa-headphones" style="margin-left:6px;"></i>
+</p>
+
+<audio controls preload="none" style="width:100%; margin-bottom:20px;">
+  <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Governance.mp3" type="audio/mp3">
+</audio>
