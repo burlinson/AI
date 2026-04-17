@@ -23,7 +23,7 @@ The world will be a better place.
 
 ![Tony]({{ site.baseurl }}/assets/img/Tony.webp)
 
-**#EmbraceTheChange**
+**#EmbraceChange**
 
 ![Transformation]({{ site.baseurl }}/assets/img/Transformation.webp){: .mx-auto.d-block :}
 
