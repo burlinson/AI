@@ -9,8 +9,8 @@ layout: post
 author: Tony Burlinson
 date: 2026-04-11T00:00:00Z
 thumbnail-img: /assets/img/GovThumb.webp
-cover-img: /assets/img/GovHeader.webp
-share-img: /assets/img//GovHeader.webp
+cover-img: /assets/img/GoveHeader.webp
+share-img: /assets/img//GoveHeader.webp
 audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Governance.mp3"
 audio_text: "Listen to a quick summary"
@@ -28,7 +28,7 @@ AI is only as good as the data it’s fed from retrieval pipelines. The phrase �
 
 While Data Governance and AI Governance are similar disciplines, and AI is heavily reliant on Data Governance, they are two different but related frameworks. 
 
-The key purpose of Data Governance is to produce **high quality data**. Whereas the key purpose of AI Governance is to clearly define **who is accountable** when AI leads to bad outcomes. 
+The purpose of Data Governance is to produce high quality data that business teams can **trust**. Whereas the purpose of AI Governance is to clearly define who is **accountable** when AI leads to bad outcomes. 
 
 Most firms already have Data Governance frameworks. They can clearly identify if data quality is sufficient for business purposes. They know who is accountable for data quality, how to measure it and what to do when bad data shows up. 
 
@@ -67,7 +67,7 @@ Firms that dismiss AI Governance as a Legal and Compliance issue, or even worse 
 
 There’s likely a whole raft of new jobs that will be created by AI Governance. People who understand how AI architectures really work are going to be in high demand. One of the key roles will be an AI Officer. That role will not only include driving AI innovation but also owning AI risk and the implementation of an enterprise AI Governance framework. 
   
-It took a while for Data Governance frameworks to become ubiquitous, and then some time after that for business areas to fully own their data to deliver trusted business insights. Similarly, AI Governance needs to be fully embraced by the underlying business areas so that AI can make trusted business decisions. 
+It took a while for Data Governance frameworks to become ubiquitous, and then some time after that for business teams to fully own their data to deliver trusted business insights. Similarly, AI Governance needs to be fully embraced by the underlying business teams so that AI can make trusted business decisions. 
 
 The rapid ascent of Agentic AI likely means AI Governance needs to be embraced much faster this time around.
 
