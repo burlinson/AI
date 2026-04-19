@@ -18,7 +18,7 @@ description: Tony Burlinson - Without AI Governance, Agentic AI is a liability. 
 ---
 AI Governance sounds like something regulators and compliance officers should be concerned with. The rapid rise of agentic AI - systems that plan, decide, and act autonomously - makes AI Governance a core competency for AI First firms. 
 
-We are rapidly approaching a world where AI agents could be technically capable of diagnosing minor health issues then writing a prescription, handling your legal defense, and even managing your stock portfolio. Humans in the workplace have clear boundaries, sometimes explicitly documented but often implicitly understood. 
+We are rapidly approaching a world where AI agents could be technically capable of writing a prescription for you, handling your legal defense, and even managing your stock portfolio. Humans in the workplace have clear boundaries, sometimes explicitly documented but often implicitly understood. 
 
 AI Governance lays out a corporate framework for how AI agents make decisions, when humans need to be in the loop, and more importantly who is accountable for those decisions. Especially if a decision turns out to be a bad one.
 
@@ -30,15 +30,15 @@ While Data Governance and AI Governance are similar disciplines, and AI is heavi
 
 The purpose of Data Governance is to produce high quality data that business teams can **trust**. Whereas the purpose of AI Governance is to clearly define who is **accountable** when AI leads to bad outcomes. 
 
-Most firms already have Data Governance frameworks. They can clearly identify if data quality is sufficient for business purposes. They know who is accountable for data quality, how to measure it and what to do when bad data shows up. 
+Most large firms already have Data Governance frameworks. They can clearly identify if data quality is sufficient for business purposes. They know who is accountable for data quality, how to measure it and what to do when bad data shows up. 
 
 Assuming an AI model has been fed good quality data and has been appropriately trained, it then goes on to generate output. In the case of Agentic AI the output from an AI model is taken one step further and is used to make decisions. There needs to be a whole separate framework around the model, the output and the decisions. 
 
-This is where AI Governance kicks in.
+This is where AI Governance comes into play.
 
-Firms need AI Governance to ensure that their AI model is generating output that is fair and unbiased, and the decisions made by AI agents are transparent and explainable. AI cannot be a black box crunching data, then making decisions in the real world. 
+Firms need AI Governance to ensure that their AI model is generating output that is fair and unbiased, and the decisions made by AI agents are transparent and explainable. Law makers and regulators are particularly focused on this, with [Europe leading the way](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai). AI cannot be a black box crunching data, then making decisions in the real world. 
 
-The guardrails and policies around when an agent can and cannot make a decision need to be documented. There needs to be a reliable and robust mechanism to enforce those rules. 
+The [guardrails and policies](https://www.nist.gov/itl/ai-risk-management-framework) around when an agent can and cannot make a decision need to be documented. There needs to be a reliable and robust technical mechanism to enforce those rules. 
 
 Corporations need clear legal and ethical accountability when Agentic AI makes decisions in their name. 
 
@@ -51,9 +51,9 @@ That's lot of upfront work for Agentic AI to be successful.
 ![Data Governance versus AI Governance](/assets/img/Governance.webp){: .mx-auto .d-block :}
 
 
-When AI Governance is done right, multiple layers of complex technology need to be orchestrated, and likely in near real time. Additionally, there will be a massive amount of brain power from business teams to configure and maintain those technologies. Compliance, Legal and Technology need to be active participants, but they don’t own the business configuration and ongoing updates. 
+When AI Governance is done right, multiple layers of complex technology need to be orchestrated, and likely in near real time. Additionally, there will be a massive amount of brain power from business teams to configure and maintain those technologies. Compliance, Legal and Technology need to be active participants, but they don’t own the business configuration and then the ongoing updates. 
 
-AI Governance frameworks need to be in place before Agentic AI solutions are launched, and then they need to be continuously monitored and updated. The AI Governance model needs to be embedded in the project lifecycle, but as with all frameworks the key to success is creating a cultural mindset across an organization to embrace AI Governance. 
+[AI Governance frameworks](https://www.ibm.com/think/topics/ai-governance) need to be in place before Agentic AI solutions are launched, and then they need to be continuously updated and monitored, especially for [model drift](https://domino.ai/data-science-dictionary/model-drift). The AI Governance model needs to be embedded in the project lifecycle, but as with all frameworks the key to success is creating a cultural mindset across an organization to embrace AI Governance. 
 
 That mindset needs to come from the top.
 
