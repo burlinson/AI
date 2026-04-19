@@ -36,7 +36,9 @@ Assuming an AI model has been fed good quality data and has been appropriately t
 
 This is where AI Governance comes into play.
 
-Firms need AI Governance to ensure that their AI model is generating output that is fair and unbiased, and the decisions made by AI agents are transparent and explainable. Law makers and regulators are particularly focused on this, with [Europe leading the way](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai). AI cannot be a black box crunching data, then making decisions in the real world. 
+Firms need AI Governance to ensure that their AI model is generating output that is fair and unbiased, and the decisions made by AI agents are transparent and explainable. Law makers and regulators are particularly focused on this, with [Europe leading the way](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai). 
+
+**AI cannot be a black box crunching data, then making decisions in the real world.** 
 
 The [guardrails and policies](https://www.nist.gov/itl/ai-risk-management-framework) around when an agent can and cannot make a decision need to be documented. There needs to be a reliable and robust technical mechanism to enforce those rules. 
 
