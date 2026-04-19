@@ -61,7 +61,7 @@ That mindset needs to come from the top.
 
 The evolution of technology over the last few decades has led humans to assume output from systems is truthful with very few exceptions. AI is vastly more complex and an inherently different species from any technology we have seen before now. It hallucinates, and when it hallucinates it often does so convincingly. When a human isn’t being truthful our sixth sense kicks in. AI doesn’t stutter or glance away when it’s hallucinating. It provides us with unemotional text and our human predisposition to technology leads us to accept that output as factual.
 
-AI Governance helps us better understand what needs to be done when AI hallucinates. This is critical. Especially if the next wave of AI is going to start making decisions that were previously entrusted to humans. 
+AI Governance helps us better understand what needs to be done when AI [hallucinates](https://aimusing.blog/2025-01-12-Hallucination/). This is critical. Especially if the next wave of AI is going to start making decisions that were previously entrusted to humans. 
 
 Firms that dismiss AI Governance as a Legal and Compliance issue, or even worse a Technology task, will struggle with Agentic AI. Their Agentic AI solutions will inevitably make bad decisions, not because of inherently bad models but because there isn’t a comprehensive framework to prevent bad outcomes. 
 
@@ -69,7 +69,7 @@ There’s likely a whole raft of new jobs that will be created by AI Governance.
   
 It took a while for Data Governance frameworks to become ubiquitous, and then some time after that for business teams to fully own their data to deliver trusted business insights. Similarly, AI Governance needs to be fully embraced by the underlying business teams so that AI can make trusted business decisions. 
 
-The rapid ascent of Agentic AI likely means AI Governance needs to be embraced much faster this time around.
+The rapid ascent of Agentic AI likely means AI Governance needs to be embraced by [AI-First firms](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/) much faster this time around.
 
 <p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
   Listen to a discussion on this article
