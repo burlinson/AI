@@ -18,7 +18,7 @@ share-img: /assets/img//AIAppProlifHeader.webp
 audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Bubble.mp3"
 audio_text: "Listen to a quick summary"
-description: A strategic look at the explosion of AI apps and the inevitable consolidation that lies ahead. Explains for business executives and academics why firms building proprietary AI platforms will gain long-term advantage while others chase short-term buzz.
+description: Tony Burlinson - A strategic look at the explosion of AI apps and the inevitable consolidation that lies ahead. Explains for business executives and academics why firms building proprietary AI platforms will gain long-term advantage while others chase short-term buzz.
 ---
 A new AI app seems to appear every day, each one filling a niche in an increasingly overcrowded marketplace. Most distinguish themselves by the front-end workflow they support rather than the sophistication of their back-end AI model.
 
