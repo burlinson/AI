@@ -44,7 +44,7 @@ The [guardrails and policies](https://www.nist.gov/itl/ai-risk-management-framew
 
 Corporations need clear legal and ethical accountability when Agentic AI makes decisions in their name. 
 
-Perhaps more important than anything else, there needs to be a clear set of policies defining precisely when a human needs to be in the loop. 
+Perhaps more important than anything else, there needs to be a **clear set of policies defining precisely when a human needs to be in the loop**. 
 
 Last, there needs to be an audit log to track and review how decisions were made. 
 
@@ -55,7 +55,7 @@ That's lot of upfront work for Agentic AI to be successful.
 
 When AI Governance is done right, multiple layers of complex technology need to be orchestrated, and likely in near real time. Additionally, there will be a massive amount of brain power from business teams to configure and maintain those technologies. Compliance, Legal and Technology need to be active participants, but they don’t own the business configuration and then the ongoing updates. 
 
-[AI Governance frameworks](https://www.ibm.com/think/topics/ai-governance) need to be in place before Agentic AI solutions are launched, and then they need to be continuously updated and monitored, especially for [model drift](https://domino.ai/data-science-dictionary/model-drift). The AI Governance model needs to be embedded in the project lifecycle, but as with all frameworks the key to success is creating a cultural mindset across an organization to embrace AI Governance. 
+[AI Governance frameworks](https://www.ibm.com/think/topics/ai-governance) need to be in place before Agentic AI solutions are launched, and then they need to be continuously updated and monitored, especially for [model drift](https://domino.ai/data-science-dictionary/model-drift). The AI Governance framework needs to be embedded in the project lifecycle, but as with all frameworks the key to success is creating a cultural mindset across an organization to embrace AI Governance. 
 
 That mindset needs to come from the top.
 
