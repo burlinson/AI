@@ -18,7 +18,7 @@ description: Tony Burlinson - Without AI Governance, Agentic AI is a liability. 
 ---
 AI Governance sounds like something regulators and compliance officers should be concerned with. The rapid rise of agentic AI - systems that plan, decide, and act autonomously - makes AI Governance a core competency for AI First firms. 
 
-We are rapidly approaching a world where AI agents could be technically capable of writing a prescription for you, handling your legal defense, and even managing your stock portfolio. 
+We are rapidly approaching a world where AI agents could be technically capable of issuing a prescription for you, handling your legal defense, and even managing your stock portfolio. 
 
 Humans in the workplace have clear boundaries for decisions and actions, sometimes explicitly documented but often implicitly understood.
 
@@ -38,7 +38,7 @@ Assuming an AI model has been fed good quality data and has been appropriately t
 
 This is where AI Governance comes into play.
 
-Firms need AI Governance to ensure that their AI model is generating output that is fair and unbiased, and the decisions made by AI agents are transparent and explainable. Law makers and regulators are particularly focused on this, with [Europe leading the way](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai). 
+Firms need AI Governance to ensure that their AI model is generating output that is fair and unbiased, and the decisions made by AI agents are transparent and explainable. Law makers and regulators are particularly focused on this, with Europe leading the way with the [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai). 
 
 **AI cannot be a black box crunching data, then making decisions in the real world.** 
 
@@ -50,7 +50,7 @@ Perhaps more important than anything else, there needs to be a **clear set of po
 
 Last, there needs to be an audit log to track and review how decisions were made. 
 
-That's lot of upfront work for Agentic AI to be successful.
+That's a lot of upfront work for Agentic AI to be successful.
 
 ![Data Governance versus AI Governance](/assets/img/Governance.webp){: .mx-auto .d-block :}
 
