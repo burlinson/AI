@@ -24,7 +24,7 @@ AI Governance lays out a corporate framework for how AI agents make decisions, w
 
 One of the first steps is to distinguish between **Data Governance** and **AI Governance**. 
 
-AI is only as good as the data it’s fed from retrieval pipelines. The phrase “garbage in, garbage out” is still relevant today. This means Data Governance and AI Governance need to work hand in hand. Agentic AI starts with good quality foundational data to make good decisions. 
+AI is only as good as the data it’s fed from [retrieval pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/). The phrase “garbage in, garbage out” is still relevant today. This means Data Governance and AI Governance need to work hand in hand. Agentic AI starts with good quality foundational data to make good decisions. 
 
 While Data Governance and AI Governance are similar disciplines, and AI is heavily reliant on Data Governance, they are two different but related frameworks. 
 
