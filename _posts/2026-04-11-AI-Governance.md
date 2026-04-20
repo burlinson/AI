@@ -18,7 +18,9 @@ description: Tony Burlinson - Without AI Governance, Agentic AI is a liability. 
 ---
 AI Governance sounds like something regulators and compliance officers should be concerned with. The rapid rise of agentic AI - systems that plan, decide, and act autonomously - makes AI Governance a core competency for AI First firms. 
 
-We are rapidly approaching a world where AI agents could be technically capable of writing a prescription for you, handling your legal defense, and even managing your stock portfolio. Humans in the workplace have clear boundaries, sometimes explicitly documented but often implicitly understood. 
+We are rapidly approaching a world where AI agents could be technically capable of writing a prescription for you, handling your legal defense, and even managing your stock portfolio. 
+
+Humans in the workplace have clear boundaries for decisions and actions, sometimes explicitly documented but often implicitly understood.
 
 AI Governance lays out a corporate framework for how AI agents make decisions, when humans need to be in the loop, and more importantly who is accountable for those decisions. Especially if a decision turns out to be a bad one.
 
