@@ -42,7 +42,7 @@ Firms need AI Governance to ensure that their AI model is generating output that
 
 **AI cannot be a black box crunching data, then making decisions in the real world.** 
 
-The [guardrails and policies](https://www.nist.gov/itl/ai-risk-management-framework) around when an agent can and cannot make a decision need to be documented. There needs to be a reliable and robust technical mechanism to enforce those rules. 
+The [guardrails and policies](https://www.nist.gov/itl/ai-risk-management-framework) around when an AI agent can and cannot make a decision need to be documented. There needs to be a reliable and robust technical mechanism to enforce those rules. 
 
 Corporations need clear legal and ethical accountability when Agentic AI makes decisions in their name. 
 
