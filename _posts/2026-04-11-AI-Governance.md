@@ -88,7 +88,7 @@ The rapid ascent of Agentic AI likely means AI Governance needs to be embraced b
     <img
       src="https://www.aimusing.blog/assets/img/GovLinkedInThumb.webp"
       alt="Article thumbnail"
-      style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px; border: 0.5px solid #ddd; cursor: pointer; display: block;"
+      style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px; border: 0.5px solid #ddd; cursor: pointer; display: block;"
     />
   </a>
   <div style="flex: 1; min-width: 220px;">
