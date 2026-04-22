@@ -83,9 +83,21 @@ The rapid ascent of Agentic AI likely means AI Governance needs to be embraced b
 <audio controls preload="none" style="width:100%; margin-bottom:20px;">
   <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Governance.mp3" type="audio/mp3">
 </audio>
-<p style="font-size: 0.8em; color: #888;">The statistics referenced in the LinkedIn post for this article are drawn from the following independent research reports:
-<br>1. Deloitte December 2025 <a href="https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html">Tech Trends 2026 Report</a>
-<br>2. McKinsey November 2025 <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">The State of AI in 2025: Agents, Innovation, and Transformation</a>
-<br>3. Gartner June 2025 <a href="https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027">Over 40% of Agentic AI Projects Will Be Canceled by End of 2027</a>
-<br>4. Deloitte January 2026 <a href="https://www.deloitte.com/us/en/about/press-room/state-of-ai-report-2026.html">State of AI in the Enterprise: From Ambition to Activation</a>
-</p>
+<div style="display: flex; align-items: flex-start; gap: 16px; padding: 12px 0; flex-wrap: wrap;">
+  <a href="https://www.aimusing.blog/assets/img/GovLinkedIn.webp" target="_blank" style="flex-shrink: 0;">
+    <img
+      src="https://www.aimusing.blog/assets/img/GovLinkedInThumb.webp"
+      alt="Article thumbnail"
+      style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px; border: 0.5px solid #ddd; cursor: pointer; display: block;"
+    />
+  </a>
+  <div style="flex: 1; min-width: 220px;">
+    <p style="font-size: 0.8em; color: #888; margin: 0; line-height: 1.7;">
+      The statistics referenced in the LinkedIn post for this article are drawn from the following independent research reports:
+      <br>1. Deloitte December 2025 <a href="https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html">Tech Trends 2026 Report</a>
+      <br>2. McKinsey November 2025 <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">The State of AI in 2025: Agents, Innovation, and Transformation</a>
+      <br>3. Gartner June 2025 <a href="https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027">Over 40% of Agentic AI Projects Will Be Canceled by End of 2027</a>
+      <br>4. Deloitte January 2026 <a href="https://www.deloitte.com/us/en/about/press-room/state-of-ai-report-2026.html">State of AI in the Enterprise: From Ambition to Activation</a>
+    </p>
+  </div>
+</div>
