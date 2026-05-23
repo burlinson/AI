@@ -29,15 +29,15 @@ Most have given their employees access to Microsoft Copilot but are [measuring s
 
 Three obstacles account for most AI POC failures:
 
-First is data quality. 
+First is **data quality**. 
 
 Firms that can't easily answer foundational questions like "Who are our clients?" and "What products do we sell?" are going to struggle. The shiny AI tools on the front end are only as good as the back-end data management capabilities. Firms still working on their data foundations have likely already missed the AI wave.
 
-Second is AI Governance.
+Second is **AI Governance**.
 
 Most organizations treat AI Governance as something that is owned by Legal & Compliance or the Technology team. It needs to be fully owned by the business. AI Governance is the gritty operational layer that sits on top of an existing Data Governance framework. Few firms know how to build AI Governance, yet it's one of the most critical components to drive production success, especially for agentic AI.
 
-Third is institutional knowledge. 
+Third is **institutional knowledge**. 
 
 Almost every firm has hired or is recruiting an AI expert. There’s no shortage of self-declared experts. Yet AI adoption is still in its infancy, and successful deployments are rare. There can’t possibly be that many ‘experts’. AI is moving too quickly for firms to onboard self-declared ‘experts’ who then need to spend months understanding the intricacies of internal data ecosystems to execute. The AI execution expertise firms need is likely already embedded deep within their organization.
 
@@ -53,6 +53,6 @@ The firms that cross the production threshold in 2026 will build a competitive a
 
 Beyond 2026, the AI differentiator won't be **size**, it will be **execution maturity**. 
 
-Firms relying on off-the-shelf front-end vendor tools will have the same [commoditized AI capabilities that their competitors are using](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). Firms that have built proprietary AI platforms, robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) from high-quality sources, [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) that generate unique insights, and [governance frameworks](https://aimusing.blog/2026-04-10-AI-Governance/) to ensure high quality output will have built [durable competitive moats](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/).
+Firms relying on off-the-shelf front-end vendor tools will have the same [commoditized AI capabilities that their competitors are using](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). Firms that have built [proprietary AI platforms](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/), robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) from high-quality sources, [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) that generate unique insights, and [governance frameworks](https://aimusing.blog/2026-04-10-AI-Governance/) to ensure high quality output will have built [durable competitive moats](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/).
 
 The firms still running AI POCs in 2027 won't be the late adopters. They will be the acquired.
