@@ -56,3 +56,12 @@ Beyond 2026, the AI differentiator won't be company **size** or budget, it will 
 Firms relying on off-the-shelf front-end vendor tools will have the same [commoditized AI capabilities that their competitors are using](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). Firms that have built [proprietary AI platforms](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/), robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) from high-quality sources, [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) that generate unique insights, and [governance frameworks](https://aimusing.blog/2026-04-10-AI-Governance/) to ensure high quality output will have built [durable competitive moats](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/).
 
 The firms still running AI POCs in 2027 won't be the late adopters. They will be the acquired.
+
+<p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
+  Listen to a discussion on this article
+  <i class="fa fa-headphones" style="margin-left:6px;"></i>
+</p>
+
+<audio controls preload="none" style="width:100%; margin-bottom:20px;">
+  <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIPOC.mp3" type="audio/mp3">
+</audio>
