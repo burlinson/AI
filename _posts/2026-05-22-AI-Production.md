@@ -39,11 +39,11 @@ Most organizations treat AI Governance as something that is owned by Legal & Com
 
 Third is **institutional knowledge**. 
 
-Almost every firm has hired or is recruiting an AI expert. There’s no shortage of self-declared experts. Yet AI adoption is still in its infancy, and successful deployments are rare. There can’t possibly be that many ‘experts’. AI is moving too quickly for firms to onboard self-declared ‘experts’ who then need to spend months understanding the intricacies of internal data ecosystems to execute. The AI execution expertise firms need is likely already embedded deep within their organization.
+Almost every firm has hired or is recruiting an AI expert. There’s no shortage of self-declared experts. Yet AI adoption is still in its infancy, and successful deployments are rare. [There can’t possibly be that many ‘experts’](https://www.media.mit.edu/posts/ai-charlatans/). AI is moving too quickly for firms to onboard self-declared ‘experts’ who then need to spend months understanding the intricacies of internal data ecosystems to execute. The AI execution expertise firms need is likely already embedded deep within their organization.
 
-[KPMG's February 2026 AI Pulse Survey](https://kpmg.com/us/en/media/news/ai-pulse-industries.html) puts it plainly: "The barrier isn't compute or capability anymore. It's whether leadership can govern systems that operate autonomously, evolve talent faster than the technology moves, and architect trust at the scale these systems demand." 
+[KPMG's February 2026 AI Pulse Survey](https://kpmg.com/us/en/media/news/ai-pulse-industries.html) puts it plainly: "_The barrier isn't compute or capability anymore. It's whether leadership can govern systems that operate autonomously, evolve talent faster than the technology moves, and architect trust at the scale these systems demand_." 
 
-The same report goes on to say, “Over half (53%) of Asset Management and Private Equity leaders expect their organization to achieve measurable ROI within the next 12-24 months.”
+The same report goes on to say, “_Over half (53%) of Asset Management and Private Equity leaders expect their organization to achieve measurable ROI within the next 12-24 months_.”
 
 **The AI hype cycle is coming to an end. There is now limited runway ahead to execute and demonstrate tangible results**. 
 
@@ -51,7 +51,7 @@ The AI race is no longer about **what** tools firms select. It's about **how** f
 
 The firms that cross the production threshold in 2026 will build a [competitive advantage](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/): faster operations, lower costs, and AI-driven client engagement at a scale existing workflows can't match.
 
-Beyond 2026, the AI differentiator won't be company **size** or budget, it will be **execution maturity**. 
+Beyond 2026, the AI differentiator won't be company **size** or budget, it will be **execution excellence**. 
 
 Firms relying on off-the-shelf front-end vendor tools will have the same [commoditized AI capabilities that their competitors are using](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). Firms that have built [proprietary AI platforms](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/), robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) from high-quality sources, [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) that generate unique insights, and [governance frameworks](https://aimusing.blog/2026-04-10-AI-Governance/) to ensure high quality output will have built [durable competitive moats](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/).
 
