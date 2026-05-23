@@ -31,7 +31,7 @@ Three obstacles account for most AI POC failures:
 
 First is **data quality**. 
 
-Firms that can't easily answer foundational questions like "Who are our clients?" and "What products do we sell?" are going to struggle. The shiny AI tools on the front end are only as good as the back-end data management capabilities. Firms still working on their data foundations have likely already missed the AI wave.
+Firms that can't easily answer foundational questions like "Who are our clients?" and "What products do we sell?" are going to struggle. The shiny AI tools on the front end are [only as good as the back-end data management capabilities](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/a-data-leaders-technical-guide-to-scaling-gen-ai). Firms still working on their data foundations have likely already missed the AI wave.
 
 Second is **AI Governance**.
 
