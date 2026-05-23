@@ -14,8 +14,8 @@ date: 2026-05-22T00:00:00Z
 thumbnail-img: /assets/img/POC.webp
 cover-img: /assets/img/POCHeader.webp
 share-img: /assets/img//POCHeader.jpg
-audio_enabled: false
-audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AppLayer.mp3"
+audio_enabled: true
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIPOC.mp3"
 audio_text: "Listen to a summary"
 description: Tony Burlinson - 78% of asset managers run AI POCs. Only 21% reach production. Discover the three obstacles blocking AI deployment and what separates leaders from laggards in 2026.
 ---
@@ -51,7 +51,7 @@ The AI race is no longer about **what** tools firms select. It's about **how** f
 
 The firms that cross the production threshold in 2026 will build a [competitive advantage](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/): faster operations, lower costs, and AI-driven client engagement at a scale existing workflows can't match.
 
-Beyond 2026, the AI differentiator won't be **size**, it will be **execution maturity**. 
+Beyond 2026, the AI differentiator won't be company **size** or budget, it will be **execution maturity**. 
 
 Firms relying on off-the-shelf front-end vendor tools will have the same [commoditized AI capabilities that their competitors are using](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/). Firms that have built [proprietary AI platforms](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/), robust [data pipelines](https://aimusing.blog/2026-03-14-Retrieval-Pipelines/) from high-quality sources, [small language models](https://aimusing.blog/2025-02-15-Small-Language-Models/) that generate unique insights, and [governance frameworks](https://aimusing.blog/2026-04-10-AI-Governance/) to ensure high quality output will have built [durable competitive moats](https://aimusing.blog/2025-04-13-Commodized-AI-AI-First/).
 
