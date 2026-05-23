@@ -21,11 +21,11 @@ description: Tony Burlinson - 78% of asset managers run AI POCs. Only 21% reach 
 ---
 Firms are confronting a blunt reality: Can they productionize AI or are they simply funding expensive POCs that drift nowhere.
 
-78% of firms are running AI POCs, but only 14% have made it to production. In financial services, that figure rises to 21%, the highest of any sector. Yet that's still a remarkably low bar, especially when you consider that firms will spend $765 billion on AI this year, growing to $1.6 trillion by 2031.
+78% of firms are running AI POCs, but only [14% have made it to production](https://www.digitalapplied.com/blog/ai-agent-scaling-gap-march-2026-pilot-to-production). In financial services, that figure rises to 21%, the highest of any sector. Yet that's still a remarkably low bar, especially when you consider that firms will spend [$765 billion on AI this year](https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out), growing to $1.6 trillion by 2031.
 
 Asset managers face a particularly acute version of this challenge. 
 
-Most have given their employees access to Microsoft Copilot but are measuring success by usage. Some have layered agents on top of existing operations but have not reimagined the underlying workflows. A handful have pushed into AI enabled client engagement but with limited understanding of the readiness of their underlying data.
+Most have given their employees access to Microsoft Copilot but are [measuring success by usage](https://fortune.com/2026/05/08/goldman-sachs-cio-marco-argenti-tech-ai-future-of-work-employees/). Some have layered agents on top of existing operations but have not reimagined the underlying workflows. A handful have pushed into AI enabled client engagement but with limited understanding of the readiness of their underlying data.
 
 Three obstacles account for most AI POC failures:
 
@@ -41,7 +41,7 @@ Third is institutional knowledge.
 
 Almost every firm has hired or is recruiting an AI expert. There’s no shortage of self-declared experts. Yet AI adoption is still in its infancy, and successful deployments are rare. There can’t possibly be that many ‘experts’. AI is moving too quickly for firms to onboard self-declared ‘experts’ who then need to spend months understanding the intricacies of internal data ecosystems to execute. The AI execution expertise firms need is likely already embedded deep within their organization.
 
-KPMG's February 2026 AI Pulse Survey puts it plainly: "The barrier isn't compute or capability anymore. It's whether leadership can govern systems that operate autonomously, evolve talent faster than the technology moves, and architect trust at the scale these systems demand." 
+[KPMG's February 2026 AI Pulse Survey](https://kpmg.com/us/en/media/news/ai-pulse-industries.html) puts it plainly: "The barrier isn't compute or capability anymore. It's whether leadership can govern systems that operate autonomously, evolve talent faster than the technology moves, and architect trust at the scale these systems demand." 
 
 The same report goes on to say, “Over half (53%) of Asset Management and Private Equity leaders expect their organization to achieve measurable ROI within the next 12-24 months.”
 
