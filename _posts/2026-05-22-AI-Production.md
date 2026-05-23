@@ -25,7 +25,7 @@ Firms are confronting a blunt reality: Can they productionize AI or are they sim
 
 Asset managers face a particularly acute version of this challenge. 
 
-Most have given their employees access to Microsoft Copilot but are [measuring success by usage](https://fortune.com/2026/05/08/goldman-sachs-cio-marco-argenti-tech-ai-future-of-work-employees/). Some have layered agents on top of existing operations but have not reimagined the underlying workflows. A handful have pushed into AI enabled client engagement but with limited understanding of the readiness of their underlying data.
+Most have given their employees access to Microsoft Copilot but are [measuring success by usage](https://fortune.com/2026/05/08/goldman-sachs-cio-marco-argenti-tech-ai-future-of-work-employees/). Some have layered agents on top of existing operations but have not reimagined their underlying workflows. A handful have pushed into AI enabled client engagement but with limited understanding of the readiness of their underlying data.
 
 Three obstacles account for most AI POC failures:
 
