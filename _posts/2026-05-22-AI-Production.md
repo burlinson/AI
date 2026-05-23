@@ -11,7 +11,7 @@ tags:
 layout: post
 author: Tony Burlinson
 date: 2026-05-22T00:00:00Z
-thumbnail-img: /assets/img/AppCollapse.webp
+thumbnail-img: /assets/img/POC.webp
 cover-img: /assets/img/AppHeader.webp
 share-img: /assets/img//AppHeader.jpg
 audio_enabled: false
