@@ -39,7 +39,7 @@ Most organizations treat AI Governance as something that is owned by Legal & Com
 
 Third is **institutional knowledge**. 
 
-Almost every firm has hired or is recruiting an AI expert. There’s no shortage of self-declared experts. Yet AI adoption is still in its infancy, and successful deployments are rare. [There can’t possibly be that many ‘experts’](https://www.media.mit.edu/posts/ai-charlatans/). AI is moving too quickly for firms to onboard self-declared ‘experts’ who then need to spend months understanding the intricacies of internal data ecosystems to execute. The AI execution expertise firms need is likely already embedded deep within their organization.
+Almost every firm has hired or is recruiting an AI expert. There’s no shortage of self-declared experts. Yet AI adoption is still in its infancy, and successful deployments are rare. [There can’t possibly be that many ‘experts’](https://www.media.mit.edu/posts/ai-charlatans/). AI is moving too quickly for firms to onboard self-declared experts who then need to spend months understanding the intricacies of internal data ecosystems to execute. The AI execution expertise firms need is likely already embedded deep within their organization.
 
 [KPMG's February 2026 AI Pulse Survey](https://kpmg.com/us/en/media/news/ai-pulse-industries.html) puts it plainly: "_The barrier isn't compute or capability anymore. It's whether leadership can govern systems that operate autonomously, evolve talent faster than the technology moves, and architect trust at the scale these systems demand_." 
 
