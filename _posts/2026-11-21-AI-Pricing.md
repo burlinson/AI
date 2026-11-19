@@ -11,7 +11,7 @@ tags:
 layout: post
 author: Tony Burlinson
 date: 2026-11-21T00:00:00Z
-thumbnail-img: /assets/img/POC.webp
+thumbnail-img: /assets/img/Token.webp
 cover-img: /assets/img/POCHeader.webp
 share-img: /assets/img//POCHeader.jpg
 audio_enabled: false
