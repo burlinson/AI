@@ -19,58 +19,32 @@ audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIPOC.mp3"
 audio_text: "Listen to a summary"
 description: "Tony Burlinson - Summary: Race to the Bottom. AI pricing war. OpenAI, Google, Anthropic and DeepSeek slash token prices by up to 90%. Why tokenmaxxing will grow and how to tie AI spend to results."
 ---
-AI's biggest failure is its inability to understand real-world context in the way humans can. It’s often the simplest everyday situation, where humans apply lateral thinking, to understand the real-world context. This is where AI stumbles.
+Early in June, Uber announced that its staff had burned through its [entire 2026 AI budget in just four months](https://marketmeglobal.com/ai-news-june-2026-weekly-roundup). The phenomenon was given a name: [“tokenmaxxing”](https://www.buildfastwithai.com/blogs/ai-news-today-june-29-2026), the practice of spending on frontier models with no understanding what value was realized.
 
-AI firms are layering morals into their models, and that’s making the situation even worse.
+Uber’s fix was similar to many other companies’: Impose a monthly token cap for each employee, with a manager’s sign-off required to get more.
 
-The intentions are good: Prevent the model from helping someone build a weapon or hurt themselves. The trouble is that a model applying those rules can’t see into the real world. It doesn’t know who is asking, or why.
+Capping employee token use positions AI as a cost to be minimized rather than a tool for optimizing productivity. It punishes innovation and trains employees to avoid AI tools. It’s a bit like firms rationing printer paper or email storage. The only people who are happy are the accountants in Finance.
 
-I recently asked AI to help me find a lost FedEx package. I could see on FedEx’s website who had signed for the delivery, but that clearly wasn’t anyone who worked at my apartment building. I asked AI to search for the name of the person who had signed for the package and see if they worked or lived close by.
+If cost is a legitimate concern, a more nuanced approach would be to identify runaway automated jobs, or look closely at teams that are heavy users and understand what they are doing with AI, rather than bluntly throttling individuals.
 
-The AI model refused. I might be stalking someone!
+In parallel to tokenmaxxing, the frontier models started cutting prices.
 
-It took me less than one minute to do a simple search on Google to find the person who had signed for the package. It had been delivered a few doors away.
+The Chinese labs started first. In May DeepSeek confirmed that a 75% discount on its model would become permanent. Xiaomi cut prices by up to 99% later that month.
 
-More recently I checked on the Alaska Senate race and asked AI at what point the Democratic candidate would have a big enough lead that it would be mathematically impossible for the Republican candidate to make up the gap in a runoff, even if they got all of the other third-party candidates’ second votes.
+Cuts to the US models followed in late July. OpenAI cut prices by up to 80%. Google followed in August with cuts of up to 50%. Anthropic followed with cuts of up to 90%.
 
-AI refused.
+The race to the bottom on pricing is already underway.
 
-It wouldn’t help me predict an election result and sternly told me that was a violation of its principles.
+Cheaper tokens won’t end tokenmaxxing; they’ll accelerate it. Every price cut allows companies to use more tokens **and therein explore** how AI can help their business grow.
 
-Instead of getting my calculator out I asked the same AI model in the same chat session to do some simple math – coincidentally the same figures it had given me in the previous answer – and it happily obliged.
+**Smart companies will take the time to understand token value by tying spend to specific business outcomes.** Counting tokens tells accountants what AI costs, whereas valuing business outcomes tells companies **if** the spend **was** worthwhile.
 
-These are somewhat irreverent examples but nonetheless demonstrate how lost AI can get when we try and teach it morals. Especially when it’s already struggling to grasp simple real-world context.
+Back to the frontier model **companies**: How will they make money if they are engaged in a price cutting war? It’s a volume game. Each token costs less, but usage continues to grow, so total spend keeps climbing. The successful frontier **companies** will help both their **customers** and **themselves** by making it **easy** for firms to tie token usage to business outcomes.
 
-It’s a bit like saying only children who are five years old or younger can be judges, then pretending to be astonished when the world starts to fall apart.
+If history is any guide, the battle between frontier models will move from price to volume, then to the deepest and broadest coverage, and finally to ease of use. By then the price may be zero, but there will be a hidden cost for both corporate and personal customers.
 
-The central problem is allowing AI to judge how a request sounds in a dark chamber of zeros and noughts.
+Search engines followed the same path in the mid-1990s. AltaVista, Excite and Lycos fought a war over who could index the most of the web. Google won that war by being smarter and simpler: It served up a simple web page that loaded instantly **with no screen clutter**. Search became free for everyone, but the hidden cost was our personal information, used to serve up targeted ads. Advertising now brings in about 73% of Alphabet’s revenue.
 
-Researchers describe over-refusal as a model [pattern-matching to a harmful category instead of reasoning about actual risk](https://behavior.engineering/failure-modes/over-refusal/).
+When the cost of AI tokens hits zero, who is really paying, and what information are we willing to give up for free AI capabilities? Search engines learned what products we wanted in the material world. AI will learn how we are thinking inside our heads, and be there to influence us as we reason, decide and then take physical actions in the tangible world.
 
-A nurse asking about a drug interaction, a novelist writing a fight scene, or a security engineer studying an attack are all [legitimate requests that AI can now refuse](https://prompt-architects.com/blog/217-why-does-ai-refuse-completely-harmless-requests).
-
-This brings us to a fundamental question: What is the purpose of AI?
-
-Is it to help humanity – on both big and small endeavors - or to tell us what it determines in a dark chamber of zeros and ones is good for us?
-
-The numbers can be large. Meta’s own safety report found that its Meta AI Instant model refused [30.3% of legitimate cybersecurity requests in chat](https://arxiv.org/pdf/2606.12429), blocking the very defenders the rules are meant to protect.
-
-Why can’t training fix this? One paper argues the AI models [learn which responses get labeled compliant, not what the rules actually mean](https://arxiv.org/pdf/2512.03048).
-
-That’s putting the cart before the horse.
-
-The rules become patterns, and patterns miss context. Especially over time as models drift. That means the simple problems AI misunderstands today could get worse. Much worse.
-
-With the passage of time we might well see AI imposing its interpretation of morality on us.
-
-Anthropic published an 84-page Constitution for Claude in January 2026. The constitution has a priority order: Human oversight comes before Claude’s own ethics; honesty is held to a higher standard than normal human ethics; prioritize judgment over rigid rules.
-
-All very profound. Yet Claude still struggles to distinguish between a human that has lost a package and stalker.
-
-What will it be doing five years from now?
-
-Philosopher Amanda Askell is the primary author of Claude’s Constitution. A recent [New York Times article](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) raises interesting questions about how the document is being interpreted by Claude and if the original intentions are being met.
-
-The AI models are being fed moral codes to protect us. Yet they don’t have sufficient awareness of real-world context to understand when we really need protecting and when we
-
-**The danger isn't so much that AI will develop its own twisted morals. It's that we will increasingly allow AI to enforce a set of morals on us that neither the models nor the humans who created them fully understand.**
+The social, economic and political implications of an AI model knowing how to nudge each individual’s internal thought processes, at exactly the right moment, to prompt specific action the physical world are enormous.
