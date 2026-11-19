@@ -17,7 +17,7 @@ share-img: /assets/img//POCHeader.jpg
 audio_enabled: false
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIPOC.mp3"
 audio_text: "Listen to a summary"
-description: Tony Burlinson - Summary: Race to the Bottom. AI pricing war: OpenAI, Google, Anthropic and DeepSeek slash token prices by up to 90%. Why tokenmaxxing will grow and how to tie AI spend to results.
+description: "Tony Burlinson - Summary: Race to the Bottom. AI pricing war: OpenAI, Google, Anthropic and DeepSeek slash token prices by up to 90%. Why tokenmaxxing will grow and how to tie AI spend to results."
 ---
 AI's biggest failure is its inability to understand real-world context in the way humans can. It’s often the simplest everyday situation, where humans apply lateral thinking, to understand the real-world context. This is where AI stumbles.
 
