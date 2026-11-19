@@ -1,0 +1,54 @@
+---
+title: "AI Slop"
+subtitle: "A Boom in Self-Declared AI Experts" 
+tags:
+  - AI First
+  - Agentic AI
+  - AI Governance
+  - Data Quality
+  - Retreival Pipelines
+  - SLM
+layout: post
+author: Tony Burlinson
+date: 2026-07-25T00:00:00Z
+thumbnail-img: /assets/img/POC.webp
+cover-img: /assets/img/POCHeader.webp
+share-img: /assets/img//POCHeader.jpg
+audio_enabled: false
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIPOC.mp3"
+audio_text: "Listen to a summary"
+description: Tony Burlinson - AI Slop: AI slop is the new spreadsheet risk. Why self-declared AI experts repeat the London Whale mistake, and how AI governance and in-house training protect firms.
+---
+In 2012 JPMorgan lost about $6 billion in the London Whale affair. A complex risk model was [manually maintained in spreadsheets](https://newstatesman.com/business/economics/2013/02/excel-most-dangerous-piece-software-world), with data copied and pasted from one mega spreadsheet to another.
+
+This approach wasn’t unique to JPMorgan.
+
+In the early 2000’s, almost every firm in the world was creating discreet ‘spreadsheet layers’ that gradually extended deep into corporate landscapes. Nobody owned the ‘spreadsheet layer’ that self-declared geniuses had created. Any prodding from the Technology or Risk teams was swiftly rebuffed as a drag on innovation.
+
+The scale and cost of the JPMorgan Whale incident abruptly brought corporate America’s attention to the risks of their free wheeling ‘spreadsheet layers’. Some of the smarter firms understood the deeper risks of letting self-declared geniuses loose with tools like Excel.
+
+**There are strong echoes with the ‘spreadsheet layers’ of the early 2000’s and the rapid expansion of AI today.**
+
+There’s an even earlier parallel: When desktop computers arrived in offices, they produced [agonizingly detailed reports printed on reams of paper](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/). The mindset back in the 1980s was: Now we have databases, we will print every single bit of information. Little to no regard was given to the quality of the information that piled up in offices in the 1990s. Productivity stalled for decades until firms realized that a competitive advantage came from filtering and summarizing large datasets and moreover creating a small set of unique insights that other firms couldn’t see.
+
+Every technology wave has brought its own gaggle of self-declared experts in the early days. They are focused much more on style rather than substance. Headlines rather than strategy. Cynically, these self-declared experts are more focused on their own short term career advancement than their employer’s long term growth.
+
+There’s a long list of opportunists masquerading as experts in [social media, crypto, and the metaverse](https://michaelcarusi.com/ai-consultants-and-prompt-engineers-should-replace-their-own-jobs-with-ai-seriously/), selling shiny stuff over substance. Some of them are good. Plenty of them took a weekend webinar. More recently, they likely tapped prompts into an AI model on their way to an interview.
+
+PwC found that [90 percent of financial services executives](https://cyprus-mail.com/2026/09/06/financial-firms-face-ai-workforce-gap-as-job-cuts-loom) believe employees using AI outside governed systems creates regulatory risk.
+
+So, what should firms do instead of waiting for risk to pile up and business models potentially collapse?
+
+Provide approved tools so employees do not go looking for their own solutions. Focus on business outcomes, not shiny stuff that sounds good in a PowerPoint. Focus on foundational high quality datasets that are controlled and governed. Implement a meaningful AI governance model. Require a named human to review and sign off on AI generated content before it ever gets in front of a client or a regulator.
+
+And perhaps more than anything else, when searching for AI expertise, firms need to find a way to expose the charlatans masquerading as experts.
+
+Although the scientific disciplines of AI and Machine Learning have been around for decades, AI as we are using it today is in its infancy. Anyone who claims to be an expert on AI is very likely lying, unless they are from the academic world.
+
+The London Whale did not need a smarter model. The model was sound, but there was a point at which it should have been migrated off Excel and onto a structed database in a production environment. Moreover, someone needed to stand up to the self-declared experts and tell them that their model is going to be implemented on a governed and scalable technology stack.
+
+**In the coming years firms are likely going to spend a lot of time and money backing themselves out of the AI slop that is being built today.**
+
+Firms that focus their AI initiatives on a business outcome first, and then are disciplined about measuring their progress against that outcome, will be better positioned; those firms will pivot or cancel sexy sounding AI initiatives long before they fail.
+
+Firms that focus on training the inhouse talent they already have on AI tools and techniques, rather than hire the self-declared experts, will be investing in both their company’s growth and their employee’s futures.
