@@ -181,3 +181,11 @@ layout: page
     });
   });
 </script>
+<script>
+  document.querySelectorAll('.like-label').forEach(function (label) {
+    label.addEventListener('click', function (e) {
+      e.preventDefault();
+      label.closest('.post-likes').querySelector('.like-btn').click();
+    });
+  });
+</script>
