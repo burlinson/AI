@@ -1,6 +1,6 @@
 ---
 title: "Race to the Bottom on Price"
-subtitle: "Cheaper tokens, bigger bills, and the end of subsidized AI" 
+subtitle: "Cheaper Tokens, Bigger Bills, and the End of Subsidized AI" 
 tags:
   - AI First
   - Agentic AI
