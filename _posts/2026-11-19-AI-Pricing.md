@@ -2,12 +2,7 @@
 title: "Race to the Bottom on Price"
 subtitle: "Cheaper Tokens, Bigger Bills, and the End of Subsidized AI" 
 tags:
-  - AI First
-  - Agentic AI
-  - AI Governance
-  - Data Quality
-  - Retreival Pipelines
-  - SLM
+  - tokenmaxxing
 layout: post
 author: Tony Burlinson
 date: 2026-11-19T00:00:00Z
