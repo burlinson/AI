@@ -1178,3 +1178,9 @@ pre {
 .post-listen i {
   margin-left: 0.25rem;
 }
+.post-likes .like-label {
+  font-family: var(--body-font);
+  font-size: 0.8rem;
+  color: #000;
+  margin-right: 4px;
+}
