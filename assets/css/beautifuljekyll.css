@@ -1178,9 +1178,17 @@ pre {
 .post-listen i {
   margin-left: 0.25rem;
 }
-.post-likes .like-label {
+.post-preview .like-label {
   font-family: var(--body-font);
   font-size: 0.8rem;
+  font-weight: normal;
   color: #000;
+  text-decoration: none;
   margin-right: 4px;
+  cursor: pointer;
+}
+
+.post-preview .like-label:hover,
+.post-preview .like-label:focus {
+  color: var(--hover-col);
 }
