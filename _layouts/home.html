@@ -100,10 +100,17 @@ layout: page
       {% endif %}
 
     </article>
-    <p class="post-likes" data-slug="{{ post.url | remove_first: '/' | split: '/' | first }}">
-      <button class="like-btn" aria-label="Like this post">👍</button>
-      <span class="likes-count">...</span>
-    </p>
+    <div class="post-actions">
+      <p class="post-likes" data-slug="{{ post.url | remove_first: '/' | split: '/' | first }}">
+        <button class="like-btn" aria-label="Like this post">👍</button>
+        <span class="likes-count">...</span>
+      </p>
+      {% if post.audio_enabled and post.audio_link %}
+      <a href="{{ post.audio_link }}" class="post-listen" target="_blank" rel="noopener" aria-label="Listen to a summary of this article">
+        Listen <i class="fa fa-headphones" aria-hidden="true"></i>
+      </a>
+      {% endif %}
+    </div>
   </li>
   {% endunless %}
   {% endfor %}
