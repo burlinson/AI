@@ -14,8 +14,8 @@ date: 2026-11-19T00:00:00Z
 thumbnail-img: /assets/img/Token.webp
 cover-img: /assets/img/AITokensHeader.webp
 share-img: /assets/img//AITokensHeader.webp
-audio_enabled: false
-audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIPOC.mp3"
+audio_enabled: true
+audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Race.mp3"
 audio_text: "Listen to a summary"
 description: "Tony Burlinson - Summary: Race to the Bottom. AI pricing war. OpenAI, Google, Anthropic and DeepSeek slash token prices by up to 90%. Why tokenmaxxing will grow and how to tie AI spend to results."
 ---
@@ -64,3 +64,12 @@ Search engines learned what products we wanted in the material world.
 AI's learning is much more profound: What we are thinking. It will be there to influence us as we reason, decide, choose, and then take physical action in the real-world.
 
 **The social, economic and political implications are enormous: AI will know how to nudge each individual’s internal thought processes, at just the right moment, to prompt action in the physical world.**
+
+<p style="margin: 20px 0; font-size: 1.1em; font-weight:600;">
+  Listen to a discussion on this article
+  <i class="fa fa-headphones" style="margin-left:6px;"></i>
+</p>
+
+<audio controls preload="none" style="width:100%; margin-bottom:20px;">
+  <source src="https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Race.mp3" type="audio/mp3">
+</audio>
