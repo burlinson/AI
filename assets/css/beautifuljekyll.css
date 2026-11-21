@@ -1149,3 +1149,32 @@ pre {
   opacity: 1;
   filter: grayscale(100%) sepia(100%) saturate(1000%) hue-rotate(190deg) brightness(0.7);
 }
+/* Like counter + Listen link row */
+.post-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 4px;
+  margin-bottom: 1.875rem;
+}
+
+.post-actions .post-likes {
+  margin: 0;
+}
+
+.post-preview .post-listen {
+  font-family: var(--body-font);
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: #000;
+  text-decoration: none;
+}
+
+.post-preview .post-listen:hover,
+.post-preview .post-listen:focus {
+  color: var(--hover-col);
+}
+
+.post-listen i {
+  margin-left: 0.25rem;
+}
