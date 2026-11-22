@@ -8,7 +8,7 @@ author: Tony Burlinson
 date: 2026-11-19T00:00:00Z
 thumbnail-img: /assets/img/Token.webp
 cover-img: /assets/img/AITokensHeader.webp
-share-img: /assets/img//AITokensHeader.webp
+share-img: /assets/img/AITokensHeader.webp
 audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Race.mp3"
 audio_text: "Listen to a summary"
