@@ -13,7 +13,7 @@ author: Tony Burlinson
 date: 2026-05-22T00:00:00Z
 thumbnail-img: /assets/img/POC.webp
 cover-img: /assets/img/POCHeader.webp
-share-img: /assets/img//POCHeader.jpg
+share-img: /assets/img/POCHeader.jpg
 audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/AIPOC.mp3"
 audio_text: "Listen to a summary"
