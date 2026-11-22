@@ -13,6 +13,7 @@ audio_enabled: true
 audio_link: "https://pub-65c570e35f364615a491ffd5402ef3e9.r2.dev/Race.mp3"
 audio_text: "Listen to a summary"
 description: "Tony Burlinson - Summary: Race to the Bottom. AI pricing war. OpenAI, Google, Anthropic and DeepSeek slash token prices by up to 90%. Why tokenmaxxing will grow and how to tie AI spend to results."
+meta-description: "Uber's staff burned through its 2026 AI budget in four months. Token prices are collapsing, yet bills keep rising. Here's why, and what to do."
 ---
 Early in June, Uber announced that its staff had burned through its [entire 2026 AI budget in just four months](https://marketmeglobal.com/ai-news-june-2026-weekly-roundup). The phenomenon was given a name: [“tokenmaxxing”](https://www.buildfastwithai.com/blogs/ai-news-today-june-29-2026), the practice of spending on AI models with no understanding what value was realized.
 
